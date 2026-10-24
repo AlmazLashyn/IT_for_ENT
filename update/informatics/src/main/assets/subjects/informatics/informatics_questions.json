@@ -1,0 +1,4256 @@
+{
+  "schemaVersion": 1,
+  "subjectId": "informatics",
+  "questions": [
+    {
+      "text": "Какое значение выведет алгоритм? Он присваивает n=2, затем выводит 2·n.",
+      "code": "n = 2\nprint(2 * n)",
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "Удвоение 2 равно 4.",
+      "id": "info-0001",
+      "topic": "algorithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Каково значение двоичного числа 11001₂ в десятичной системе?",
+      "code": "11001₂",
+      "options": [
+        "25",
+        "26",
+        "24",
+        "27"
+      ],
+      "correctIndex": 0,
+      "explanation": "Раскладываем двоичную запись по степеням двойки.",
+      "id": "info-0002",
+      "topic": "python",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Массив содержит 2 элементов. Индексация начинается с нуля. Какой индекс у последнего элемента?",
+      "code": null,
+      "options": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "correctIndex": 0,
+      "explanation": "При индексации с нуля последний индекс на единицу меньше длины.",
+      "id": "info-0003",
+      "topic": "data",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько раз выполнится тело цикла for i от 1 до 2 включительно?",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Границы цикла включают все целые числа от 1 до верхней границы.",
+      "id": "info-0004",
+      "topic": "logic",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В таблице 3 строки и 2 столбцов. Сколько ячеек содержит таблица?",
+      "code": null,
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "correctIndex": 0,
+      "explanation": "Число ячеек равно произведению количества строк и столбцов.",
+      "id": "info-0005",
+      "topic": "structures",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое число получится при переводе 2 из десятичной системы в двоичную? (запишите десятичное значение суммы разрядов)",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Значение числа при переводе в другую систему счисления не меняется.",
+      "id": "info-0006",
+      "topic": "networks",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Файл размером 2 МБ передают со скоростью 2 МБ/с. Сколько секунд займёт передача?",
+      "code": null,
+      "options": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "correctIndex": 0,
+      "explanation": "Время равно размеру, делённому на скорость; округляем вверх до целой секунды.",
+      "id": "info-0007",
+      "topic": "databases",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Для целого x=2 вычислите побитовое И: x AND 1.",
+      "code": null,
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "Младший двоичный разряд равен остатку от деления x на 2.",
+      "id": "info-0008",
+      "topic": "architecture",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В двоичном представлении без ведущих нулей сколько бит требуется для хранения чисел от 0 до 2 включительно?",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "k бит кодируют значения от 0 до 2ᵏ−1.",
+      "id": "info-0009",
+      "topic": "security",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В сети с маской /2 сколько бит IPv4 остаётся для адреса узла?",
+      "code": null,
+      "options": [
+        "30",
+        "31",
+        "29",
+        "32"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из 32 бит адреса IPv4 вычитаем 2 бит префикса.",
+      "id": "info-0010",
+      "topic": "modeling",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое значение выведет алгоритм? Он присваивает n=3, затем выводит 2·n.",
+      "code": "n = 3\nprint(2 * n)",
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "correctIndex": 0,
+      "explanation": "Удвоение 3 равно 6.",
+      "id": "info-0011",
+      "topic": "algorithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Каково значение двоичного числа 11101₂ в десятичной системе?",
+      "code": "11101₂",
+      "options": [
+        "29",
+        "30",
+        "28",
+        "31"
+      ],
+      "correctIndex": 0,
+      "explanation": "Раскладываем двоичную запись по степеням двойки.",
+      "id": "info-0012",
+      "topic": "python",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Массив содержит 3 элементов. Индексация начинается с нуля. Какой индекс у последнего элемента?",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "При индексации с нуля последний индекс на единицу меньше длины.",
+      "id": "info-0013",
+      "topic": "data",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько раз выполнится тело цикла for i от 1 до 3 включительно?",
+      "code": null,
+      "options": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "correctIndex": 0,
+      "explanation": "Границы цикла включают все целые числа от 1 до верхней границы.",
+      "id": "info-0014",
+      "topic": "logic",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В таблице 3 строки и 3 столбцов. Сколько ячеек содержит таблица?",
+      "code": null,
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ],
+      "correctIndex": 0,
+      "explanation": "Число ячеек равно произведению количества строк и столбцов.",
+      "id": "info-0015",
+      "topic": "structures",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое число получится при переводе 3 из десятичной системы в двоичную? (запишите десятичное значение суммы разрядов)",
+      "code": null,
+      "options": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "correctIndex": 0,
+      "explanation": "Значение числа при переводе в другую систему счисления не меняется.",
+      "id": "info-0016",
+      "topic": "networks",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Файл размером 3 МБ передают со скоростью 2 МБ/с. Сколько секунд займёт передача?",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Время равно размеру, делённому на скорость; округляем вверх до целой секунды.",
+      "id": "info-0017",
+      "topic": "databases",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Для целого x=3 вычислите побитовое И: x AND 1.",
+      "code": null,
+      "options": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "correctIndex": 0,
+      "explanation": "Младший двоичный разряд равен остатку от деления x на 2.",
+      "id": "info-0018",
+      "topic": "architecture",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В двоичном представлении без ведущих нулей сколько бит требуется для хранения чисел от 0 до 3 включительно?",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "k бит кодируют значения от 0 до 2ᵏ−1.",
+      "id": "info-0019",
+      "topic": "security",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В сети с маской /3 сколько бит IPv4 остаётся для адреса узла?",
+      "code": null,
+      "options": [
+        "29",
+        "30",
+        "28",
+        "31"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из 32 бит адреса IPv4 вычитаем 3 бит префикса.",
+      "id": "info-0020",
+      "topic": "modeling",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое значение выведет алгоритм? Он присваивает n=4, затем выводит 2·n.",
+      "code": "n = 4\nprint(2 * n)",
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "Удвоение 4 равно 8.",
+      "id": "info-0021",
+      "topic": "algorithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Каково значение двоичного числа 110001₂ в десятичной системе?",
+      "code": "110001₂",
+      "options": [
+        "49",
+        "50",
+        "48",
+        "51"
+      ],
+      "correctIndex": 0,
+      "explanation": "Раскладываем двоичную запись по степеням двойки.",
+      "id": "info-0022",
+      "topic": "python",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Массив содержит 4 элементов. Индексация начинается с нуля. Какой индекс у последнего элемента?",
+      "code": null,
+      "options": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "correctIndex": 0,
+      "explanation": "При индексации с нуля последний индекс на единицу меньше длины.",
+      "id": "info-0023",
+      "topic": "data",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько раз выполнится тело цикла for i от 1 до 4 включительно?",
+      "code": null,
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "Границы цикла включают все целые числа от 1 до верхней границы.",
+      "id": "info-0024",
+      "topic": "logic",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В таблице 3 строки и 4 столбцов. Сколько ячеек содержит таблица?",
+      "code": null,
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ],
+      "correctIndex": 0,
+      "explanation": "Число ячеек равно произведению количества строк и столбцов.",
+      "id": "info-0025",
+      "topic": "structures",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое число получится при переводе 4 из десятичной системы в двоичную? (запишите десятичное значение суммы разрядов)",
+      "code": null,
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "Значение числа при переводе в другую систему счисления не меняется.",
+      "id": "info-0026",
+      "topic": "networks",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Файл размером 4 МБ передают со скоростью 2 МБ/с. Сколько секунд займёт передача?",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Время равно размеру, делённому на скорость; округляем вверх до целой секунды.",
+      "id": "info-0027",
+      "topic": "databases",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Для целого x=4 вычислите побитовое И: x AND 1.",
+      "code": null,
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "Младший двоичный разряд равен остатку от деления x на 2.",
+      "id": "info-0028",
+      "topic": "architecture",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В двоичном представлении без ведущих нулей сколько бит требуется для хранения чисел от 0 до 4 включительно?",
+      "code": null,
+      "options": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "correctIndex": 0,
+      "explanation": "k бит кодируют значения от 0 до 2ᵏ−1.",
+      "id": "info-0029",
+      "topic": "security",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В сети с маской /4 сколько бит IPv4 остаётся для адреса узла?",
+      "code": null,
+      "options": [
+        "28",
+        "29",
+        "27",
+        "30"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из 32 бит адреса IPv4 вычитаем 4 бит префикса.",
+      "id": "info-0030",
+      "topic": "modeling",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое значение выведет алгоритм? Он присваивает n=5, затем выводит 2·n.",
+      "code": "n = 5\nprint(2 * n)",
+      "options": [
+        "10",
+        "11",
+        "9",
+        "12"
+      ],
+      "correctIndex": 0,
+      "explanation": "Удвоение 5 равно 10.",
+      "id": "info-0031",
+      "topic": "algorithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Каково значение двоичного числа 110101₂ в десятичной системе?",
+      "code": "110101₂",
+      "options": [
+        "53",
+        "54",
+        "52",
+        "55"
+      ],
+      "correctIndex": 0,
+      "explanation": "Раскладываем двоичную запись по степеням двойки.",
+      "id": "info-0032",
+      "topic": "python",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Массив содержит 5 элементов. Индексация начинается с нуля. Какой индекс у последнего элемента?",
+      "code": null,
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "При индексации с нуля последний индекс на единицу меньше длины.",
+      "id": "info-0033",
+      "topic": "data",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько раз выполнится тело цикла for i от 1 до 5 включительно?",
+      "code": null,
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "correctIndex": 0,
+      "explanation": "Границы цикла включают все целые числа от 1 до верхней границы.",
+      "id": "info-0034",
+      "topic": "logic",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В таблице 3 строки и 5 столбцов. Сколько ячеек содержит таблица?",
+      "code": null,
+      "options": [
+        "15",
+        "16",
+        "14",
+        "17"
+      ],
+      "correctIndex": 0,
+      "explanation": "Число ячеек равно произведению количества строк и столбцов.",
+      "id": "info-0035",
+      "topic": "structures",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое число получится при переводе 5 из десятичной системы в двоичную? (запишите десятичное значение суммы разрядов)",
+      "code": null,
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "correctIndex": 0,
+      "explanation": "Значение числа при переводе в другую систему счисления не меняется.",
+      "id": "info-0036",
+      "topic": "networks",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Файл размером 5 МБ передают со скоростью 2 МБ/с. Сколько секунд займёт передача?",
+      "code": null,
+      "options": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "correctIndex": 0,
+      "explanation": "Время равно размеру, делённому на скорость; округляем вверх до целой секунды.",
+      "id": "info-0037",
+      "topic": "databases",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Для целого x=5 вычислите побитовое И: x AND 1.",
+      "code": null,
+      "options": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "correctIndex": 0,
+      "explanation": "Младший двоичный разряд равен остатку от деления x на 2.",
+      "id": "info-0038",
+      "topic": "architecture",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В двоичном представлении без ведущих нулей сколько бит требуется для хранения чисел от 0 до 5 включительно?",
+      "code": null,
+      "options": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "correctIndex": 0,
+      "explanation": "k бит кодируют значения от 0 до 2ᵏ−1.",
+      "id": "info-0039",
+      "topic": "security",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В сети с маской /5 сколько бит IPv4 остаётся для адреса узла?",
+      "code": null,
+      "options": [
+        "27",
+        "28",
+        "26",
+        "29"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из 32 бит адреса IPv4 вычитаем 5 бит префикса.",
+      "id": "info-0040",
+      "topic": "modeling",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое значение выведет алгоритм? Он присваивает n=6, затем выводит 2·n.",
+      "code": "n = 6\nprint(2 * n)",
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ],
+      "correctIndex": 0,
+      "explanation": "Удвоение 6 равно 12.",
+      "id": "info-0041",
+      "topic": "algorithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Каково значение двоичного числа 111001₂ в десятичной системе?",
+      "code": "111001₂",
+      "options": [
+        "57",
+        "58",
+        "56",
+        "59"
+      ],
+      "correctIndex": 0,
+      "explanation": "Раскладываем двоичную запись по степеням двойки.",
+      "id": "info-0042",
+      "topic": "python",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Массив содержит 6 элементов. Индексация начинается с нуля. Какой индекс у последнего элемента?",
+      "code": null,
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "correctIndex": 0,
+      "explanation": "При индексации с нуля последний индекс на единицу меньше длины.",
+      "id": "info-0043",
+      "topic": "data",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько раз выполнится тело цикла for i от 1 до 6 включительно?",
+      "code": null,
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "correctIndex": 0,
+      "explanation": "Границы цикла включают все целые числа от 1 до верхней границы.",
+      "id": "info-0044",
+      "topic": "logic",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В таблице 3 строки и 6 столбцов. Сколько ячеек содержит таблица?",
+      "code": null,
+      "options": [
+        "18",
+        "19",
+        "17",
+        "20"
+      ],
+      "correctIndex": 0,
+      "explanation": "Число ячеек равно произведению количества строк и столбцов.",
+      "id": "info-0045",
+      "topic": "structures",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое число получится при переводе 6 из десятичной системы в двоичную? (запишите десятичное значение суммы разрядов)",
+      "code": null,
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "correctIndex": 0,
+      "explanation": "Значение числа при переводе в другую систему счисления не меняется.",
+      "id": "info-0046",
+      "topic": "networks",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Файл размером 6 МБ передают со скоростью 2 МБ/с. Сколько секунд займёт передача?",
+      "code": null,
+      "options": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "correctIndex": 0,
+      "explanation": "Время равно размеру, делённому на скорость; округляем вверх до целой секунды.",
+      "id": "info-0047",
+      "topic": "databases",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Для целого x=6 вычислите побитовое И: x AND 1.",
+      "code": null,
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "Младший двоичный разряд равен остатку от деления x на 2.",
+      "id": "info-0048",
+      "topic": "architecture",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В двоичном представлении без ведущих нулей сколько бит требуется для хранения чисел от 0 до 6 включительно?",
+      "code": null,
+      "options": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "correctIndex": 0,
+      "explanation": "k бит кодируют значения от 0 до 2ᵏ−1.",
+      "id": "info-0049",
+      "topic": "security",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В сети с маской /6 сколько бит IPv4 остаётся для адреса узла?",
+      "code": null,
+      "options": [
+        "26",
+        "27",
+        "25",
+        "28"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из 32 бит адреса IPv4 вычитаем 6 бит префикса.",
+      "id": "info-0050",
+      "topic": "modeling",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое значение выведет алгоритм? Он присваивает n=7, затем выводит 2·n.",
+      "code": "n = 7\nprint(2 * n)",
+      "options": [
+        "14",
+        "15",
+        "13",
+        "16"
+      ],
+      "correctIndex": 0,
+      "explanation": "Удвоение 7 равно 14.",
+      "id": "info-0051",
+      "topic": "algorithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Каково значение двоичного числа 111101₂ в десятичной системе?",
+      "code": "111101₂",
+      "options": [
+        "61",
+        "62",
+        "60",
+        "63"
+      ],
+      "correctIndex": 0,
+      "explanation": "Раскладываем двоичную запись по степеням двойки.",
+      "id": "info-0052",
+      "topic": "python",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Массив содержит 7 элементов. Индексация начинается с нуля. Какой индекс у последнего элемента?",
+      "code": null,
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "correctIndex": 0,
+      "explanation": "При индексации с нуля последний индекс на единицу меньше длины.",
+      "id": "info-0053",
+      "topic": "data",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько раз выполнится тело цикла for i от 1 до 7 включительно?",
+      "code": null,
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ],
+      "correctIndex": 0,
+      "explanation": "Границы цикла включают все целые числа от 1 до верхней границы.",
+      "id": "info-0054",
+      "topic": "logic",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В таблице 3 строки и 7 столбцов. Сколько ячеек содержит таблица?",
+      "code": null,
+      "options": [
+        "21",
+        "22",
+        "20",
+        "23"
+      ],
+      "correctIndex": 0,
+      "explanation": "Число ячеек равно произведению количества строк и столбцов.",
+      "id": "info-0055",
+      "topic": "structures",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое число получится при переводе 7 из десятичной системы в двоичную? (запишите десятичное значение суммы разрядов)",
+      "code": null,
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ],
+      "correctIndex": 0,
+      "explanation": "Значение числа при переводе в другую систему счисления не меняется.",
+      "id": "info-0056",
+      "topic": "networks",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Файл размером 7 МБ передают со скоростью 2 МБ/с. Сколько секунд займёт передача?",
+      "code": null,
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "Время равно размеру, делённому на скорость; округляем вверх до целой секунды.",
+      "id": "info-0057",
+      "topic": "databases",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Для целого x=7 вычислите побитовое И: x AND 1.",
+      "code": null,
+      "options": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "correctIndex": 0,
+      "explanation": "Младший двоичный разряд равен остатку от деления x на 2.",
+      "id": "info-0058",
+      "topic": "architecture",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В двоичном представлении без ведущих нулей сколько бит требуется для хранения чисел от 0 до 7 включительно?",
+      "code": null,
+      "options": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "correctIndex": 0,
+      "explanation": "k бит кодируют значения от 0 до 2ᵏ−1.",
+      "id": "info-0059",
+      "topic": "security",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В сети с маской /7 сколько бит IPv4 остаётся для адреса узла?",
+      "code": null,
+      "options": [
+        "25",
+        "26",
+        "24",
+        "27"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из 32 бит адреса IPv4 вычитаем 7 бит префикса.",
+      "id": "info-0060",
+      "topic": "modeling",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое значение выведет алгоритм? Он присваивает n=8, затем выводит 2·n.",
+      "code": "n = 8\nprint(2 * n)",
+      "options": [
+        "16",
+        "17",
+        "15",
+        "18"
+      ],
+      "correctIndex": 0,
+      "explanation": "Удвоение 8 равно 16.",
+      "id": "info-0061",
+      "topic": "algorithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Каково значение двоичного числа 1100001₂ в десятичной системе?",
+      "code": "1100001₂",
+      "options": [
+        "97",
+        "98",
+        "96",
+        "99"
+      ],
+      "correctIndex": 0,
+      "explanation": "Раскладываем двоичную запись по степеням двойки.",
+      "id": "info-0062",
+      "topic": "python",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Массив содержит 8 элементов. Индексация начинается с нуля. Какой индекс у последнего элемента?",
+      "code": null,
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ],
+      "correctIndex": 0,
+      "explanation": "При индексации с нуля последний индекс на единицу меньше длины.",
+      "id": "info-0063",
+      "topic": "data",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько раз выполнится тело цикла for i от 1 до 8 включительно?",
+      "code": null,
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "Границы цикла включают все целые числа от 1 до верхней границы.",
+      "id": "info-0064",
+      "topic": "logic",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В таблице 3 строки и 8 столбцов. Сколько ячеек содержит таблица?",
+      "code": null,
+      "options": [
+        "24",
+        "25",
+        "23",
+        "26"
+      ],
+      "correctIndex": 0,
+      "explanation": "Число ячеек равно произведению количества строк и столбцов.",
+      "id": "info-0065",
+      "topic": "structures",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое число получится при переводе 8 из десятичной системы в двоичную? (запишите десятичное значение суммы разрядов)",
+      "code": null,
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "Значение числа при переводе в другую систему счисления не меняется.",
+      "id": "info-0066",
+      "topic": "networks",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Файл размером 8 МБ передают со скоростью 2 МБ/с. Сколько секунд займёт передача?",
+      "code": null,
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "Время равно размеру, делённому на скорость; округляем вверх до целой секунды.",
+      "id": "info-0067",
+      "topic": "databases",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Для целого x=8 вычислите побитовое И: x AND 1.",
+      "code": null,
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "Младший двоичный разряд равен остатку от деления x на 2.",
+      "id": "info-0068",
+      "topic": "architecture",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В двоичном представлении без ведущих нулей сколько бит требуется для хранения чисел от 0 до 8 включительно?",
+      "code": null,
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "k бит кодируют значения от 0 до 2ᵏ−1.",
+      "id": "info-0069",
+      "topic": "security",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В сети с маской /8 сколько бит IPv4 остаётся для адреса узла?",
+      "code": null,
+      "options": [
+        "24",
+        "25",
+        "23",
+        "26"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из 32 бит адреса IPv4 вычитаем 8 бит префикса.",
+      "id": "info-0070",
+      "topic": "modeling",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое значение выведет алгоритм? Он присваивает n=9, затем выводит 2·n.",
+      "code": "n = 9\nprint(2 * n)",
+      "options": [
+        "18",
+        "19",
+        "17",
+        "20"
+      ],
+      "correctIndex": 0,
+      "explanation": "Удвоение 9 равно 18.",
+      "id": "info-0071",
+      "topic": "algorithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Каково значение двоичного числа 1100101₂ в десятичной системе?",
+      "code": "1100101₂",
+      "options": [
+        "101",
+        "102",
+        "100",
+        "103"
+      ],
+      "correctIndex": 0,
+      "explanation": "Раскладываем двоичную запись по степеням двойки.",
+      "id": "info-0072",
+      "topic": "python",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Массив содержит 9 элементов. Индексация начинается с нуля. Какой индекс у последнего элемента?",
+      "code": null,
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "При индексации с нуля последний индекс на единицу меньше длины.",
+      "id": "info-0073",
+      "topic": "data",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько раз выполнится тело цикла for i от 1 до 9 включительно?",
+      "code": null,
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ],
+      "correctIndex": 0,
+      "explanation": "Границы цикла включают все целые числа от 1 до верхней границы.",
+      "id": "info-0074",
+      "topic": "logic",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В таблице 3 строки и 9 столбцов. Сколько ячеек содержит таблица?",
+      "code": null,
+      "options": [
+        "27",
+        "28",
+        "26",
+        "29"
+      ],
+      "correctIndex": 0,
+      "explanation": "Число ячеек равно произведению количества строк и столбцов.",
+      "id": "info-0075",
+      "topic": "structures",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое число получится при переводе 9 из десятичной системы в двоичную? (запишите десятичное значение суммы разрядов)",
+      "code": null,
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ],
+      "correctIndex": 0,
+      "explanation": "Значение числа при переводе в другую систему счисления не меняется.",
+      "id": "info-0076",
+      "topic": "networks",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Файл размером 9 МБ передают со скоростью 2 МБ/с. Сколько секунд займёт передача?",
+      "code": null,
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "correctIndex": 0,
+      "explanation": "Время равно размеру, делённому на скорость; округляем вверх до целой секунды.",
+      "id": "info-0077",
+      "topic": "databases",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Для целого x=9 вычислите побитовое И: x AND 1.",
+      "code": null,
+      "options": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "correctIndex": 0,
+      "explanation": "Младший двоичный разряд равен остатку от деления x на 2.",
+      "id": "info-0078",
+      "topic": "architecture",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В двоичном представлении без ведущих нулей сколько бит требуется для хранения чисел от 0 до 9 включительно?",
+      "code": null,
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "k бит кодируют значения от 0 до 2ᵏ−1.",
+      "id": "info-0079",
+      "topic": "security",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В сети с маской /9 сколько бит IPv4 остаётся для адреса узла?",
+      "code": null,
+      "options": [
+        "23",
+        "24",
+        "22",
+        "25"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из 32 бит адреса IPv4 вычитаем 9 бит префикса.",
+      "id": "info-0080",
+      "topic": "modeling",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое значение выведет алгоритм? Он присваивает n=10, затем выводит 2·n.",
+      "code": "n = 10\nprint(2 * n)",
+      "options": [
+        "20",
+        "21",
+        "19",
+        "22"
+      ],
+      "correctIndex": 0,
+      "explanation": "Удвоение 10 равно 20.",
+      "id": "info-0081",
+      "topic": "algorithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Каково значение двоичного числа 1101001₂ в десятичной системе?",
+      "code": "1101001₂",
+      "options": [
+        "105",
+        "106",
+        "104",
+        "107"
+      ],
+      "correctIndex": 0,
+      "explanation": "Раскладываем двоичную запись по степеням двойки.",
+      "id": "info-0082",
+      "topic": "python",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Массив содержит 10 элементов. Индексация начинается с нуля. Какой индекс у последнего элемента?",
+      "code": null,
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ],
+      "correctIndex": 0,
+      "explanation": "При индексации с нуля последний индекс на единицу меньше длины.",
+      "id": "info-0083",
+      "topic": "data",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько раз выполнится тело цикла for i от 1 до 10 включительно?",
+      "code": null,
+      "options": [
+        "10",
+        "11",
+        "9",
+        "12"
+      ],
+      "correctIndex": 0,
+      "explanation": "Границы цикла включают все целые числа от 1 до верхней границы.",
+      "id": "info-0084",
+      "topic": "logic",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В таблице 3 строки и 10 столбцов. Сколько ячеек содержит таблица?",
+      "code": null,
+      "options": [
+        "30",
+        "31",
+        "29",
+        "32"
+      ],
+      "correctIndex": 0,
+      "explanation": "Число ячеек равно произведению количества строк и столбцов.",
+      "id": "info-0085",
+      "topic": "structures",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое число получится при переводе 10 из десятичной системы в двоичную? (запишите десятичное значение суммы разрядов)",
+      "code": null,
+      "options": [
+        "10",
+        "11",
+        "9",
+        "12"
+      ],
+      "correctIndex": 0,
+      "explanation": "Значение числа при переводе в другую систему счисления не меняется.",
+      "id": "info-0086",
+      "topic": "networks",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Файл размером 10 МБ передают со скоростью 2 МБ/с. Сколько секунд займёт передача?",
+      "code": null,
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "correctIndex": 0,
+      "explanation": "Время равно размеру, делённому на скорость; округляем вверх до целой секунды.",
+      "id": "info-0087",
+      "topic": "databases",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Для целого x=10 вычислите побитовое И: x AND 1.",
+      "code": null,
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "Младший двоичный разряд равен остатку от деления x на 2.",
+      "id": "info-0088",
+      "topic": "architecture",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В двоичном представлении без ведущих нулей сколько бит требуется для хранения чисел от 0 до 10 включительно?",
+      "code": null,
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "k бит кодируют значения от 0 до 2ᵏ−1.",
+      "id": "info-0089",
+      "topic": "security",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В сети с маской /10 сколько бит IPv4 остаётся для адреса узла?",
+      "code": null,
+      "options": [
+        "22",
+        "23",
+        "21",
+        "24"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из 32 бит адреса IPv4 вычитаем 10 бит префикса.",
+      "id": "info-0090",
+      "topic": "modeling",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое значение выведет алгоритм? Он присваивает n=11, затем выводит 2·n.",
+      "code": "n = 11\nprint(2 * n)",
+      "options": [
+        "22",
+        "23",
+        "21",
+        "24"
+      ],
+      "correctIndex": 0,
+      "explanation": "Удвоение 11 равно 22.",
+      "id": "info-0091",
+      "topic": "algorithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Каково значение двоичного числа 1101101₂ в десятичной системе?",
+      "code": "1101101₂",
+      "options": [
+        "109",
+        "110",
+        "108",
+        "111"
+      ],
+      "correctIndex": 0,
+      "explanation": "Раскладываем двоичную запись по степеням двойки.",
+      "id": "info-0092",
+      "topic": "python",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Массив содержит 11 элементов. Индексация начинается с нуля. Какой индекс у последнего элемента?",
+      "code": null,
+      "options": [
+        "10",
+        "11",
+        "9",
+        "12"
+      ],
+      "correctIndex": 0,
+      "explanation": "При индексации с нуля последний индекс на единицу меньше длины.",
+      "id": "info-0093",
+      "topic": "data",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько раз выполнится тело цикла for i от 1 до 11 включительно?",
+      "code": null,
+      "options": [
+        "11",
+        "12",
+        "10",
+        "13"
+      ],
+      "correctIndex": 0,
+      "explanation": "Границы цикла включают все целые числа от 1 до верхней границы.",
+      "id": "info-0094",
+      "topic": "logic",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В таблице 3 строки и 11 столбцов. Сколько ячеек содержит таблица?",
+      "code": null,
+      "options": [
+        "33",
+        "34",
+        "32",
+        "35"
+      ],
+      "correctIndex": 0,
+      "explanation": "Число ячеек равно произведению количества строк и столбцов.",
+      "id": "info-0095",
+      "topic": "structures",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое число получится при переводе 11 из десятичной системы в двоичную? (запишите десятичное значение суммы разрядов)",
+      "code": null,
+      "options": [
+        "11",
+        "12",
+        "10",
+        "13"
+      ],
+      "correctIndex": 0,
+      "explanation": "Значение числа при переводе в другую систему счисления не меняется.",
+      "id": "info-0096",
+      "topic": "networks",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Файл размером 11 МБ передают со скоростью 2 МБ/с. Сколько секунд займёт передача?",
+      "code": null,
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "correctIndex": 0,
+      "explanation": "Время равно размеру, делённому на скорость; округляем вверх до целой секунды.",
+      "id": "info-0097",
+      "topic": "databases",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Для целого x=11 вычислите побитовое И: x AND 1.",
+      "code": null,
+      "options": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "correctIndex": 0,
+      "explanation": "Младший двоичный разряд равен остатку от деления x на 2.",
+      "id": "info-0098",
+      "topic": "architecture",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В двоичном представлении без ведущих нулей сколько бит требуется для хранения чисел от 0 до 11 включительно?",
+      "code": null,
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "k бит кодируют значения от 0 до 2ᵏ−1.",
+      "id": "info-0099",
+      "topic": "security",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В сети с маской /11 сколько бит IPv4 остаётся для адреса узла?",
+      "code": null,
+      "options": [
+        "21",
+        "22",
+        "20",
+        "23"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из 32 бит адреса IPv4 вычитаем 11 бит префикса.",
+      "id": "info-0100",
+      "topic": "modeling",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое значение выведет алгоритм? Он присваивает n=12, затем выводит 2·n.",
+      "code": "n = 12\nprint(2 * n)",
+      "options": [
+        "24",
+        "25",
+        "23",
+        "26"
+      ],
+      "correctIndex": 0,
+      "explanation": "Удвоение 12 равно 24.",
+      "id": "info-0101",
+      "topic": "algorithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Каково значение двоичного числа 1110001₂ в десятичной системе?",
+      "code": "1110001₂",
+      "options": [
+        "113",
+        "114",
+        "112",
+        "115"
+      ],
+      "correctIndex": 0,
+      "explanation": "Раскладываем двоичную запись по степеням двойки.",
+      "id": "info-0102",
+      "topic": "python",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Массив содержит 12 элементов. Индексация начинается с нуля. Какой индекс у последнего элемента?",
+      "code": null,
+      "options": [
+        "11",
+        "12",
+        "10",
+        "13"
+      ],
+      "correctIndex": 0,
+      "explanation": "При индексации с нуля последний индекс на единицу меньше длины.",
+      "id": "info-0103",
+      "topic": "data",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько раз выполнится тело цикла for i от 1 до 12 включительно?",
+      "code": null,
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ],
+      "correctIndex": 0,
+      "explanation": "Границы цикла включают все целые числа от 1 до верхней границы.",
+      "id": "info-0104",
+      "topic": "logic",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В таблице 3 строки и 12 столбцов. Сколько ячеек содержит таблица?",
+      "code": null,
+      "options": [
+        "36",
+        "37",
+        "35",
+        "38"
+      ],
+      "correctIndex": 0,
+      "explanation": "Число ячеек равно произведению количества строк и столбцов.",
+      "id": "info-0105",
+      "topic": "structures",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое число получится при переводе 12 из десятичной системы в двоичную? (запишите десятичное значение суммы разрядов)",
+      "code": null,
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ],
+      "correctIndex": 0,
+      "explanation": "Значение числа при переводе в другую систему счисления не меняется.",
+      "id": "info-0106",
+      "topic": "networks",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Файл размером 12 МБ передают со скоростью 2 МБ/с. Сколько секунд займёт передача?",
+      "code": null,
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "correctIndex": 0,
+      "explanation": "Время равно размеру, делённому на скорость; округляем вверх до целой секунды.",
+      "id": "info-0107",
+      "topic": "databases",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Для целого x=12 вычислите побитовое И: x AND 1.",
+      "code": null,
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "Младший двоичный разряд равен остатку от деления x на 2.",
+      "id": "info-0108",
+      "topic": "architecture",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В двоичном представлении без ведущих нулей сколько бит требуется для хранения чисел от 0 до 12 включительно?",
+      "code": null,
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "k бит кодируют значения от 0 до 2ᵏ−1.",
+      "id": "info-0109",
+      "topic": "security",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В сети с маской /12 сколько бит IPv4 остаётся для адреса узла?",
+      "code": null,
+      "options": [
+        "20",
+        "21",
+        "19",
+        "22"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из 32 бит адреса IPv4 вычитаем 12 бит префикса.",
+      "id": "info-0110",
+      "topic": "modeling",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое значение выведет алгоритм? Он присваивает n=13, затем выводит 2·n.",
+      "code": "n = 13\nprint(2 * n)",
+      "options": [
+        "26",
+        "27",
+        "25",
+        "28"
+      ],
+      "correctIndex": 0,
+      "explanation": "Удвоение 13 равно 26.",
+      "id": "info-0111",
+      "topic": "algorithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Каково значение двоичного числа 1110101₂ в десятичной системе?",
+      "code": "1110101₂",
+      "options": [
+        "117",
+        "118",
+        "116",
+        "119"
+      ],
+      "correctIndex": 0,
+      "explanation": "Раскладываем двоичную запись по степеням двойки.",
+      "id": "info-0112",
+      "topic": "python",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Массив содержит 13 элементов. Индексация начинается с нуля. Какой индекс у последнего элемента?",
+      "code": null,
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ],
+      "correctIndex": 0,
+      "explanation": "При индексации с нуля последний индекс на единицу меньше длины.",
+      "id": "info-0113",
+      "topic": "data",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько раз выполнится тело цикла for i от 1 до 13 включительно?",
+      "code": null,
+      "options": [
+        "13",
+        "14",
+        "12",
+        "15"
+      ],
+      "correctIndex": 0,
+      "explanation": "Границы цикла включают все целые числа от 1 до верхней границы.",
+      "id": "info-0114",
+      "topic": "logic",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В таблице 3 строки и 13 столбцов. Сколько ячеек содержит таблица?",
+      "code": null,
+      "options": [
+        "39",
+        "40",
+        "38",
+        "41"
+      ],
+      "correctIndex": 0,
+      "explanation": "Число ячеек равно произведению количества строк и столбцов.",
+      "id": "info-0115",
+      "topic": "structures",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое число получится при переводе 13 из десятичной системы в двоичную? (запишите десятичное значение суммы разрядов)",
+      "code": null,
+      "options": [
+        "13",
+        "14",
+        "12",
+        "15"
+      ],
+      "correctIndex": 0,
+      "explanation": "Значение числа при переводе в другую систему счисления не меняется.",
+      "id": "info-0116",
+      "topic": "networks",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Файл размером 13 МБ передают со скоростью 2 МБ/с. Сколько секунд займёт передача?",
+      "code": null,
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ],
+      "correctIndex": 0,
+      "explanation": "Время равно размеру, делённому на скорость; округляем вверх до целой секунды.",
+      "id": "info-0117",
+      "topic": "databases",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Для целого x=13 вычислите побитовое И: x AND 1.",
+      "code": null,
+      "options": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "correctIndex": 0,
+      "explanation": "Младший двоичный разряд равен остатку от деления x на 2.",
+      "id": "info-0118",
+      "topic": "architecture",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В двоичном представлении без ведущих нулей сколько бит требуется для хранения чисел от 0 до 13 включительно?",
+      "code": null,
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "k бит кодируют значения от 0 до 2ᵏ−1.",
+      "id": "info-0119",
+      "topic": "security",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В сети с маской /13 сколько бит IPv4 остаётся для адреса узла?",
+      "code": null,
+      "options": [
+        "19",
+        "20",
+        "18",
+        "21"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из 32 бит адреса IPv4 вычитаем 13 бит префикса.",
+      "id": "info-0120",
+      "topic": "modeling",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое значение выведет алгоритм? Он присваивает n=14, затем выводит 2·n.",
+      "code": "n = 14\nprint(2 * n)",
+      "options": [
+        "28",
+        "29",
+        "27",
+        "30"
+      ],
+      "correctIndex": 0,
+      "explanation": "Удвоение 14 равно 28.",
+      "id": "info-0121",
+      "topic": "algorithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Каково значение двоичного числа 1111001₂ в десятичной системе?",
+      "code": "1111001₂",
+      "options": [
+        "121",
+        "122",
+        "120",
+        "123"
+      ],
+      "correctIndex": 0,
+      "explanation": "Раскладываем двоичную запись по степеням двойки.",
+      "id": "info-0122",
+      "topic": "python",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Массив содержит 14 элементов. Индексация начинается с нуля. Какой индекс у последнего элемента?",
+      "code": null,
+      "options": [
+        "13",
+        "14",
+        "12",
+        "15"
+      ],
+      "correctIndex": 0,
+      "explanation": "При индексации с нуля последний индекс на единицу меньше длины.",
+      "id": "info-0123",
+      "topic": "data",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько раз выполнится тело цикла for i от 1 до 14 включительно?",
+      "code": null,
+      "options": [
+        "14",
+        "15",
+        "13",
+        "16"
+      ],
+      "correctIndex": 0,
+      "explanation": "Границы цикла включают все целые числа от 1 до верхней границы.",
+      "id": "info-0124",
+      "topic": "logic",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В таблице 3 строки и 14 столбцов. Сколько ячеек содержит таблица?",
+      "code": null,
+      "options": [
+        "42",
+        "43",
+        "41",
+        "44"
+      ],
+      "correctIndex": 0,
+      "explanation": "Число ячеек равно произведению количества строк и столбцов.",
+      "id": "info-0125",
+      "topic": "structures",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое число получится при переводе 14 из десятичной системы в двоичную? (запишите десятичное значение суммы разрядов)",
+      "code": null,
+      "options": [
+        "14",
+        "15",
+        "13",
+        "16"
+      ],
+      "correctIndex": 0,
+      "explanation": "Значение числа при переводе в другую систему счисления не меняется.",
+      "id": "info-0126",
+      "topic": "networks",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Файл размером 14 МБ передают со скоростью 2 МБ/с. Сколько секунд займёт передача?",
+      "code": null,
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ],
+      "correctIndex": 0,
+      "explanation": "Время равно размеру, делённому на скорость; округляем вверх до целой секунды.",
+      "id": "info-0127",
+      "topic": "databases",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Для целого x=14 вычислите побитовое И: x AND 1.",
+      "code": null,
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "Младший двоичный разряд равен остатку от деления x на 2.",
+      "id": "info-0128",
+      "topic": "architecture",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В двоичном представлении без ведущих нулей сколько бит требуется для хранения чисел от 0 до 14 включительно?",
+      "code": null,
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "k бит кодируют значения от 0 до 2ᵏ−1.",
+      "id": "info-0129",
+      "topic": "security",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В сети с маской /14 сколько бит IPv4 остаётся для адреса узла?",
+      "code": null,
+      "options": [
+        "18",
+        "19",
+        "17",
+        "20"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из 32 бит адреса IPv4 вычитаем 14 бит префикса.",
+      "id": "info-0130",
+      "topic": "modeling",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое значение выведет алгоритм? Он присваивает n=15, затем выводит 2·n.",
+      "code": "n = 15\nprint(2 * n)",
+      "options": [
+        "30",
+        "31",
+        "29",
+        "32"
+      ],
+      "correctIndex": 0,
+      "explanation": "Удвоение 15 равно 30.",
+      "id": "info-0131",
+      "topic": "algorithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Каково значение двоичного числа 1111101₂ в десятичной системе?",
+      "code": "1111101₂",
+      "options": [
+        "125",
+        "126",
+        "124",
+        "127"
+      ],
+      "correctIndex": 0,
+      "explanation": "Раскладываем двоичную запись по степеням двойки.",
+      "id": "info-0132",
+      "topic": "python",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Массив содержит 15 элементов. Индексация начинается с нуля. Какой индекс у последнего элемента?",
+      "code": null,
+      "options": [
+        "14",
+        "15",
+        "13",
+        "16"
+      ],
+      "correctIndex": 0,
+      "explanation": "При индексации с нуля последний индекс на единицу меньше длины.",
+      "id": "info-0133",
+      "topic": "data",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько раз выполнится тело цикла for i от 1 до 15 включительно?",
+      "code": null,
+      "options": [
+        "15",
+        "16",
+        "14",
+        "17"
+      ],
+      "correctIndex": 0,
+      "explanation": "Границы цикла включают все целые числа от 1 до верхней границы.",
+      "id": "info-0134",
+      "topic": "logic",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В таблице 3 строки и 15 столбцов. Сколько ячеек содержит таблица?",
+      "code": null,
+      "options": [
+        "45",
+        "46",
+        "44",
+        "47"
+      ],
+      "correctIndex": 0,
+      "explanation": "Число ячеек равно произведению количества строк и столбцов.",
+      "id": "info-0135",
+      "topic": "structures",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое число получится при переводе 15 из десятичной системы в двоичную? (запишите десятичное значение суммы разрядов)",
+      "code": null,
+      "options": [
+        "15",
+        "16",
+        "14",
+        "17"
+      ],
+      "correctIndex": 0,
+      "explanation": "Значение числа при переводе в другую систему счисления не меняется.",
+      "id": "info-0136",
+      "topic": "networks",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Файл размером 15 МБ передают со скоростью 2 МБ/с. Сколько секунд займёт передача?",
+      "code": null,
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "Время равно размеру, делённому на скорость; округляем вверх до целой секунды.",
+      "id": "info-0137",
+      "topic": "databases",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Для целого x=15 вычислите побитовое И: x AND 1.",
+      "code": null,
+      "options": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "correctIndex": 0,
+      "explanation": "Младший двоичный разряд равен остатку от деления x на 2.",
+      "id": "info-0138",
+      "topic": "architecture",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В двоичном представлении без ведущих нулей сколько бит требуется для хранения чисел от 0 до 15 включительно?",
+      "code": null,
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "k бит кодируют значения от 0 до 2ᵏ−1.",
+      "id": "info-0139",
+      "topic": "security",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В сети с маской /15 сколько бит IPv4 остаётся для адреса узла?",
+      "code": null,
+      "options": [
+        "17",
+        "18",
+        "16",
+        "19"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из 32 бит адреса IPv4 вычитаем 15 бит префикса.",
+      "id": "info-0140",
+      "topic": "modeling",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое значение выведет алгоритм? Он присваивает n=16, затем выводит 2·n.",
+      "code": "n = 16\nprint(2 * n)",
+      "options": [
+        "32",
+        "33",
+        "31",
+        "34"
+      ],
+      "correctIndex": 0,
+      "explanation": "Удвоение 16 равно 32.",
+      "id": "info-0141",
+      "topic": "algorithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Каково значение двоичного числа 11000001₂ в десятичной системе?",
+      "code": "11000001₂",
+      "options": [
+        "193",
+        "194",
+        "192",
+        "195"
+      ],
+      "correctIndex": 0,
+      "explanation": "Раскладываем двоичную запись по степеням двойки.",
+      "id": "info-0142",
+      "topic": "python",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Массив содержит 16 элементов. Индексация начинается с нуля. Какой индекс у последнего элемента?",
+      "code": null,
+      "options": [
+        "15",
+        "16",
+        "14",
+        "17"
+      ],
+      "correctIndex": 0,
+      "explanation": "При индексации с нуля последний индекс на единицу меньше длины.",
+      "id": "info-0143",
+      "topic": "data",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько раз выполнится тело цикла for i от 1 до 16 включительно?",
+      "code": null,
+      "options": [
+        "16",
+        "17",
+        "15",
+        "18"
+      ],
+      "correctIndex": 0,
+      "explanation": "Границы цикла включают все целые числа от 1 до верхней границы.",
+      "id": "info-0144",
+      "topic": "logic",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В таблице 3 строки и 16 столбцов. Сколько ячеек содержит таблица?",
+      "code": null,
+      "options": [
+        "48",
+        "49",
+        "47",
+        "50"
+      ],
+      "correctIndex": 0,
+      "explanation": "Число ячеек равно произведению количества строк и столбцов.",
+      "id": "info-0145",
+      "topic": "structures",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое число получится при переводе 16 из десятичной системы в двоичную? (запишите десятичное значение суммы разрядов)",
+      "code": null,
+      "options": [
+        "16",
+        "17",
+        "15",
+        "18"
+      ],
+      "correctIndex": 0,
+      "explanation": "Значение числа при переводе в другую систему счисления не меняется.",
+      "id": "info-0146",
+      "topic": "networks",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Файл размером 16 МБ передают со скоростью 2 МБ/с. Сколько секунд займёт передача?",
+      "code": null,
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "Время равно размеру, делённому на скорость; округляем вверх до целой секунды.",
+      "id": "info-0147",
+      "topic": "databases",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Для целого x=16 вычислите побитовое И: x AND 1.",
+      "code": null,
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "Младший двоичный разряд равен остатку от деления x на 2.",
+      "id": "info-0148",
+      "topic": "architecture",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В двоичном представлении без ведущих нулей сколько бит требуется для хранения чисел от 0 до 16 включительно?",
+      "code": null,
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "correctIndex": 0,
+      "explanation": "k бит кодируют значения от 0 до 2ᵏ−1.",
+      "id": "info-0149",
+      "topic": "security",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В сети с маской /16 сколько бит IPv4 остаётся для адреса узла?",
+      "code": null,
+      "options": [
+        "16",
+        "17",
+        "15",
+        "18"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из 32 бит адреса IPv4 вычитаем 16 бит префикса.",
+      "id": "info-0150",
+      "topic": "modeling",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое значение выведет алгоритм? Он присваивает n=17, затем выводит 2·n.",
+      "code": "n = 17\nprint(2 * n)",
+      "options": [
+        "34",
+        "35",
+        "33",
+        "36"
+      ],
+      "correctIndex": 0,
+      "explanation": "Удвоение 17 равно 34.",
+      "id": "info-0151",
+      "topic": "algorithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Каково значение двоичного числа 11000101₂ в десятичной системе?",
+      "code": "11000101₂",
+      "options": [
+        "197",
+        "198",
+        "196",
+        "199"
+      ],
+      "correctIndex": 0,
+      "explanation": "Раскладываем двоичную запись по степеням двойки.",
+      "id": "info-0152",
+      "topic": "python",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Массив содержит 17 элементов. Индексация начинается с нуля. Какой индекс у последнего элемента?",
+      "code": null,
+      "options": [
+        "16",
+        "17",
+        "15",
+        "18"
+      ],
+      "correctIndex": 0,
+      "explanation": "При индексации с нуля последний индекс на единицу меньше длины.",
+      "id": "info-0153",
+      "topic": "data",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько раз выполнится тело цикла for i от 1 до 17 включительно?",
+      "code": null,
+      "options": [
+        "17",
+        "18",
+        "16",
+        "19"
+      ],
+      "correctIndex": 0,
+      "explanation": "Границы цикла включают все целые числа от 1 до верхней границы.",
+      "id": "info-0154",
+      "topic": "logic",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В таблице 3 строки и 17 столбцов. Сколько ячеек содержит таблица?",
+      "code": null,
+      "options": [
+        "51",
+        "52",
+        "50",
+        "53"
+      ],
+      "correctIndex": 0,
+      "explanation": "Число ячеек равно произведению количества строк и столбцов.",
+      "id": "info-0155",
+      "topic": "structures",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое число получится при переводе 17 из десятичной системы в двоичную? (запишите десятичное значение суммы разрядов)",
+      "code": null,
+      "options": [
+        "17",
+        "18",
+        "16",
+        "19"
+      ],
+      "correctIndex": 0,
+      "explanation": "Значение числа при переводе в другую систему счисления не меняется.",
+      "id": "info-0156",
+      "topic": "networks",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Файл размером 17 МБ передают со скоростью 2 МБ/с. Сколько секунд займёт передача?",
+      "code": null,
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ],
+      "correctIndex": 0,
+      "explanation": "Время равно размеру, делённому на скорость; округляем вверх до целой секунды.",
+      "id": "info-0157",
+      "topic": "databases",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Для целого x=17 вычислите побитовое И: x AND 1.",
+      "code": null,
+      "options": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "correctIndex": 0,
+      "explanation": "Младший двоичный разряд равен остатку от деления x на 2.",
+      "id": "info-0158",
+      "topic": "architecture",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В двоичном представлении без ведущих нулей сколько бит требуется для хранения чисел от 0 до 17 включительно?",
+      "code": null,
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "correctIndex": 0,
+      "explanation": "k бит кодируют значения от 0 до 2ᵏ−1.",
+      "id": "info-0159",
+      "topic": "security",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В сети с маской /17 сколько бит IPv4 остаётся для адреса узла?",
+      "code": null,
+      "options": [
+        "15",
+        "16",
+        "14",
+        "17"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из 32 бит адреса IPv4 вычитаем 17 бит префикса.",
+      "id": "info-0160",
+      "topic": "modeling",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое значение выведет алгоритм? Он присваивает n=18, затем выводит 2·n.",
+      "code": "n = 18\nprint(2 * n)",
+      "options": [
+        "36",
+        "37",
+        "35",
+        "38"
+      ],
+      "correctIndex": 0,
+      "explanation": "Удвоение 18 равно 36.",
+      "id": "info-0161",
+      "topic": "algorithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Каково значение двоичного числа 11001001₂ в десятичной системе?",
+      "code": "11001001₂",
+      "options": [
+        "201",
+        "202",
+        "200",
+        "203"
+      ],
+      "correctIndex": 0,
+      "explanation": "Раскладываем двоичную запись по степеням двойки.",
+      "id": "info-0162",
+      "topic": "python",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Массив содержит 18 элементов. Индексация начинается с нуля. Какой индекс у последнего элемента?",
+      "code": null,
+      "options": [
+        "17",
+        "18",
+        "16",
+        "19"
+      ],
+      "correctIndex": 0,
+      "explanation": "При индексации с нуля последний индекс на единицу меньше длины.",
+      "id": "info-0163",
+      "topic": "data",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько раз выполнится тело цикла for i от 1 до 18 включительно?",
+      "code": null,
+      "options": [
+        "18",
+        "19",
+        "17",
+        "20"
+      ],
+      "correctIndex": 0,
+      "explanation": "Границы цикла включают все целые числа от 1 до верхней границы.",
+      "id": "info-0164",
+      "topic": "logic",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В таблице 3 строки и 18 столбцов. Сколько ячеек содержит таблица?",
+      "code": null,
+      "options": [
+        "54",
+        "55",
+        "53",
+        "56"
+      ],
+      "correctIndex": 0,
+      "explanation": "Число ячеек равно произведению количества строк и столбцов.",
+      "id": "info-0165",
+      "topic": "structures",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое число получится при переводе 18 из десятичной системы в двоичную? (запишите десятичное значение суммы разрядов)",
+      "code": null,
+      "options": [
+        "18",
+        "19",
+        "17",
+        "20"
+      ],
+      "correctIndex": 0,
+      "explanation": "Значение числа при переводе в другую систему счисления не меняется.",
+      "id": "info-0166",
+      "topic": "networks",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Файл размером 18 МБ передают со скоростью 2 МБ/с. Сколько секунд займёт передача?",
+      "code": null,
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ],
+      "correctIndex": 0,
+      "explanation": "Время равно размеру, делённому на скорость; округляем вверх до целой секунды.",
+      "id": "info-0167",
+      "topic": "databases",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Для целого x=18 вычислите побитовое И: x AND 1.",
+      "code": null,
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "Младший двоичный разряд равен остатку от деления x на 2.",
+      "id": "info-0168",
+      "topic": "architecture",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В двоичном представлении без ведущих нулей сколько бит требуется для хранения чисел от 0 до 18 включительно?",
+      "code": null,
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "correctIndex": 0,
+      "explanation": "k бит кодируют значения от 0 до 2ᵏ−1.",
+      "id": "info-0169",
+      "topic": "security",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В сети с маской /18 сколько бит IPv4 остаётся для адреса узла?",
+      "code": null,
+      "options": [
+        "14",
+        "15",
+        "13",
+        "16"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из 32 бит адреса IPv4 вычитаем 18 бит префикса.",
+      "id": "info-0170",
+      "topic": "modeling",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое значение выведет алгоритм? Он присваивает n=19, затем выводит 2·n.",
+      "code": "n = 19\nprint(2 * n)",
+      "options": [
+        "38",
+        "39",
+        "37",
+        "40"
+      ],
+      "correctIndex": 0,
+      "explanation": "Удвоение 19 равно 38.",
+      "id": "info-0171",
+      "topic": "algorithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Каково значение двоичного числа 11001101₂ в десятичной системе?",
+      "code": "11001101₂",
+      "options": [
+        "205",
+        "206",
+        "204",
+        "207"
+      ],
+      "correctIndex": 0,
+      "explanation": "Раскладываем двоичную запись по степеням двойки.",
+      "id": "info-0172",
+      "topic": "python",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Массив содержит 19 элементов. Индексация начинается с нуля. Какой индекс у последнего элемента?",
+      "code": null,
+      "options": [
+        "18",
+        "19",
+        "17",
+        "20"
+      ],
+      "correctIndex": 0,
+      "explanation": "При индексации с нуля последний индекс на единицу меньше длины.",
+      "id": "info-0173",
+      "topic": "data",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько раз выполнится тело цикла for i от 1 до 19 включительно?",
+      "code": null,
+      "options": [
+        "19",
+        "20",
+        "18",
+        "21"
+      ],
+      "correctIndex": 0,
+      "explanation": "Границы цикла включают все целые числа от 1 до верхней границы.",
+      "id": "info-0174",
+      "topic": "logic",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В таблице 3 строки и 19 столбцов. Сколько ячеек содержит таблица?",
+      "code": null,
+      "options": [
+        "57",
+        "58",
+        "56",
+        "59"
+      ],
+      "correctIndex": 0,
+      "explanation": "Число ячеек равно произведению количества строк и столбцов.",
+      "id": "info-0175",
+      "topic": "structures",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое число получится при переводе 19 из десятичной системы в двоичную? (запишите десятичное значение суммы разрядов)",
+      "code": null,
+      "options": [
+        "19",
+        "20",
+        "18",
+        "21"
+      ],
+      "correctIndex": 0,
+      "explanation": "Значение числа при переводе в другую систему счисления не меняется.",
+      "id": "info-0176",
+      "topic": "networks",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Файл размером 19 МБ передают со скоростью 2 МБ/с. Сколько секунд займёт передача?",
+      "code": null,
+      "options": [
+        "10",
+        "11",
+        "9",
+        "12"
+      ],
+      "correctIndex": 0,
+      "explanation": "Время равно размеру, делённому на скорость; округляем вверх до целой секунды.",
+      "id": "info-0177",
+      "topic": "databases",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Для целого x=19 вычислите побитовое И: x AND 1.",
+      "code": null,
+      "options": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "correctIndex": 0,
+      "explanation": "Младший двоичный разряд равен остатку от деления x на 2.",
+      "id": "info-0178",
+      "topic": "architecture",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В двоичном представлении без ведущих нулей сколько бит требуется для хранения чисел от 0 до 19 включительно?",
+      "code": null,
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "correctIndex": 0,
+      "explanation": "k бит кодируют значения от 0 до 2ᵏ−1.",
+      "id": "info-0179",
+      "topic": "security",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В сети с маской /19 сколько бит IPv4 остаётся для адреса узла?",
+      "code": null,
+      "options": [
+        "13",
+        "14",
+        "12",
+        "15"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из 32 бит адреса IPv4 вычитаем 19 бит префикса.",
+      "id": "info-0180",
+      "topic": "modeling",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое значение выведет алгоритм? Он присваивает n=20, затем выводит 2·n.",
+      "code": "n = 20\nprint(2 * n)",
+      "options": [
+        "40",
+        "41",
+        "39",
+        "42"
+      ],
+      "correctIndex": 0,
+      "explanation": "Удвоение 20 равно 40.",
+      "id": "info-0181",
+      "topic": "algorithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Каково значение двоичного числа 11010001₂ в десятичной системе?",
+      "code": "11010001₂",
+      "options": [
+        "209",
+        "210",
+        "208",
+        "211"
+      ],
+      "correctIndex": 0,
+      "explanation": "Раскладываем двоичную запись по степеням двойки.",
+      "id": "info-0182",
+      "topic": "python",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Массив содержит 20 элементов. Индексация начинается с нуля. Какой индекс у последнего элемента?",
+      "code": null,
+      "options": [
+        "19",
+        "20",
+        "18",
+        "21"
+      ],
+      "correctIndex": 0,
+      "explanation": "При индексации с нуля последний индекс на единицу меньше длины.",
+      "id": "info-0183",
+      "topic": "data",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько раз выполнится тело цикла for i от 1 до 20 включительно?",
+      "code": null,
+      "options": [
+        "20",
+        "21",
+        "19",
+        "22"
+      ],
+      "correctIndex": 0,
+      "explanation": "Границы цикла включают все целые числа от 1 до верхней границы.",
+      "id": "info-0184",
+      "topic": "logic",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В таблице 3 строки и 20 столбцов. Сколько ячеек содержит таблица?",
+      "code": null,
+      "options": [
+        "60",
+        "61",
+        "59",
+        "62"
+      ],
+      "correctIndex": 0,
+      "explanation": "Число ячеек равно произведению количества строк и столбцов.",
+      "id": "info-0185",
+      "topic": "structures",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое число получится при переводе 20 из десятичной системы в двоичную? (запишите десятичное значение суммы разрядов)",
+      "code": null,
+      "options": [
+        "20",
+        "21",
+        "19",
+        "22"
+      ],
+      "correctIndex": 0,
+      "explanation": "Значение числа при переводе в другую систему счисления не меняется.",
+      "id": "info-0186",
+      "topic": "networks",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Файл размером 20 МБ передают со скоростью 2 МБ/с. Сколько секунд займёт передача?",
+      "code": null,
+      "options": [
+        "10",
+        "11",
+        "9",
+        "12"
+      ],
+      "correctIndex": 0,
+      "explanation": "Время равно размеру, делённому на скорость; округляем вверх до целой секунды.",
+      "id": "info-0187",
+      "topic": "databases",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Для целого x=20 вычислите побитовое И: x AND 1.",
+      "code": null,
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "Младший двоичный разряд равен остатку от деления x на 2.",
+      "id": "info-0188",
+      "topic": "architecture",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В двоичном представлении без ведущих нулей сколько бит требуется для хранения чисел от 0 до 20 включительно?",
+      "code": null,
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "correctIndex": 0,
+      "explanation": "k бит кодируют значения от 0 до 2ᵏ−1.",
+      "id": "info-0189",
+      "topic": "security",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В сети с маской /20 сколько бит IPv4 остаётся для адреса узла?",
+      "code": null,
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из 32 бит адреса IPv4 вычитаем 20 бит префикса.",
+      "id": "info-0190",
+      "topic": "modeling",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое значение выведет алгоритм? Он присваивает n=21, затем выводит 2·n.",
+      "code": "n = 21\nprint(2 * n)",
+      "options": [
+        "42",
+        "43",
+        "41",
+        "44"
+      ],
+      "correctIndex": 0,
+      "explanation": "Удвоение 21 равно 42.",
+      "id": "info-0191",
+      "topic": "algorithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Каково значение двоичного числа 11010101₂ в десятичной системе?",
+      "code": "11010101₂",
+      "options": [
+        "213",
+        "214",
+        "212",
+        "215"
+      ],
+      "correctIndex": 0,
+      "explanation": "Раскладываем двоичную запись по степеням двойки.",
+      "id": "info-0192",
+      "topic": "python",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Массив содержит 21 элементов. Индексация начинается с нуля. Какой индекс у последнего элемента?",
+      "code": null,
+      "options": [
+        "20",
+        "21",
+        "19",
+        "22"
+      ],
+      "correctIndex": 0,
+      "explanation": "При индексации с нуля последний индекс на единицу меньше длины.",
+      "id": "info-0193",
+      "topic": "data",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько раз выполнится тело цикла for i от 1 до 21 включительно?",
+      "code": null,
+      "options": [
+        "21",
+        "22",
+        "20",
+        "23"
+      ],
+      "correctIndex": 0,
+      "explanation": "Границы цикла включают все целые числа от 1 до верхней границы.",
+      "id": "info-0194",
+      "topic": "logic",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В таблице 3 строки и 21 столбцов. Сколько ячеек содержит таблица?",
+      "code": null,
+      "options": [
+        "63",
+        "64",
+        "62",
+        "65"
+      ],
+      "correctIndex": 0,
+      "explanation": "Число ячеек равно произведению количества строк и столбцов.",
+      "id": "info-0195",
+      "topic": "structures",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое число получится при переводе 21 из десятичной системы в двоичную? (запишите десятичное значение суммы разрядов)",
+      "code": null,
+      "options": [
+        "21",
+        "22",
+        "20",
+        "23"
+      ],
+      "correctIndex": 0,
+      "explanation": "Значение числа при переводе в другую систему счисления не меняется.",
+      "id": "info-0196",
+      "topic": "networks",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Файл размером 21 МБ передают со скоростью 2 МБ/с. Сколько секунд займёт передача?",
+      "code": null,
+      "options": [
+        "11",
+        "12",
+        "10",
+        "13"
+      ],
+      "correctIndex": 0,
+      "explanation": "Время равно размеру, делённому на скорость; округляем вверх до целой секунды.",
+      "id": "info-0197",
+      "topic": "databases",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Для целого x=21 вычислите побитовое И: x AND 1.",
+      "code": null,
+      "options": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "correctIndex": 0,
+      "explanation": "Младший двоичный разряд равен остатку от деления x на 2.",
+      "id": "info-0198",
+      "topic": "architecture",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В двоичном представлении без ведущих нулей сколько бит требуется для хранения чисел от 0 до 21 включительно?",
+      "code": null,
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "correctIndex": 0,
+      "explanation": "k бит кодируют значения от 0 до 2ᵏ−1.",
+      "id": "info-0199",
+      "topic": "security",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В сети с маской /21 сколько бит IPv4 остаётся для адреса узла?",
+      "code": null,
+      "options": [
+        "11",
+        "12",
+        "10",
+        "13"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из 32 бит адреса IPv4 вычитаем 21 бит префикса.",
+      "id": "info-0200",
+      "topic": "modeling",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое значение выведет алгоритм? Он присваивает n=22, затем выводит 2·n.",
+      "code": "n = 22\nprint(2 * n)",
+      "options": [
+        "44",
+        "45",
+        "43",
+        "46"
+      ],
+      "correctIndex": 0,
+      "explanation": "Удвоение 22 равно 44.",
+      "id": "info-0201",
+      "topic": "algorithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Каково значение двоичного числа 11011001₂ в десятичной системе?",
+      "code": "11011001₂",
+      "options": [
+        "217",
+        "218",
+        "216",
+        "219"
+      ],
+      "correctIndex": 0,
+      "explanation": "Раскладываем двоичную запись по степеням двойки.",
+      "id": "info-0202",
+      "topic": "python",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Массив содержит 22 элементов. Индексация начинается с нуля. Какой индекс у последнего элемента?",
+      "code": null,
+      "options": [
+        "21",
+        "22",
+        "20",
+        "23"
+      ],
+      "correctIndex": 0,
+      "explanation": "При индексации с нуля последний индекс на единицу меньше длины.",
+      "id": "info-0203",
+      "topic": "data",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько раз выполнится тело цикла for i от 1 до 22 включительно?",
+      "code": null,
+      "options": [
+        "22",
+        "23",
+        "21",
+        "24"
+      ],
+      "correctIndex": 0,
+      "explanation": "Границы цикла включают все целые числа от 1 до верхней границы.",
+      "id": "info-0204",
+      "topic": "logic",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В таблице 3 строки и 22 столбцов. Сколько ячеек содержит таблица?",
+      "code": null,
+      "options": [
+        "66",
+        "67",
+        "65",
+        "68"
+      ],
+      "correctIndex": 0,
+      "explanation": "Число ячеек равно произведению количества строк и столбцов.",
+      "id": "info-0205",
+      "topic": "structures",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое число получится при переводе 22 из десятичной системы в двоичную? (запишите десятичное значение суммы разрядов)",
+      "code": null,
+      "options": [
+        "22",
+        "23",
+        "21",
+        "24"
+      ],
+      "correctIndex": 0,
+      "explanation": "Значение числа при переводе в другую систему счисления не меняется.",
+      "id": "info-0206",
+      "topic": "networks",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Файл размером 22 МБ передают со скоростью 2 МБ/с. Сколько секунд займёт передача?",
+      "code": null,
+      "options": [
+        "11",
+        "12",
+        "10",
+        "13"
+      ],
+      "correctIndex": 0,
+      "explanation": "Время равно размеру, делённому на скорость; округляем вверх до целой секунды.",
+      "id": "info-0207",
+      "topic": "databases",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Для целого x=22 вычислите побитовое И: x AND 1.",
+      "code": null,
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "Младший двоичный разряд равен остатку от деления x на 2.",
+      "id": "info-0208",
+      "topic": "architecture",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В двоичном представлении без ведущих нулей сколько бит требуется для хранения чисел от 0 до 22 включительно?",
+      "code": null,
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "correctIndex": 0,
+      "explanation": "k бит кодируют значения от 0 до 2ᵏ−1.",
+      "id": "info-0209",
+      "topic": "security",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В сети с маской /22 сколько бит IPv4 остаётся для адреса узла?",
+      "code": null,
+      "options": [
+        "10",
+        "11",
+        "9",
+        "12"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из 32 бит адреса IPv4 вычитаем 22 бит префикса.",
+      "id": "info-0210",
+      "topic": "modeling",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое значение выведет алгоритм? Он присваивает n=23, затем выводит 2·n.",
+      "code": "n = 23\nprint(2 * n)",
+      "options": [
+        "46",
+        "47",
+        "45",
+        "48"
+      ],
+      "correctIndex": 0,
+      "explanation": "Удвоение 23 равно 46.",
+      "id": "info-0211",
+      "topic": "algorithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Каково значение двоичного числа 11011101₂ в десятичной системе?",
+      "code": "11011101₂",
+      "options": [
+        "221",
+        "222",
+        "220",
+        "223"
+      ],
+      "correctIndex": 0,
+      "explanation": "Раскладываем двоичную запись по степеням двойки.",
+      "id": "info-0212",
+      "topic": "python",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Массив содержит 23 элементов. Индексация начинается с нуля. Какой индекс у последнего элемента?",
+      "code": null,
+      "options": [
+        "22",
+        "23",
+        "21",
+        "24"
+      ],
+      "correctIndex": 0,
+      "explanation": "При индексации с нуля последний индекс на единицу меньше длины.",
+      "id": "info-0213",
+      "topic": "data",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько раз выполнится тело цикла for i от 1 до 23 включительно?",
+      "code": null,
+      "options": [
+        "23",
+        "24",
+        "22",
+        "25"
+      ],
+      "correctIndex": 0,
+      "explanation": "Границы цикла включают все целые числа от 1 до верхней границы.",
+      "id": "info-0214",
+      "topic": "logic",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В таблице 3 строки и 23 столбцов. Сколько ячеек содержит таблица?",
+      "code": null,
+      "options": [
+        "69",
+        "70",
+        "68",
+        "71"
+      ],
+      "correctIndex": 0,
+      "explanation": "Число ячеек равно произведению количества строк и столбцов.",
+      "id": "info-0215",
+      "topic": "structures",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое число получится при переводе 23 из десятичной системы в двоичную? (запишите десятичное значение суммы разрядов)",
+      "code": null,
+      "options": [
+        "23",
+        "24",
+        "22",
+        "25"
+      ],
+      "correctIndex": 0,
+      "explanation": "Значение числа при переводе в другую систему счисления не меняется.",
+      "id": "info-0216",
+      "topic": "networks",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Файл размером 23 МБ передают со скоростью 2 МБ/с. Сколько секунд займёт передача?",
+      "code": null,
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ],
+      "correctIndex": 0,
+      "explanation": "Время равно размеру, делённому на скорость; округляем вверх до целой секунды.",
+      "id": "info-0217",
+      "topic": "databases",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Для целого x=23 вычислите побитовое И: x AND 1.",
+      "code": null,
+      "options": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "correctIndex": 0,
+      "explanation": "Младший двоичный разряд равен остатку от деления x на 2.",
+      "id": "info-0218",
+      "topic": "architecture",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В двоичном представлении без ведущих нулей сколько бит требуется для хранения чисел от 0 до 23 включительно?",
+      "code": null,
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "correctIndex": 0,
+      "explanation": "k бит кодируют значения от 0 до 2ᵏ−1.",
+      "id": "info-0219",
+      "topic": "security",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В сети с маской /23 сколько бит IPv4 остаётся для адреса узла?",
+      "code": null,
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из 32 бит адреса IPv4 вычитаем 23 бит префикса.",
+      "id": "info-0220",
+      "topic": "modeling",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое значение выведет алгоритм? Он присваивает n=24, затем выводит 2·n.",
+      "code": "n = 24\nprint(2 * n)",
+      "options": [
+        "48",
+        "49",
+        "47",
+        "50"
+      ],
+      "correctIndex": 0,
+      "explanation": "Удвоение 24 равно 48.",
+      "id": "info-0221",
+      "topic": "algorithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Каково значение двоичного числа 11100001₂ в десятичной системе?",
+      "code": "11100001₂",
+      "options": [
+        "225",
+        "226",
+        "224",
+        "227"
+      ],
+      "correctIndex": 0,
+      "explanation": "Раскладываем двоичную запись по степеням двойки.",
+      "id": "info-0222",
+      "topic": "python",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Массив содержит 24 элементов. Индексация начинается с нуля. Какой индекс у последнего элемента?",
+      "code": null,
+      "options": [
+        "23",
+        "24",
+        "22",
+        "25"
+      ],
+      "correctIndex": 0,
+      "explanation": "При индексации с нуля последний индекс на единицу меньше длины.",
+      "id": "info-0223",
+      "topic": "data",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько раз выполнится тело цикла for i от 1 до 24 включительно?",
+      "code": null,
+      "options": [
+        "24",
+        "25",
+        "23",
+        "26"
+      ],
+      "correctIndex": 0,
+      "explanation": "Границы цикла включают все целые числа от 1 до верхней границы.",
+      "id": "info-0224",
+      "topic": "logic",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В таблице 3 строки и 24 столбцов. Сколько ячеек содержит таблица?",
+      "code": null,
+      "options": [
+        "72",
+        "73",
+        "71",
+        "74"
+      ],
+      "correctIndex": 0,
+      "explanation": "Число ячеек равно произведению количества строк и столбцов.",
+      "id": "info-0225",
+      "topic": "structures",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое число получится при переводе 24 из десятичной системы в двоичную? (запишите десятичное значение суммы разрядов)",
+      "code": null,
+      "options": [
+        "24",
+        "25",
+        "23",
+        "26"
+      ],
+      "correctIndex": 0,
+      "explanation": "Значение числа при переводе в другую систему счисления не меняется.",
+      "id": "info-0226",
+      "topic": "networks",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Файл размером 24 МБ передают со скоростью 2 МБ/с. Сколько секунд займёт передача?",
+      "code": null,
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ],
+      "correctIndex": 0,
+      "explanation": "Время равно размеру, делённому на скорость; округляем вверх до целой секунды.",
+      "id": "info-0227",
+      "topic": "databases",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Для целого x=24 вычислите побитовое И: x AND 1.",
+      "code": null,
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "Младший двоичный разряд равен остатку от деления x на 2.",
+      "id": "info-0228",
+      "topic": "architecture",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В двоичном представлении без ведущих нулей сколько бит требуется для хранения чисел от 0 до 24 включительно?",
+      "code": null,
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "correctIndex": 0,
+      "explanation": "k бит кодируют значения от 0 до 2ᵏ−1.",
+      "id": "info-0229",
+      "topic": "security",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В сети с маской /24 сколько бит IPv4 остаётся для адреса узла?",
+      "code": null,
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из 32 бит адреса IPv4 вычитаем 24 бит префикса.",
+      "id": "info-0230",
+      "topic": "modeling",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое значение выведет алгоритм? Он присваивает n=25, затем выводит 2·n.",
+      "code": "n = 25\nprint(2 * n)",
+      "options": [
+        "50",
+        "51",
+        "49",
+        "52"
+      ],
+      "correctIndex": 0,
+      "explanation": "Удвоение 25 равно 50.",
+      "id": "info-0231",
+      "topic": "algorithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Каково значение двоичного числа 11100101₂ в десятичной системе?",
+      "code": "11100101₂",
+      "options": [
+        "229",
+        "230",
+        "228",
+        "231"
+      ],
+      "correctIndex": 0,
+      "explanation": "Раскладываем двоичную запись по степеням двойки.",
+      "id": "info-0232",
+      "topic": "python",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Массив содержит 25 элементов. Индексация начинается с нуля. Какой индекс у последнего элемента?",
+      "code": null,
+      "options": [
+        "24",
+        "25",
+        "23",
+        "26"
+      ],
+      "correctIndex": 0,
+      "explanation": "При индексации с нуля последний индекс на единицу меньше длины.",
+      "id": "info-0233",
+      "topic": "data",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько раз выполнится тело цикла for i от 1 до 25 включительно?",
+      "code": null,
+      "options": [
+        "25",
+        "26",
+        "24",
+        "27"
+      ],
+      "correctIndex": 0,
+      "explanation": "Границы цикла включают все целые числа от 1 до верхней границы.",
+      "id": "info-0234",
+      "topic": "logic",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В таблице 3 строки и 25 столбцов. Сколько ячеек содержит таблица?",
+      "code": null,
+      "options": [
+        "75",
+        "76",
+        "74",
+        "77"
+      ],
+      "correctIndex": 0,
+      "explanation": "Число ячеек равно произведению количества строк и столбцов.",
+      "id": "info-0235",
+      "topic": "structures",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое число получится при переводе 25 из десятичной системы в двоичную? (запишите десятичное значение суммы разрядов)",
+      "code": null,
+      "options": [
+        "25",
+        "26",
+        "24",
+        "27"
+      ],
+      "correctIndex": 0,
+      "explanation": "Значение числа при переводе в другую систему счисления не меняется.",
+      "id": "info-0236",
+      "topic": "networks",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Файл размером 25 МБ передают со скоростью 2 МБ/с. Сколько секунд займёт передача?",
+      "code": null,
+      "options": [
+        "13",
+        "14",
+        "12",
+        "15"
+      ],
+      "correctIndex": 0,
+      "explanation": "Время равно размеру, делённому на скорость; округляем вверх до целой секунды.",
+      "id": "info-0237",
+      "topic": "databases",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Для целого x=25 вычислите побитовое И: x AND 1.",
+      "code": null,
+      "options": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "correctIndex": 0,
+      "explanation": "Младший двоичный разряд равен остатку от деления x на 2.",
+      "id": "info-0238",
+      "topic": "architecture",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В двоичном представлении без ведущих нулей сколько бит требуется для хранения чисел от 0 до 25 включительно?",
+      "code": null,
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "correctIndex": 0,
+      "explanation": "k бит кодируют значения от 0 до 2ᵏ−1.",
+      "id": "info-0239",
+      "topic": "security",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В сети с маской /25 сколько бит IPv4 остаётся для адреса узла?",
+      "code": null,
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из 32 бит адреса IPv4 вычитаем 25 бит префикса.",
+      "id": "info-0240",
+      "topic": "modeling",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое значение выведет алгоритм? Он присваивает n=26, затем выводит 2·n.",
+      "code": "n = 26\nprint(2 * n)",
+      "options": [
+        "52",
+        "53",
+        "51",
+        "54"
+      ],
+      "correctIndex": 0,
+      "explanation": "Удвоение 26 равно 52.",
+      "id": "info-0241",
+      "topic": "algorithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Каково значение двоичного числа 11101001₂ в десятичной системе?",
+      "code": "11101001₂",
+      "options": [
+        "233",
+        "234",
+        "232",
+        "235"
+      ],
+      "correctIndex": 0,
+      "explanation": "Раскладываем двоичную запись по степеням двойки.",
+      "id": "info-0242",
+      "topic": "python",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Массив содержит 26 элементов. Индексация начинается с нуля. Какой индекс у последнего элемента?",
+      "code": null,
+      "options": [
+        "25",
+        "26",
+        "24",
+        "27"
+      ],
+      "correctIndex": 0,
+      "explanation": "При индексации с нуля последний индекс на единицу меньше длины.",
+      "id": "info-0243",
+      "topic": "data",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько раз выполнится тело цикла for i от 1 до 26 включительно?",
+      "code": null,
+      "options": [
+        "26",
+        "27",
+        "25",
+        "28"
+      ],
+      "correctIndex": 0,
+      "explanation": "Границы цикла включают все целые числа от 1 до верхней границы.",
+      "id": "info-0244",
+      "topic": "logic",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В таблице 3 строки и 26 столбцов. Сколько ячеек содержит таблица?",
+      "code": null,
+      "options": [
+        "78",
+        "79",
+        "77",
+        "80"
+      ],
+      "correctIndex": 0,
+      "explanation": "Число ячеек равно произведению количества строк и столбцов.",
+      "id": "info-0245",
+      "topic": "structures",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Какое число получится при переводе 26 из десятичной системы в двоичную? (запишите десятичное значение суммы разрядов)",
+      "code": null,
+      "options": [
+        "26",
+        "27",
+        "25",
+        "28"
+      ],
+      "correctIndex": 0,
+      "explanation": "Значение числа при переводе в другую систему счисления не меняется.",
+      "id": "info-0246",
+      "topic": "networks",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Файл размером 26 МБ передают со скоростью 2 МБ/с. Сколько секунд займёт передача?",
+      "code": null,
+      "options": [
+        "13",
+        "14",
+        "12",
+        "15"
+      ],
+      "correctIndex": 0,
+      "explanation": "Время равно размеру, делённому на скорость; округляем вверх до целой секунды.",
+      "id": "info-0247",
+      "topic": "databases",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Для целого x=26 вычислите побитовое И: x AND 1.",
+      "code": null,
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "2"
+      ],
+      "correctIndex": 0,
+      "explanation": "Младший двоичный разряд равен остатку от деления x на 2.",
+      "id": "info-0248",
+      "topic": "architecture",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В двоичном представлении без ведущих нулей сколько бит требуется для хранения чисел от 0 до 26 включительно?",
+      "code": null,
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "correctIndex": 0,
+      "explanation": "k бит кодируют значения от 0 до 2ᵏ−1.",
+      "id": "info-0249",
+      "topic": "security",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В сети с маской /26 сколько бит IPv4 остаётся для адреса узла?",
+      "code": null,
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из 32 бит адреса IPv4 вычитаем 26 бит префикса.",
+      "id": "info-0250",
+      "topic": "modeling",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    }
+  ]
+}

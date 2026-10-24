@@ -1,0 +1,2 @@
+-keepattributes Signature
+-keep class kz.itent.prep.data.Models$* { *; }

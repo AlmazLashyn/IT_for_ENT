@@ -1,0 +1,12 @@
+{
+  "id": "physics",
+  "title": "Физика",
+  "type": "core",
+  "order": 2,
+  "icon": "ic_subject_physics",
+  "questionsFile": "found_questions.json",
+  "variantsFile": "variants.json",
+  "questionsPerTest": 25,
+  "durationMinutes": 35,
+  "questionSetLabel": "Вопросы за 2021 год"
+}

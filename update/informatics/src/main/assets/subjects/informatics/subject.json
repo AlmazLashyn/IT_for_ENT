@@ -1,0 +1,12 @@
+{
+  "id": "informatics",
+  "title": "Информатика",
+  "type": "update",
+  "order": 3,
+  "icon": "ic_subject_informatics",
+  "questionsFile": "informatics_questions.json",
+  "variantsFile": "variants.json",
+  "questionsPerTest": 25,
+  "durationMinutes": 35,
+  "questionSetLabel": "Вопросы за 2022 год"
+}

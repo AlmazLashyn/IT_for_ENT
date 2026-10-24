@@ -1,0 +1,4256 @@
+{
+  "schemaVersion": 1,
+  "subjectId": "physics",
+  "questions": [
+    {
+      "text": "Автомобиль движется со скоростью 2 м/с в течение 3 с. Какой путь он проходит?",
+      "code": null,
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "correctIndex": 0,
+      "explanation": "При равномерном движении s=vt.",
+      "id": "phys-0001",
+      "topic": "kinematics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "На тело массой 2 кг действует сила 4 Н. Найдите ускорение.",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "По второму закону Ньютона a=F/m=4/2=2.",
+      "id": "phys-0002",
+      "topic": "dynamics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 2 кг подняли на высоту 2 м. Найдите потенциальную энергию, приняв g=10 м/с².",
+      "code": null,
+      "options": [
+        "40",
+        "41",
+        "39",
+        "42"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eₚ=mgh=2·10·h.",
+      "id": "phys-0003",
+      "topic": "energy",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 2 кг движется со скоростью 2 м/с. Найдите импульс.",
+      "code": null,
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "Импульс p=mv.",
+      "id": "phys-0004",
+      "topic": "momentum",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько теплоты нужно для нагревания 1 кг воды на 2 °C? c=4200 Дж/(кг·°C). Ответ в кДж, округлённый до целого.",
+      "code": null,
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "Q=cmΔT; переводим джоули в килоджоули.",
+      "id": "phys-0005",
+      "topic": "thermal",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "К резистору сопротивлением 2 Ом приложено напряжение 4 В. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "По закону Ома I=U/R.",
+      "id": "phys-0006",
+      "topic": "electricity",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Заряд 2 Кл проходит через сечение проводника за 2 с. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "correctIndex": 0,
+      "explanation": "I=q/t; подставляем значения.",
+      "id": "phys-0007",
+      "topic": "magnetism",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Волна имеет частоту 2 Гц и длину 2 м. Найдите скорость распространения.",
+      "code": null,
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "Скорость волны v=λν.",
+      "id": "phys-0008",
+      "topic": "waves",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Собирающая линза имеет фокусное расстояние 2 см. Чему равна оптическая сила в диоптриях, округлённая до целого?",
+      "code": null,
+      "options": [
+        "50",
+        "51",
+        "49",
+        "52"
+      ],
+      "correctIndex": 0,
+      "explanation": "D=1/f, где фокусное расстояние выражено в метрах.",
+      "id": "phys-0009",
+      "topic": "optics",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Энергия фотона пропорциональна частоте. Во сколько раз увеличится энергия при увеличении частоты в 2 раза?",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из формулы E=hν следует прямая пропорциональность.",
+      "id": "phys-0010",
+      "topic": "atoms",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Автомобиль движется со скоростью 3 м/с в течение 3 с. Какой путь он проходит?",
+      "code": null,
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ],
+      "correctIndex": 0,
+      "explanation": "При равномерном движении s=vt.",
+      "id": "phys-0011",
+      "topic": "kinematics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "На тело массой 2 кг действует сила 6 Н. Найдите ускорение.",
+      "code": null,
+      "options": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "correctIndex": 0,
+      "explanation": "По второму закону Ньютона a=F/m=6/2=3.",
+      "id": "phys-0012",
+      "topic": "dynamics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 2 кг подняли на высоту 3 м. Найдите потенциальную энергию, приняв g=10 м/с².",
+      "code": null,
+      "options": [
+        "60",
+        "61",
+        "59",
+        "62"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eₚ=mgh=2·10·h.",
+      "id": "phys-0013",
+      "topic": "energy",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 3 кг движется со скоростью 2 м/с. Найдите импульс.",
+      "code": null,
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "correctIndex": 0,
+      "explanation": "Импульс p=mv.",
+      "id": "phys-0014",
+      "topic": "momentum",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько теплоты нужно для нагревания 1 кг воды на 3 °C? c=4200 Дж/(кг·°C). Ответ в кДж, округлённый до целого.",
+      "code": null,
+      "options": [
+        "13",
+        "14",
+        "12",
+        "15"
+      ],
+      "correctIndex": 0,
+      "explanation": "Q=cmΔT; переводим джоули в килоджоули.",
+      "id": "phys-0015",
+      "topic": "thermal",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "К резистору сопротивлением 2 Ом приложено напряжение 6 В. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "correctIndex": 0,
+      "explanation": "По закону Ома I=U/R.",
+      "id": "phys-0016",
+      "topic": "electricity",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Заряд 3 Кл проходит через сечение проводника за 2 с. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "correctIndex": 0,
+      "explanation": "I=q/t; подставляем значения.",
+      "id": "phys-0017",
+      "topic": "magnetism",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Волна имеет частоту 3 Гц и длину 2 м. Найдите скорость распространения.",
+      "code": null,
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "correctIndex": 0,
+      "explanation": "Скорость волны v=λν.",
+      "id": "phys-0018",
+      "topic": "waves",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Собирающая линза имеет фокусное расстояние 3 см. Чему равна оптическая сила в диоптриях, округлённая до целого?",
+      "code": null,
+      "options": [
+        "33",
+        "34",
+        "32",
+        "35"
+      ],
+      "correctIndex": 0,
+      "explanation": "D=1/f, где фокусное расстояние выражено в метрах.",
+      "id": "phys-0019",
+      "topic": "optics",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Энергия фотона пропорциональна частоте. Во сколько раз увеличится энергия при увеличении частоты в 3 раза?",
+      "code": null,
+      "options": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из формулы E=hν следует прямая пропорциональность.",
+      "id": "phys-0020",
+      "topic": "atoms",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Автомобиль движется со скоростью 4 м/с в течение 3 с. Какой путь он проходит?",
+      "code": null,
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ],
+      "correctIndex": 0,
+      "explanation": "При равномерном движении s=vt.",
+      "id": "phys-0021",
+      "topic": "kinematics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "На тело массой 2 кг действует сила 8 Н. Найдите ускорение.",
+      "code": null,
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "По второму закону Ньютона a=F/m=8/2=4.",
+      "id": "phys-0022",
+      "topic": "dynamics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 2 кг подняли на высоту 4 м. Найдите потенциальную энергию, приняв g=10 м/с².",
+      "code": null,
+      "options": [
+        "80",
+        "81",
+        "79",
+        "82"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eₚ=mgh=2·10·h.",
+      "id": "phys-0023",
+      "topic": "energy",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 4 кг движется со скоростью 2 м/с. Найдите импульс.",
+      "code": null,
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "Импульс p=mv.",
+      "id": "phys-0024",
+      "topic": "momentum",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько теплоты нужно для нагревания 1 кг воды на 4 °C? c=4200 Дж/(кг·°C). Ответ в кДж, округлённый до целого.",
+      "code": null,
+      "options": [
+        "17",
+        "18",
+        "16",
+        "19"
+      ],
+      "correctIndex": 0,
+      "explanation": "Q=cmΔT; переводим джоули в килоджоули.",
+      "id": "phys-0025",
+      "topic": "thermal",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "К резистору сопротивлением 2 Ом приложено напряжение 8 В. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "По закону Ома I=U/R.",
+      "id": "phys-0026",
+      "topic": "electricity",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Заряд 4 Кл проходит через сечение проводника за 2 с. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "I=q/t; подставляем значения.",
+      "id": "phys-0027",
+      "topic": "magnetism",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Волна имеет частоту 4 Гц и длину 2 м. Найдите скорость распространения.",
+      "code": null,
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "Скорость волны v=λν.",
+      "id": "phys-0028",
+      "topic": "waves",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Собирающая линза имеет фокусное расстояние 4 см. Чему равна оптическая сила в диоптриях, округлённая до целого?",
+      "code": null,
+      "options": [
+        "25",
+        "26",
+        "24",
+        "27"
+      ],
+      "correctIndex": 0,
+      "explanation": "D=1/f, где фокусное расстояние выражено в метрах.",
+      "id": "phys-0029",
+      "topic": "optics",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Энергия фотона пропорциональна частоте. Во сколько раз увеличится энергия при увеличении частоты в 4 раза?",
+      "code": null,
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из формулы E=hν следует прямая пропорциональность.",
+      "id": "phys-0030",
+      "topic": "atoms",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Автомобиль движется со скоростью 5 м/с в течение 3 с. Какой путь он проходит?",
+      "code": null,
+      "options": [
+        "15",
+        "16",
+        "14",
+        "17"
+      ],
+      "correctIndex": 0,
+      "explanation": "При равномерном движении s=vt.",
+      "id": "phys-0031",
+      "topic": "kinematics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "На тело массой 2 кг действует сила 10 Н. Найдите ускорение.",
+      "code": null,
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "correctIndex": 0,
+      "explanation": "По второму закону Ньютона a=F/m=10/2=5.",
+      "id": "phys-0032",
+      "topic": "dynamics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 2 кг подняли на высоту 5 м. Найдите потенциальную энергию, приняв g=10 м/с².",
+      "code": null,
+      "options": [
+        "100",
+        "101",
+        "99",
+        "102"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eₚ=mgh=2·10·h.",
+      "id": "phys-0033",
+      "topic": "energy",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 5 кг движется со скоростью 2 м/с. Найдите импульс.",
+      "code": null,
+      "options": [
+        "10",
+        "11",
+        "9",
+        "12"
+      ],
+      "correctIndex": 0,
+      "explanation": "Импульс p=mv.",
+      "id": "phys-0034",
+      "topic": "momentum",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько теплоты нужно для нагревания 1 кг воды на 5 °C? c=4200 Дж/(кг·°C). Ответ в кДж, округлённый до целого.",
+      "code": null,
+      "options": [
+        "21",
+        "22",
+        "20",
+        "23"
+      ],
+      "correctIndex": 0,
+      "explanation": "Q=cmΔT; переводим джоули в килоджоули.",
+      "id": "phys-0035",
+      "topic": "thermal",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "К резистору сопротивлением 2 Ом приложено напряжение 10 В. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "correctIndex": 0,
+      "explanation": "По закону Ома I=U/R.",
+      "id": "phys-0036",
+      "topic": "electricity",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Заряд 5 Кл проходит через сечение проводника за 2 с. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "I=q/t; подставляем значения.",
+      "id": "phys-0037",
+      "topic": "magnetism",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Волна имеет частоту 5 Гц и длину 2 м. Найдите скорость распространения.",
+      "code": null,
+      "options": [
+        "10",
+        "11",
+        "9",
+        "12"
+      ],
+      "correctIndex": 0,
+      "explanation": "Скорость волны v=λν.",
+      "id": "phys-0038",
+      "topic": "waves",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Собирающая линза имеет фокусное расстояние 5 см. Чему равна оптическая сила в диоптриях, округлённая до целого?",
+      "code": null,
+      "options": [
+        "20",
+        "21",
+        "19",
+        "22"
+      ],
+      "correctIndex": 0,
+      "explanation": "D=1/f, где фокусное расстояние выражено в метрах.",
+      "id": "phys-0039",
+      "topic": "optics",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Энергия фотона пропорциональна частоте. Во сколько раз увеличится энергия при увеличении частоты в 5 раза?",
+      "code": null,
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из формулы E=hν следует прямая пропорциональность.",
+      "id": "phys-0040",
+      "topic": "atoms",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Автомобиль движется со скоростью 6 м/с в течение 3 с. Какой путь он проходит?",
+      "code": null,
+      "options": [
+        "18",
+        "19",
+        "17",
+        "20"
+      ],
+      "correctIndex": 0,
+      "explanation": "При равномерном движении s=vt.",
+      "id": "phys-0041",
+      "topic": "kinematics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "На тело массой 2 кг действует сила 12 Н. Найдите ускорение.",
+      "code": null,
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "correctIndex": 0,
+      "explanation": "По второму закону Ньютона a=F/m=12/2=6.",
+      "id": "phys-0042",
+      "topic": "dynamics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 2 кг подняли на высоту 6 м. Найдите потенциальную энергию, приняв g=10 м/с².",
+      "code": null,
+      "options": [
+        "120",
+        "121",
+        "119",
+        "122"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eₚ=mgh=2·10·h.",
+      "id": "phys-0043",
+      "topic": "energy",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 6 кг движется со скоростью 2 м/с. Найдите импульс.",
+      "code": null,
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ],
+      "correctIndex": 0,
+      "explanation": "Импульс p=mv.",
+      "id": "phys-0044",
+      "topic": "momentum",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько теплоты нужно для нагревания 1 кг воды на 6 °C? c=4200 Дж/(кг·°C). Ответ в кДж, округлённый до целого.",
+      "code": null,
+      "options": [
+        "25",
+        "26",
+        "24",
+        "27"
+      ],
+      "correctIndex": 0,
+      "explanation": "Q=cmΔT; переводим джоули в килоджоули.",
+      "id": "phys-0045",
+      "topic": "thermal",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "К резистору сопротивлением 2 Ом приложено напряжение 12 В. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "correctIndex": 0,
+      "explanation": "По закону Ома I=U/R.",
+      "id": "phys-0046",
+      "topic": "electricity",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Заряд 6 Кл проходит через сечение проводника за 2 с. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "correctIndex": 0,
+      "explanation": "I=q/t; подставляем значения.",
+      "id": "phys-0047",
+      "topic": "magnetism",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Волна имеет частоту 6 Гц и длину 2 м. Найдите скорость распространения.",
+      "code": null,
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ],
+      "correctIndex": 0,
+      "explanation": "Скорость волны v=λν.",
+      "id": "phys-0048",
+      "topic": "waves",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Собирающая линза имеет фокусное расстояние 6 см. Чему равна оптическая сила в диоптриях, округлённая до целого?",
+      "code": null,
+      "options": [
+        "17",
+        "18",
+        "16",
+        "19"
+      ],
+      "correctIndex": 0,
+      "explanation": "D=1/f, где фокусное расстояние выражено в метрах.",
+      "id": "phys-0049",
+      "topic": "optics",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Энергия фотона пропорциональна частоте. Во сколько раз увеличится энергия при увеличении частоты в 6 раза?",
+      "code": null,
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из формулы E=hν следует прямая пропорциональность.",
+      "id": "phys-0050",
+      "topic": "atoms",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Автомобиль движется со скоростью 7 м/с в течение 3 с. Какой путь он проходит?",
+      "code": null,
+      "options": [
+        "21",
+        "22",
+        "20",
+        "23"
+      ],
+      "correctIndex": 0,
+      "explanation": "При равномерном движении s=vt.",
+      "id": "phys-0051",
+      "topic": "kinematics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "На тело массой 2 кг действует сила 14 Н. Найдите ускорение.",
+      "code": null,
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ],
+      "correctIndex": 0,
+      "explanation": "По второму закону Ньютона a=F/m=14/2=7.",
+      "id": "phys-0052",
+      "topic": "dynamics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 2 кг подняли на высоту 7 м. Найдите потенциальную энергию, приняв g=10 м/с².",
+      "code": null,
+      "options": [
+        "140",
+        "141",
+        "139",
+        "142"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eₚ=mgh=2·10·h.",
+      "id": "phys-0053",
+      "topic": "energy",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 7 кг движется со скоростью 2 м/с. Найдите импульс.",
+      "code": null,
+      "options": [
+        "14",
+        "15",
+        "13",
+        "16"
+      ],
+      "correctIndex": 0,
+      "explanation": "Импульс p=mv.",
+      "id": "phys-0054",
+      "topic": "momentum",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько теплоты нужно для нагревания 1 кг воды на 7 °C? c=4200 Дж/(кг·°C). Ответ в кДж, округлённый до целого.",
+      "code": null,
+      "options": [
+        "29",
+        "30",
+        "28",
+        "31"
+      ],
+      "correctIndex": 0,
+      "explanation": "Q=cmΔT; переводим джоули в килоджоули.",
+      "id": "phys-0055",
+      "topic": "thermal",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "К резистору сопротивлением 2 Ом приложено напряжение 14 В. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ],
+      "correctIndex": 0,
+      "explanation": "По закону Ома I=U/R.",
+      "id": "phys-0056",
+      "topic": "electricity",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Заряд 7 Кл проходит через сечение проводника за 2 с. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "correctIndex": 0,
+      "explanation": "I=q/t; подставляем значения.",
+      "id": "phys-0057",
+      "topic": "magnetism",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Волна имеет частоту 7 Гц и длину 2 м. Найдите скорость распространения.",
+      "code": null,
+      "options": [
+        "14",
+        "15",
+        "13",
+        "16"
+      ],
+      "correctIndex": 0,
+      "explanation": "Скорость волны v=λν.",
+      "id": "phys-0058",
+      "topic": "waves",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Собирающая линза имеет фокусное расстояние 7 см. Чему равна оптическая сила в диоптриях, округлённая до целого?",
+      "code": null,
+      "options": [
+        "14",
+        "15",
+        "13",
+        "16"
+      ],
+      "correctIndex": 0,
+      "explanation": "D=1/f, где фокусное расстояние выражено в метрах.",
+      "id": "phys-0059",
+      "topic": "optics",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Энергия фотона пропорциональна частоте. Во сколько раз увеличится энергия при увеличении частоты в 7 раза?",
+      "code": null,
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из формулы E=hν следует прямая пропорциональность.",
+      "id": "phys-0060",
+      "topic": "atoms",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Автомобиль движется со скоростью 8 м/с в течение 3 с. Какой путь он проходит?",
+      "code": null,
+      "options": [
+        "24",
+        "25",
+        "23",
+        "26"
+      ],
+      "correctIndex": 0,
+      "explanation": "При равномерном движении s=vt.",
+      "id": "phys-0061",
+      "topic": "kinematics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "На тело массой 2 кг действует сила 16 Н. Найдите ускорение.",
+      "code": null,
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "По второму закону Ньютона a=F/m=16/2=8.",
+      "id": "phys-0062",
+      "topic": "dynamics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 2 кг подняли на высоту 8 м. Найдите потенциальную энергию, приняв g=10 м/с².",
+      "code": null,
+      "options": [
+        "160",
+        "161",
+        "159",
+        "162"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eₚ=mgh=2·10·h.",
+      "id": "phys-0063",
+      "topic": "energy",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 8 кг движется со скоростью 2 м/с. Найдите импульс.",
+      "code": null,
+      "options": [
+        "16",
+        "17",
+        "15",
+        "18"
+      ],
+      "correctIndex": 0,
+      "explanation": "Импульс p=mv.",
+      "id": "phys-0064",
+      "topic": "momentum",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько теплоты нужно для нагревания 1 кг воды на 8 °C? c=4200 Дж/(кг·°C). Ответ в кДж, округлённый до целого.",
+      "code": null,
+      "options": [
+        "34",
+        "35",
+        "33",
+        "36"
+      ],
+      "correctIndex": 0,
+      "explanation": "Q=cmΔT; переводим джоули в килоджоули.",
+      "id": "phys-0065",
+      "topic": "thermal",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "К резистору сопротивлением 2 Ом приложено напряжение 16 В. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "По закону Ома I=U/R.",
+      "id": "phys-0066",
+      "topic": "electricity",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Заряд 8 Кл проходит через сечение проводника за 2 с. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "I=q/t; подставляем значения.",
+      "id": "phys-0067",
+      "topic": "magnetism",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Волна имеет частоту 8 Гц и длину 2 м. Найдите скорость распространения.",
+      "code": null,
+      "options": [
+        "16",
+        "17",
+        "15",
+        "18"
+      ],
+      "correctIndex": 0,
+      "explanation": "Скорость волны v=λν.",
+      "id": "phys-0068",
+      "topic": "waves",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Собирающая линза имеет фокусное расстояние 8 см. Чему равна оптическая сила в диоптриях, округлённая до целого?",
+      "code": null,
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ],
+      "correctIndex": 0,
+      "explanation": "D=1/f, где фокусное расстояние выражено в метрах.",
+      "id": "phys-0069",
+      "topic": "optics",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Энергия фотона пропорциональна частоте. Во сколько раз увеличится энергия при увеличении частоты в 8 раза?",
+      "code": null,
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из формулы E=hν следует прямая пропорциональность.",
+      "id": "phys-0070",
+      "topic": "atoms",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Автомобиль движется со скоростью 9 м/с в течение 3 с. Какой путь он проходит?",
+      "code": null,
+      "options": [
+        "27",
+        "28",
+        "26",
+        "29"
+      ],
+      "correctIndex": 0,
+      "explanation": "При равномерном движении s=vt.",
+      "id": "phys-0071",
+      "topic": "kinematics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "На тело массой 2 кг действует сила 18 Н. Найдите ускорение.",
+      "code": null,
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ],
+      "correctIndex": 0,
+      "explanation": "По второму закону Ньютона a=F/m=18/2=9.",
+      "id": "phys-0072",
+      "topic": "dynamics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 2 кг подняли на высоту 9 м. Найдите потенциальную энергию, приняв g=10 м/с².",
+      "code": null,
+      "options": [
+        "180",
+        "181",
+        "179",
+        "182"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eₚ=mgh=2·10·h.",
+      "id": "phys-0073",
+      "topic": "energy",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 9 кг движется со скоростью 2 м/с. Найдите импульс.",
+      "code": null,
+      "options": [
+        "18",
+        "19",
+        "17",
+        "20"
+      ],
+      "correctIndex": 0,
+      "explanation": "Импульс p=mv.",
+      "id": "phys-0074",
+      "topic": "momentum",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько теплоты нужно для нагревания 1 кг воды на 9 °C? c=4200 Дж/(кг·°C). Ответ в кДж, округлённый до целого.",
+      "code": null,
+      "options": [
+        "38",
+        "39",
+        "37",
+        "40"
+      ],
+      "correctIndex": 0,
+      "explanation": "Q=cmΔT; переводим джоули в килоджоули.",
+      "id": "phys-0075",
+      "topic": "thermal",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "К резистору сопротивлением 2 Ом приложено напряжение 18 В. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ],
+      "correctIndex": 0,
+      "explanation": "По закону Ома I=U/R.",
+      "id": "phys-0076",
+      "topic": "electricity",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Заряд 9 Кл проходит через сечение проводника за 2 с. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "I=q/t; подставляем значения.",
+      "id": "phys-0077",
+      "topic": "magnetism",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Волна имеет частоту 9 Гц и длину 2 м. Найдите скорость распространения.",
+      "code": null,
+      "options": [
+        "18",
+        "19",
+        "17",
+        "20"
+      ],
+      "correctIndex": 0,
+      "explanation": "Скорость волны v=λν.",
+      "id": "phys-0078",
+      "topic": "waves",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Собирающая линза имеет фокусное расстояние 9 см. Чему равна оптическая сила в диоптриях, округлённая до целого?",
+      "code": null,
+      "options": [
+        "11",
+        "12",
+        "10",
+        "13"
+      ],
+      "correctIndex": 0,
+      "explanation": "D=1/f, где фокусное расстояние выражено в метрах.",
+      "id": "phys-0079",
+      "topic": "optics",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Энергия фотона пропорциональна частоте. Во сколько раз увеличится энергия при увеличении частоты в 9 раза?",
+      "code": null,
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из формулы E=hν следует прямая пропорциональность.",
+      "id": "phys-0080",
+      "topic": "atoms",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Автомобиль движется со скоростью 10 м/с в течение 3 с. Какой путь он проходит?",
+      "code": null,
+      "options": [
+        "30",
+        "31",
+        "29",
+        "32"
+      ],
+      "correctIndex": 0,
+      "explanation": "При равномерном движении s=vt.",
+      "id": "phys-0081",
+      "topic": "kinematics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "На тело массой 2 кг действует сила 20 Н. Найдите ускорение.",
+      "code": null,
+      "options": [
+        "10",
+        "11",
+        "9",
+        "12"
+      ],
+      "correctIndex": 0,
+      "explanation": "По второму закону Ньютона a=F/m=20/2=10.",
+      "id": "phys-0082",
+      "topic": "dynamics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 2 кг подняли на высоту 10 м. Найдите потенциальную энергию, приняв g=10 м/с².",
+      "code": null,
+      "options": [
+        "200",
+        "201",
+        "199",
+        "202"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eₚ=mgh=2·10·h.",
+      "id": "phys-0083",
+      "topic": "energy",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 10 кг движется со скоростью 2 м/с. Найдите импульс.",
+      "code": null,
+      "options": [
+        "20",
+        "21",
+        "19",
+        "22"
+      ],
+      "correctIndex": 0,
+      "explanation": "Импульс p=mv.",
+      "id": "phys-0084",
+      "topic": "momentum",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько теплоты нужно для нагревания 1 кг воды на 10 °C? c=4200 Дж/(кг·°C). Ответ в кДж, округлённый до целого.",
+      "code": null,
+      "options": [
+        "42",
+        "43",
+        "41",
+        "44"
+      ],
+      "correctIndex": 0,
+      "explanation": "Q=cmΔT; переводим джоули в килоджоули.",
+      "id": "phys-0085",
+      "topic": "thermal",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "К резистору сопротивлением 2 Ом приложено напряжение 20 В. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "10",
+        "11",
+        "9",
+        "12"
+      ],
+      "correctIndex": 0,
+      "explanation": "По закону Ома I=U/R.",
+      "id": "phys-0086",
+      "topic": "electricity",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Заряд 10 Кл проходит через сечение проводника за 2 с. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "correctIndex": 0,
+      "explanation": "I=q/t; подставляем значения.",
+      "id": "phys-0087",
+      "topic": "magnetism",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Волна имеет частоту 10 Гц и длину 2 м. Найдите скорость распространения.",
+      "code": null,
+      "options": [
+        "20",
+        "21",
+        "19",
+        "22"
+      ],
+      "correctIndex": 0,
+      "explanation": "Скорость волны v=λν.",
+      "id": "phys-0088",
+      "topic": "waves",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Собирающая линза имеет фокусное расстояние 10 см. Чему равна оптическая сила в диоптриях, округлённая до целого?",
+      "code": null,
+      "options": [
+        "10",
+        "11",
+        "9",
+        "12"
+      ],
+      "correctIndex": 0,
+      "explanation": "D=1/f, где фокусное расстояние выражено в метрах.",
+      "id": "phys-0089",
+      "topic": "optics",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Энергия фотона пропорциональна частоте. Во сколько раз увеличится энергия при увеличении частоты в 10 раза?",
+      "code": null,
+      "options": [
+        "10",
+        "11",
+        "9",
+        "12"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из формулы E=hν следует прямая пропорциональность.",
+      "id": "phys-0090",
+      "topic": "atoms",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Автомобиль движется со скоростью 11 м/с в течение 3 с. Какой путь он проходит?",
+      "code": null,
+      "options": [
+        "33",
+        "34",
+        "32",
+        "35"
+      ],
+      "correctIndex": 0,
+      "explanation": "При равномерном движении s=vt.",
+      "id": "phys-0091",
+      "topic": "kinematics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "На тело массой 2 кг действует сила 22 Н. Найдите ускорение.",
+      "code": null,
+      "options": [
+        "11",
+        "12",
+        "10",
+        "13"
+      ],
+      "correctIndex": 0,
+      "explanation": "По второму закону Ньютона a=F/m=22/2=11.",
+      "id": "phys-0092",
+      "topic": "dynamics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 2 кг подняли на высоту 11 м. Найдите потенциальную энергию, приняв g=10 м/с².",
+      "code": null,
+      "options": [
+        "220",
+        "221",
+        "219",
+        "222"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eₚ=mgh=2·10·h.",
+      "id": "phys-0093",
+      "topic": "energy",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 11 кг движется со скоростью 2 м/с. Найдите импульс.",
+      "code": null,
+      "options": [
+        "22",
+        "23",
+        "21",
+        "24"
+      ],
+      "correctIndex": 0,
+      "explanation": "Импульс p=mv.",
+      "id": "phys-0094",
+      "topic": "momentum",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько теплоты нужно для нагревания 1 кг воды на 11 °C? c=4200 Дж/(кг·°C). Ответ в кДж, округлённый до целого.",
+      "code": null,
+      "options": [
+        "46",
+        "47",
+        "45",
+        "48"
+      ],
+      "correctIndex": 0,
+      "explanation": "Q=cmΔT; переводим джоули в килоджоули.",
+      "id": "phys-0095",
+      "topic": "thermal",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "К резистору сопротивлением 2 Ом приложено напряжение 22 В. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "11",
+        "12",
+        "10",
+        "13"
+      ],
+      "correctIndex": 0,
+      "explanation": "По закону Ома I=U/R.",
+      "id": "phys-0096",
+      "topic": "electricity",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Заряд 11 Кл проходит через сечение проводника за 2 с. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "correctIndex": 0,
+      "explanation": "I=q/t; подставляем значения.",
+      "id": "phys-0097",
+      "topic": "magnetism",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Волна имеет частоту 11 Гц и длину 2 м. Найдите скорость распространения.",
+      "code": null,
+      "options": [
+        "22",
+        "23",
+        "21",
+        "24"
+      ],
+      "correctIndex": 0,
+      "explanation": "Скорость волны v=λν.",
+      "id": "phys-0098",
+      "topic": "waves",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Собирающая линза имеет фокусное расстояние 11 см. Чему равна оптическая сила в диоптриях, округлённая до целого?",
+      "code": null,
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ],
+      "correctIndex": 0,
+      "explanation": "D=1/f, где фокусное расстояние выражено в метрах.",
+      "id": "phys-0099",
+      "topic": "optics",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Энергия фотона пропорциональна частоте. Во сколько раз увеличится энергия при увеличении частоты в 11 раза?",
+      "code": null,
+      "options": [
+        "11",
+        "12",
+        "10",
+        "13"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из формулы E=hν следует прямая пропорциональность.",
+      "id": "phys-0100",
+      "topic": "atoms",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Автомобиль движется со скоростью 12 м/с в течение 3 с. Какой путь он проходит?",
+      "code": null,
+      "options": [
+        "36",
+        "37",
+        "35",
+        "38"
+      ],
+      "correctIndex": 0,
+      "explanation": "При равномерном движении s=vt.",
+      "id": "phys-0101",
+      "topic": "kinematics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "На тело массой 2 кг действует сила 24 Н. Найдите ускорение.",
+      "code": null,
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ],
+      "correctIndex": 0,
+      "explanation": "По второму закону Ньютона a=F/m=24/2=12.",
+      "id": "phys-0102",
+      "topic": "dynamics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 2 кг подняли на высоту 12 м. Найдите потенциальную энергию, приняв g=10 м/с².",
+      "code": null,
+      "options": [
+        "240",
+        "241",
+        "239",
+        "242"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eₚ=mgh=2·10·h.",
+      "id": "phys-0103",
+      "topic": "energy",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 12 кг движется со скоростью 2 м/с. Найдите импульс.",
+      "code": null,
+      "options": [
+        "24",
+        "25",
+        "23",
+        "26"
+      ],
+      "correctIndex": 0,
+      "explanation": "Импульс p=mv.",
+      "id": "phys-0104",
+      "topic": "momentum",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько теплоты нужно для нагревания 1 кг воды на 12 °C? c=4200 Дж/(кг·°C). Ответ в кДж, округлённый до целого.",
+      "code": null,
+      "options": [
+        "50",
+        "51",
+        "49",
+        "52"
+      ],
+      "correctIndex": 0,
+      "explanation": "Q=cmΔT; переводим джоули в килоджоули.",
+      "id": "phys-0105",
+      "topic": "thermal",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "К резистору сопротивлением 2 Ом приложено напряжение 24 В. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ],
+      "correctIndex": 0,
+      "explanation": "По закону Ома I=U/R.",
+      "id": "phys-0106",
+      "topic": "electricity",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Заряд 12 Кл проходит через сечение проводника за 2 с. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "correctIndex": 0,
+      "explanation": "I=q/t; подставляем значения.",
+      "id": "phys-0107",
+      "topic": "magnetism",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Волна имеет частоту 12 Гц и длину 2 м. Найдите скорость распространения.",
+      "code": null,
+      "options": [
+        "24",
+        "25",
+        "23",
+        "26"
+      ],
+      "correctIndex": 0,
+      "explanation": "Скорость волны v=λν.",
+      "id": "phys-0108",
+      "topic": "waves",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Собирающая линза имеет фокусное расстояние 12 см. Чему равна оптическая сила в диоптриях, округлённая до целого?",
+      "code": null,
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "D=1/f, где фокусное расстояние выражено в метрах.",
+      "id": "phys-0109",
+      "topic": "optics",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Энергия фотона пропорциональна частоте. Во сколько раз увеличится энергия при увеличении частоты в 12 раза?",
+      "code": null,
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из формулы E=hν следует прямая пропорциональность.",
+      "id": "phys-0110",
+      "topic": "atoms",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Автомобиль движется со скоростью 13 м/с в течение 3 с. Какой путь он проходит?",
+      "code": null,
+      "options": [
+        "39",
+        "40",
+        "38",
+        "41"
+      ],
+      "correctIndex": 0,
+      "explanation": "При равномерном движении s=vt.",
+      "id": "phys-0111",
+      "topic": "kinematics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "На тело массой 2 кг действует сила 26 Н. Найдите ускорение.",
+      "code": null,
+      "options": [
+        "13",
+        "14",
+        "12",
+        "15"
+      ],
+      "correctIndex": 0,
+      "explanation": "По второму закону Ньютона a=F/m=26/2=13.",
+      "id": "phys-0112",
+      "topic": "dynamics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 2 кг подняли на высоту 13 м. Найдите потенциальную энергию, приняв g=10 м/с².",
+      "code": null,
+      "options": [
+        "260",
+        "261",
+        "259",
+        "262"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eₚ=mgh=2·10·h.",
+      "id": "phys-0113",
+      "topic": "energy",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 13 кг движется со скоростью 2 м/с. Найдите импульс.",
+      "code": null,
+      "options": [
+        "26",
+        "27",
+        "25",
+        "28"
+      ],
+      "correctIndex": 0,
+      "explanation": "Импульс p=mv.",
+      "id": "phys-0114",
+      "topic": "momentum",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько теплоты нужно для нагревания 1 кг воды на 13 °C? c=4200 Дж/(кг·°C). Ответ в кДж, округлённый до целого.",
+      "code": null,
+      "options": [
+        "55",
+        "56",
+        "54",
+        "57"
+      ],
+      "correctIndex": 0,
+      "explanation": "Q=cmΔT; переводим джоули в килоджоули.",
+      "id": "phys-0115",
+      "topic": "thermal",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "К резистору сопротивлением 2 Ом приложено напряжение 26 В. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "13",
+        "14",
+        "12",
+        "15"
+      ],
+      "correctIndex": 0,
+      "explanation": "По закону Ома I=U/R.",
+      "id": "phys-0116",
+      "topic": "electricity",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Заряд 13 Кл проходит через сечение проводника за 2 с. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "correctIndex": 0,
+      "explanation": "I=q/t; подставляем значения.",
+      "id": "phys-0117",
+      "topic": "magnetism",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Волна имеет частоту 13 Гц и длину 2 м. Найдите скорость распространения.",
+      "code": null,
+      "options": [
+        "26",
+        "27",
+        "25",
+        "28"
+      ],
+      "correctIndex": 0,
+      "explanation": "Скорость волны v=λν.",
+      "id": "phys-0118",
+      "topic": "waves",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Собирающая линза имеет фокусное расстояние 13 см. Чему равна оптическая сила в диоптриях, округлённая до целого?",
+      "code": null,
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "D=1/f, где фокусное расстояние выражено в метрах.",
+      "id": "phys-0119",
+      "topic": "optics",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Энергия фотона пропорциональна частоте. Во сколько раз увеличится энергия при увеличении частоты в 13 раза?",
+      "code": null,
+      "options": [
+        "13",
+        "14",
+        "12",
+        "15"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из формулы E=hν следует прямая пропорциональность.",
+      "id": "phys-0120",
+      "topic": "atoms",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Автомобиль движется со скоростью 14 м/с в течение 3 с. Какой путь он проходит?",
+      "code": null,
+      "options": [
+        "42",
+        "43",
+        "41",
+        "44"
+      ],
+      "correctIndex": 0,
+      "explanation": "При равномерном движении s=vt.",
+      "id": "phys-0121",
+      "topic": "kinematics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "На тело массой 2 кг действует сила 28 Н. Найдите ускорение.",
+      "code": null,
+      "options": [
+        "14",
+        "15",
+        "13",
+        "16"
+      ],
+      "correctIndex": 0,
+      "explanation": "По второму закону Ньютона a=F/m=28/2=14.",
+      "id": "phys-0122",
+      "topic": "dynamics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 2 кг подняли на высоту 14 м. Найдите потенциальную энергию, приняв g=10 м/с².",
+      "code": null,
+      "options": [
+        "280",
+        "281",
+        "279",
+        "282"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eₚ=mgh=2·10·h.",
+      "id": "phys-0123",
+      "topic": "energy",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 14 кг движется со скоростью 2 м/с. Найдите импульс.",
+      "code": null,
+      "options": [
+        "28",
+        "29",
+        "27",
+        "30"
+      ],
+      "correctIndex": 0,
+      "explanation": "Импульс p=mv.",
+      "id": "phys-0124",
+      "topic": "momentum",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько теплоты нужно для нагревания 1 кг воды на 14 °C? c=4200 Дж/(кг·°C). Ответ в кДж, округлённый до целого.",
+      "code": null,
+      "options": [
+        "59",
+        "60",
+        "58",
+        "61"
+      ],
+      "correctIndex": 0,
+      "explanation": "Q=cmΔT; переводим джоули в килоджоули.",
+      "id": "phys-0125",
+      "topic": "thermal",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "К резистору сопротивлением 2 Ом приложено напряжение 28 В. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "14",
+        "15",
+        "13",
+        "16"
+      ],
+      "correctIndex": 0,
+      "explanation": "По закону Ома I=U/R.",
+      "id": "phys-0126",
+      "topic": "electricity",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Заряд 14 Кл проходит через сечение проводника за 2 с. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ],
+      "correctIndex": 0,
+      "explanation": "I=q/t; подставляем значения.",
+      "id": "phys-0127",
+      "topic": "magnetism",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Волна имеет частоту 14 Гц и длину 2 м. Найдите скорость распространения.",
+      "code": null,
+      "options": [
+        "28",
+        "29",
+        "27",
+        "30"
+      ],
+      "correctIndex": 0,
+      "explanation": "Скорость волны v=λν.",
+      "id": "phys-0128",
+      "topic": "waves",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Собирающая линза имеет фокусное расстояние 14 см. Чему равна оптическая сила в диоптриях, округлённая до целого?",
+      "code": null,
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ],
+      "correctIndex": 0,
+      "explanation": "D=1/f, где фокусное расстояние выражено в метрах.",
+      "id": "phys-0129",
+      "topic": "optics",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Энергия фотона пропорциональна частоте. Во сколько раз увеличится энергия при увеличении частоты в 14 раза?",
+      "code": null,
+      "options": [
+        "14",
+        "15",
+        "13",
+        "16"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из формулы E=hν следует прямая пропорциональность.",
+      "id": "phys-0130",
+      "topic": "atoms",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Автомобиль движется со скоростью 15 м/с в течение 3 с. Какой путь он проходит?",
+      "code": null,
+      "options": [
+        "45",
+        "46",
+        "44",
+        "47"
+      ],
+      "correctIndex": 0,
+      "explanation": "При равномерном движении s=vt.",
+      "id": "phys-0131",
+      "topic": "kinematics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "На тело массой 2 кг действует сила 30 Н. Найдите ускорение.",
+      "code": null,
+      "options": [
+        "15",
+        "16",
+        "14",
+        "17"
+      ],
+      "correctIndex": 0,
+      "explanation": "По второму закону Ньютона a=F/m=30/2=15.",
+      "id": "phys-0132",
+      "topic": "dynamics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 2 кг подняли на высоту 15 м. Найдите потенциальную энергию, приняв g=10 м/с².",
+      "code": null,
+      "options": [
+        "300",
+        "301",
+        "299",
+        "302"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eₚ=mgh=2·10·h.",
+      "id": "phys-0133",
+      "topic": "energy",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 15 кг движется со скоростью 2 м/с. Найдите импульс.",
+      "code": null,
+      "options": [
+        "30",
+        "31",
+        "29",
+        "32"
+      ],
+      "correctIndex": 0,
+      "explanation": "Импульс p=mv.",
+      "id": "phys-0134",
+      "topic": "momentum",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько теплоты нужно для нагревания 1 кг воды на 15 °C? c=4200 Дж/(кг·°C). Ответ в кДж, округлённый до целого.",
+      "code": null,
+      "options": [
+        "63",
+        "64",
+        "62",
+        "65"
+      ],
+      "correctIndex": 0,
+      "explanation": "Q=cmΔT; переводим джоули в килоджоули.",
+      "id": "phys-0135",
+      "topic": "thermal",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "К резистору сопротивлением 2 Ом приложено напряжение 30 В. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "15",
+        "16",
+        "14",
+        "17"
+      ],
+      "correctIndex": 0,
+      "explanation": "По закону Ома I=U/R.",
+      "id": "phys-0136",
+      "topic": "electricity",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Заряд 15 Кл проходит через сечение проводника за 2 с. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ],
+      "correctIndex": 0,
+      "explanation": "I=q/t; подставляем значения.",
+      "id": "phys-0137",
+      "topic": "magnetism",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Волна имеет частоту 15 Гц и длину 2 м. Найдите скорость распространения.",
+      "code": null,
+      "options": [
+        "30",
+        "31",
+        "29",
+        "32"
+      ],
+      "correctIndex": 0,
+      "explanation": "Скорость волны v=λν.",
+      "id": "phys-0138",
+      "topic": "waves",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Собирающая линза имеет фокусное расстояние 15 см. Чему равна оптическая сила в диоптриях, округлённая до целого?",
+      "code": null,
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ],
+      "correctIndex": 0,
+      "explanation": "D=1/f, где фокусное расстояние выражено в метрах.",
+      "id": "phys-0139",
+      "topic": "optics",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Энергия фотона пропорциональна частоте. Во сколько раз увеличится энергия при увеличении частоты в 15 раза?",
+      "code": null,
+      "options": [
+        "15",
+        "16",
+        "14",
+        "17"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из формулы E=hν следует прямая пропорциональность.",
+      "id": "phys-0140",
+      "topic": "atoms",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Автомобиль движется со скоростью 16 м/с в течение 3 с. Какой путь он проходит?",
+      "code": null,
+      "options": [
+        "48",
+        "49",
+        "47",
+        "50"
+      ],
+      "correctIndex": 0,
+      "explanation": "При равномерном движении s=vt.",
+      "id": "phys-0141",
+      "topic": "kinematics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "На тело массой 2 кг действует сила 32 Н. Найдите ускорение.",
+      "code": null,
+      "options": [
+        "16",
+        "17",
+        "15",
+        "18"
+      ],
+      "correctIndex": 0,
+      "explanation": "По второму закону Ньютона a=F/m=32/2=16.",
+      "id": "phys-0142",
+      "topic": "dynamics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 2 кг подняли на высоту 16 м. Найдите потенциальную энергию, приняв g=10 м/с².",
+      "code": null,
+      "options": [
+        "320",
+        "321",
+        "319",
+        "322"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eₚ=mgh=2·10·h.",
+      "id": "phys-0143",
+      "topic": "energy",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 16 кг движется со скоростью 2 м/с. Найдите импульс.",
+      "code": null,
+      "options": [
+        "32",
+        "33",
+        "31",
+        "34"
+      ],
+      "correctIndex": 0,
+      "explanation": "Импульс p=mv.",
+      "id": "phys-0144",
+      "topic": "momentum",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько теплоты нужно для нагревания 1 кг воды на 16 °C? c=4200 Дж/(кг·°C). Ответ в кДж, округлённый до целого.",
+      "code": null,
+      "options": [
+        "67",
+        "68",
+        "66",
+        "69"
+      ],
+      "correctIndex": 0,
+      "explanation": "Q=cmΔT; переводим джоули в килоджоули.",
+      "id": "phys-0145",
+      "topic": "thermal",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "К резистору сопротивлением 2 Ом приложено напряжение 32 В. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "16",
+        "17",
+        "15",
+        "18"
+      ],
+      "correctIndex": 0,
+      "explanation": "По закону Ома I=U/R.",
+      "id": "phys-0146",
+      "topic": "electricity",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Заряд 16 Кл проходит через сечение проводника за 2 с. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "I=q/t; подставляем значения.",
+      "id": "phys-0147",
+      "topic": "magnetism",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Волна имеет частоту 16 Гц и длину 2 м. Найдите скорость распространения.",
+      "code": null,
+      "options": [
+        "32",
+        "33",
+        "31",
+        "34"
+      ],
+      "correctIndex": 0,
+      "explanation": "Скорость волны v=λν.",
+      "id": "phys-0148",
+      "topic": "waves",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Собирающая линза имеет фокусное расстояние 16 см. Чему равна оптическая сила в диоптриях, округлённая до целого?",
+      "code": null,
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "correctIndex": 0,
+      "explanation": "D=1/f, где фокусное расстояние выражено в метрах.",
+      "id": "phys-0149",
+      "topic": "optics",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Энергия фотона пропорциональна частоте. Во сколько раз увеличится энергия при увеличении частоты в 16 раза?",
+      "code": null,
+      "options": [
+        "16",
+        "17",
+        "15",
+        "18"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из формулы E=hν следует прямая пропорциональность.",
+      "id": "phys-0150",
+      "topic": "atoms",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Автомобиль движется со скоростью 17 м/с в течение 3 с. Какой путь он проходит?",
+      "code": null,
+      "options": [
+        "51",
+        "52",
+        "50",
+        "53"
+      ],
+      "correctIndex": 0,
+      "explanation": "При равномерном движении s=vt.",
+      "id": "phys-0151",
+      "topic": "kinematics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "На тело массой 2 кг действует сила 34 Н. Найдите ускорение.",
+      "code": null,
+      "options": [
+        "17",
+        "18",
+        "16",
+        "19"
+      ],
+      "correctIndex": 0,
+      "explanation": "По второму закону Ньютона a=F/m=34/2=17.",
+      "id": "phys-0152",
+      "topic": "dynamics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 2 кг подняли на высоту 17 м. Найдите потенциальную энергию, приняв g=10 м/с².",
+      "code": null,
+      "options": [
+        "340",
+        "341",
+        "339",
+        "342"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eₚ=mgh=2·10·h.",
+      "id": "phys-0153",
+      "topic": "energy",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 17 кг движется со скоростью 2 м/с. Найдите импульс.",
+      "code": null,
+      "options": [
+        "34",
+        "35",
+        "33",
+        "36"
+      ],
+      "correctIndex": 0,
+      "explanation": "Импульс p=mv.",
+      "id": "phys-0154",
+      "topic": "momentum",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько теплоты нужно для нагревания 1 кг воды на 17 °C? c=4200 Дж/(кг·°C). Ответ в кДж, округлённый до целого.",
+      "code": null,
+      "options": [
+        "71",
+        "72",
+        "70",
+        "73"
+      ],
+      "correctIndex": 0,
+      "explanation": "Q=cmΔT; переводим джоули в килоджоули.",
+      "id": "phys-0155",
+      "topic": "thermal",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "К резистору сопротивлением 2 Ом приложено напряжение 34 В. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "17",
+        "18",
+        "16",
+        "19"
+      ],
+      "correctIndex": 0,
+      "explanation": "По закону Ома I=U/R.",
+      "id": "phys-0156",
+      "topic": "electricity",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Заряд 17 Кл проходит через сечение проводника за 2 с. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "I=q/t; подставляем значения.",
+      "id": "phys-0157",
+      "topic": "magnetism",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Волна имеет частоту 17 Гц и длину 2 м. Найдите скорость распространения.",
+      "code": null,
+      "options": [
+        "34",
+        "35",
+        "33",
+        "36"
+      ],
+      "correctIndex": 0,
+      "explanation": "Скорость волны v=λν.",
+      "id": "phys-0158",
+      "topic": "waves",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Собирающая линза имеет фокусное расстояние 17 см. Чему равна оптическая сила в диоптриях, округлённая до целого?",
+      "code": null,
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "correctIndex": 0,
+      "explanation": "D=1/f, где фокусное расстояние выражено в метрах.",
+      "id": "phys-0159",
+      "topic": "optics",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Энергия фотона пропорциональна частоте. Во сколько раз увеличится энергия при увеличении частоты в 17 раза?",
+      "code": null,
+      "options": [
+        "17",
+        "18",
+        "16",
+        "19"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из формулы E=hν следует прямая пропорциональность.",
+      "id": "phys-0160",
+      "topic": "atoms",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Автомобиль движется со скоростью 18 м/с в течение 3 с. Какой путь он проходит?",
+      "code": null,
+      "options": [
+        "54",
+        "55",
+        "53",
+        "56"
+      ],
+      "correctIndex": 0,
+      "explanation": "При равномерном движении s=vt.",
+      "id": "phys-0161",
+      "topic": "kinematics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "На тело массой 2 кг действует сила 36 Н. Найдите ускорение.",
+      "code": null,
+      "options": [
+        "18",
+        "19",
+        "17",
+        "20"
+      ],
+      "correctIndex": 0,
+      "explanation": "По второму закону Ньютона a=F/m=36/2=18.",
+      "id": "phys-0162",
+      "topic": "dynamics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 2 кг подняли на высоту 18 м. Найдите потенциальную энергию, приняв g=10 м/с².",
+      "code": null,
+      "options": [
+        "360",
+        "361",
+        "359",
+        "362"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eₚ=mgh=2·10·h.",
+      "id": "phys-0163",
+      "topic": "energy",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 18 кг движется со скоростью 2 м/с. Найдите импульс.",
+      "code": null,
+      "options": [
+        "36",
+        "37",
+        "35",
+        "38"
+      ],
+      "correctIndex": 0,
+      "explanation": "Импульс p=mv.",
+      "id": "phys-0164",
+      "topic": "momentum",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько теплоты нужно для нагревания 1 кг воды на 18 °C? c=4200 Дж/(кг·°C). Ответ в кДж, округлённый до целого.",
+      "code": null,
+      "options": [
+        "76",
+        "77",
+        "75",
+        "78"
+      ],
+      "correctIndex": 0,
+      "explanation": "Q=cmΔT; переводим джоули в килоджоули.",
+      "id": "phys-0165",
+      "topic": "thermal",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "К резистору сопротивлением 2 Ом приложено напряжение 36 В. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "18",
+        "19",
+        "17",
+        "20"
+      ],
+      "correctIndex": 0,
+      "explanation": "По закону Ома I=U/R.",
+      "id": "phys-0166",
+      "topic": "electricity",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Заряд 18 Кл проходит через сечение проводника за 2 с. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ],
+      "correctIndex": 0,
+      "explanation": "I=q/t; подставляем значения.",
+      "id": "phys-0167",
+      "topic": "magnetism",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Волна имеет частоту 18 Гц и длину 2 м. Найдите скорость распространения.",
+      "code": null,
+      "options": [
+        "36",
+        "37",
+        "35",
+        "38"
+      ],
+      "correctIndex": 0,
+      "explanation": "Скорость волны v=λν.",
+      "id": "phys-0168",
+      "topic": "waves",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Собирающая линза имеет фокусное расстояние 18 см. Чему равна оптическая сила в диоптриях, округлённая до целого?",
+      "code": null,
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "correctIndex": 0,
+      "explanation": "D=1/f, где фокусное расстояние выражено в метрах.",
+      "id": "phys-0169",
+      "topic": "optics",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Энергия фотона пропорциональна частоте. Во сколько раз увеличится энергия при увеличении частоты в 18 раза?",
+      "code": null,
+      "options": [
+        "18",
+        "19",
+        "17",
+        "20"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из формулы E=hν следует прямая пропорциональность.",
+      "id": "phys-0170",
+      "topic": "atoms",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Автомобиль движется со скоростью 19 м/с в течение 3 с. Какой путь он проходит?",
+      "code": null,
+      "options": [
+        "57",
+        "58",
+        "56",
+        "59"
+      ],
+      "correctIndex": 0,
+      "explanation": "При равномерном движении s=vt.",
+      "id": "phys-0171",
+      "topic": "kinematics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "На тело массой 2 кг действует сила 38 Н. Найдите ускорение.",
+      "code": null,
+      "options": [
+        "19",
+        "20",
+        "18",
+        "21"
+      ],
+      "correctIndex": 0,
+      "explanation": "По второму закону Ньютона a=F/m=38/2=19.",
+      "id": "phys-0172",
+      "topic": "dynamics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 2 кг подняли на высоту 19 м. Найдите потенциальную энергию, приняв g=10 м/с².",
+      "code": null,
+      "options": [
+        "380",
+        "381",
+        "379",
+        "382"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eₚ=mgh=2·10·h.",
+      "id": "phys-0173",
+      "topic": "energy",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 19 кг движется со скоростью 2 м/с. Найдите импульс.",
+      "code": null,
+      "options": [
+        "38",
+        "39",
+        "37",
+        "40"
+      ],
+      "correctIndex": 0,
+      "explanation": "Импульс p=mv.",
+      "id": "phys-0174",
+      "topic": "momentum",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько теплоты нужно для нагревания 1 кг воды на 19 °C? c=4200 Дж/(кг·°C). Ответ в кДж, округлённый до целого.",
+      "code": null,
+      "options": [
+        "80",
+        "81",
+        "79",
+        "82"
+      ],
+      "correctIndex": 0,
+      "explanation": "Q=cmΔT; переводим джоули в килоджоули.",
+      "id": "phys-0175",
+      "topic": "thermal",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "К резистору сопротивлением 2 Ом приложено напряжение 38 В. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "19",
+        "20",
+        "18",
+        "21"
+      ],
+      "correctIndex": 0,
+      "explanation": "По закону Ома I=U/R.",
+      "id": "phys-0176",
+      "topic": "electricity",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Заряд 19 Кл проходит через сечение проводника за 2 с. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ],
+      "correctIndex": 0,
+      "explanation": "I=q/t; подставляем значения.",
+      "id": "phys-0177",
+      "topic": "magnetism",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Волна имеет частоту 19 Гц и длину 2 м. Найдите скорость распространения.",
+      "code": null,
+      "options": [
+        "38",
+        "39",
+        "37",
+        "40"
+      ],
+      "correctIndex": 0,
+      "explanation": "Скорость волны v=λν.",
+      "id": "phys-0178",
+      "topic": "waves",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Собирающая линза имеет фокусное расстояние 19 см. Чему равна оптическая сила в диоптриях, округлённая до целого?",
+      "code": null,
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "correctIndex": 0,
+      "explanation": "D=1/f, где фокусное расстояние выражено в метрах.",
+      "id": "phys-0179",
+      "topic": "optics",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Энергия фотона пропорциональна частоте. Во сколько раз увеличится энергия при увеличении частоты в 19 раза?",
+      "code": null,
+      "options": [
+        "19",
+        "20",
+        "18",
+        "21"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из формулы E=hν следует прямая пропорциональность.",
+      "id": "phys-0180",
+      "topic": "atoms",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Автомобиль движется со скоростью 20 м/с в течение 3 с. Какой путь он проходит?",
+      "code": null,
+      "options": [
+        "60",
+        "61",
+        "59",
+        "62"
+      ],
+      "correctIndex": 0,
+      "explanation": "При равномерном движении s=vt.",
+      "id": "phys-0181",
+      "topic": "kinematics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "На тело массой 2 кг действует сила 40 Н. Найдите ускорение.",
+      "code": null,
+      "options": [
+        "20",
+        "21",
+        "19",
+        "22"
+      ],
+      "correctIndex": 0,
+      "explanation": "По второму закону Ньютона a=F/m=40/2=20.",
+      "id": "phys-0182",
+      "topic": "dynamics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 2 кг подняли на высоту 20 м. Найдите потенциальную энергию, приняв g=10 м/с².",
+      "code": null,
+      "options": [
+        "400",
+        "401",
+        "399",
+        "402"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eₚ=mgh=2·10·h.",
+      "id": "phys-0183",
+      "topic": "energy",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 20 кг движется со скоростью 2 м/с. Найдите импульс.",
+      "code": null,
+      "options": [
+        "40",
+        "41",
+        "39",
+        "42"
+      ],
+      "correctIndex": 0,
+      "explanation": "Импульс p=mv.",
+      "id": "phys-0184",
+      "topic": "momentum",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько теплоты нужно для нагревания 1 кг воды на 20 °C? c=4200 Дж/(кг·°C). Ответ в кДж, округлённый до целого.",
+      "code": null,
+      "options": [
+        "84",
+        "85",
+        "83",
+        "86"
+      ],
+      "correctIndex": 0,
+      "explanation": "Q=cmΔT; переводим джоули в килоджоули.",
+      "id": "phys-0185",
+      "topic": "thermal",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "К резистору сопротивлением 2 Ом приложено напряжение 40 В. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "20",
+        "21",
+        "19",
+        "22"
+      ],
+      "correctIndex": 0,
+      "explanation": "По закону Ома I=U/R.",
+      "id": "phys-0186",
+      "topic": "electricity",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Заряд 20 Кл проходит через сечение проводника за 2 с. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "10",
+        "11",
+        "9",
+        "12"
+      ],
+      "correctIndex": 0,
+      "explanation": "I=q/t; подставляем значения.",
+      "id": "phys-0187",
+      "topic": "magnetism",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Волна имеет частоту 20 Гц и длину 2 м. Найдите скорость распространения.",
+      "code": null,
+      "options": [
+        "40",
+        "41",
+        "39",
+        "42"
+      ],
+      "correctIndex": 0,
+      "explanation": "Скорость волны v=λν.",
+      "id": "phys-0188",
+      "topic": "waves",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Собирающая линза имеет фокусное расстояние 20 см. Чему равна оптическая сила в диоптриях, округлённая до целого?",
+      "code": null,
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "correctIndex": 0,
+      "explanation": "D=1/f, где фокусное расстояние выражено в метрах.",
+      "id": "phys-0189",
+      "topic": "optics",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Энергия фотона пропорциональна частоте. Во сколько раз увеличится энергия при увеличении частоты в 20 раза?",
+      "code": null,
+      "options": [
+        "20",
+        "21",
+        "19",
+        "22"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из формулы E=hν следует прямая пропорциональность.",
+      "id": "phys-0190",
+      "topic": "atoms",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Автомобиль движется со скоростью 21 м/с в течение 3 с. Какой путь он проходит?",
+      "code": null,
+      "options": [
+        "63",
+        "64",
+        "62",
+        "65"
+      ],
+      "correctIndex": 0,
+      "explanation": "При равномерном движении s=vt.",
+      "id": "phys-0191",
+      "topic": "kinematics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "На тело массой 2 кг действует сила 42 Н. Найдите ускорение.",
+      "code": null,
+      "options": [
+        "21",
+        "22",
+        "20",
+        "23"
+      ],
+      "correctIndex": 0,
+      "explanation": "По второму закону Ньютона a=F/m=42/2=21.",
+      "id": "phys-0192",
+      "topic": "dynamics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 2 кг подняли на высоту 21 м. Найдите потенциальную энергию, приняв g=10 м/с².",
+      "code": null,
+      "options": [
+        "420",
+        "421",
+        "419",
+        "422"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eₚ=mgh=2·10·h.",
+      "id": "phys-0193",
+      "topic": "energy",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 21 кг движется со скоростью 2 м/с. Найдите импульс.",
+      "code": null,
+      "options": [
+        "42",
+        "43",
+        "41",
+        "44"
+      ],
+      "correctIndex": 0,
+      "explanation": "Импульс p=mv.",
+      "id": "phys-0194",
+      "topic": "momentum",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько теплоты нужно для нагревания 1 кг воды на 21 °C? c=4200 Дж/(кг·°C). Ответ в кДж, округлённый до целого.",
+      "code": null,
+      "options": [
+        "88",
+        "89",
+        "87",
+        "90"
+      ],
+      "correctIndex": 0,
+      "explanation": "Q=cmΔT; переводим джоули в килоджоули.",
+      "id": "phys-0195",
+      "topic": "thermal",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "К резистору сопротивлением 2 Ом приложено напряжение 42 В. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "21",
+        "22",
+        "20",
+        "23"
+      ],
+      "correctIndex": 0,
+      "explanation": "По закону Ома I=U/R.",
+      "id": "phys-0196",
+      "topic": "electricity",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Заряд 21 Кл проходит через сечение проводника за 2 с. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "10",
+        "11",
+        "9",
+        "12"
+      ],
+      "correctIndex": 0,
+      "explanation": "I=q/t; подставляем значения.",
+      "id": "phys-0197",
+      "topic": "magnetism",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Волна имеет частоту 21 Гц и длину 2 м. Найдите скорость распространения.",
+      "code": null,
+      "options": [
+        "42",
+        "43",
+        "41",
+        "44"
+      ],
+      "correctIndex": 0,
+      "explanation": "Скорость волны v=λν.",
+      "id": "phys-0198",
+      "topic": "waves",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Собирающая линза имеет фокусное расстояние 21 см. Чему равна оптическая сила в диоптриях, округлённая до целого?",
+      "code": null,
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "correctIndex": 0,
+      "explanation": "D=1/f, где фокусное расстояние выражено в метрах.",
+      "id": "phys-0199",
+      "topic": "optics",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Энергия фотона пропорциональна частоте. Во сколько раз увеличится энергия при увеличении частоты в 21 раза?",
+      "code": null,
+      "options": [
+        "21",
+        "22",
+        "20",
+        "23"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из формулы E=hν следует прямая пропорциональность.",
+      "id": "phys-0200",
+      "topic": "atoms",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Автомобиль движется со скоростью 22 м/с в течение 3 с. Какой путь он проходит?",
+      "code": null,
+      "options": [
+        "66",
+        "67",
+        "65",
+        "68"
+      ],
+      "correctIndex": 0,
+      "explanation": "При равномерном движении s=vt.",
+      "id": "phys-0201",
+      "topic": "kinematics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "На тело массой 2 кг действует сила 44 Н. Найдите ускорение.",
+      "code": null,
+      "options": [
+        "22",
+        "23",
+        "21",
+        "24"
+      ],
+      "correctIndex": 0,
+      "explanation": "По второму закону Ньютона a=F/m=44/2=22.",
+      "id": "phys-0202",
+      "topic": "dynamics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 2 кг подняли на высоту 22 м. Найдите потенциальную энергию, приняв g=10 м/с².",
+      "code": null,
+      "options": [
+        "440",
+        "441",
+        "439",
+        "442"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eₚ=mgh=2·10·h.",
+      "id": "phys-0203",
+      "topic": "energy",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 22 кг движется со скоростью 2 м/с. Найдите импульс.",
+      "code": null,
+      "options": [
+        "44",
+        "45",
+        "43",
+        "46"
+      ],
+      "correctIndex": 0,
+      "explanation": "Импульс p=mv.",
+      "id": "phys-0204",
+      "topic": "momentum",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько теплоты нужно для нагревания 1 кг воды на 22 °C? c=4200 Дж/(кг·°C). Ответ в кДж, округлённый до целого.",
+      "code": null,
+      "options": [
+        "92",
+        "93",
+        "91",
+        "94"
+      ],
+      "correctIndex": 0,
+      "explanation": "Q=cmΔT; переводим джоули в килоджоули.",
+      "id": "phys-0205",
+      "topic": "thermal",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "К резистору сопротивлением 2 Ом приложено напряжение 44 В. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "22",
+        "23",
+        "21",
+        "24"
+      ],
+      "correctIndex": 0,
+      "explanation": "По закону Ома I=U/R.",
+      "id": "phys-0206",
+      "topic": "electricity",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Заряд 22 Кл проходит через сечение проводника за 2 с. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "11",
+        "12",
+        "10",
+        "13"
+      ],
+      "correctIndex": 0,
+      "explanation": "I=q/t; подставляем значения.",
+      "id": "phys-0207",
+      "topic": "magnetism",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Волна имеет частоту 22 Гц и длину 2 м. Найдите скорость распространения.",
+      "code": null,
+      "options": [
+        "44",
+        "45",
+        "43",
+        "46"
+      ],
+      "correctIndex": 0,
+      "explanation": "Скорость волны v=λν.",
+      "id": "phys-0208",
+      "topic": "waves",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Собирающая линза имеет фокусное расстояние 22 см. Чему равна оптическая сила в диоптриях, округлённая до целого?",
+      "code": null,
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "correctIndex": 0,
+      "explanation": "D=1/f, где фокусное расстояние выражено в метрах.",
+      "id": "phys-0209",
+      "topic": "optics",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Энергия фотона пропорциональна частоте. Во сколько раз увеличится энергия при увеличении частоты в 22 раза?",
+      "code": null,
+      "options": [
+        "22",
+        "23",
+        "21",
+        "24"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из формулы E=hν следует прямая пропорциональность.",
+      "id": "phys-0210",
+      "topic": "atoms",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Автомобиль движется со скоростью 23 м/с в течение 3 с. Какой путь он проходит?",
+      "code": null,
+      "options": [
+        "69",
+        "70",
+        "68",
+        "71"
+      ],
+      "correctIndex": 0,
+      "explanation": "При равномерном движении s=vt.",
+      "id": "phys-0211",
+      "topic": "kinematics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "На тело массой 2 кг действует сила 46 Н. Найдите ускорение.",
+      "code": null,
+      "options": [
+        "23",
+        "24",
+        "22",
+        "25"
+      ],
+      "correctIndex": 0,
+      "explanation": "По второму закону Ньютона a=F/m=46/2=23.",
+      "id": "phys-0212",
+      "topic": "dynamics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 2 кг подняли на высоту 23 м. Найдите потенциальную энергию, приняв g=10 м/с².",
+      "code": null,
+      "options": [
+        "460",
+        "461",
+        "459",
+        "462"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eₚ=mgh=2·10·h.",
+      "id": "phys-0213",
+      "topic": "energy",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 23 кг движется со скоростью 2 м/с. Найдите импульс.",
+      "code": null,
+      "options": [
+        "46",
+        "47",
+        "45",
+        "48"
+      ],
+      "correctIndex": 0,
+      "explanation": "Импульс p=mv.",
+      "id": "phys-0214",
+      "topic": "momentum",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько теплоты нужно для нагревания 1 кг воды на 23 °C? c=4200 Дж/(кг·°C). Ответ в кДж, округлённый до целого.",
+      "code": null,
+      "options": [
+        "97",
+        "98",
+        "96",
+        "99"
+      ],
+      "correctIndex": 0,
+      "explanation": "Q=cmΔT; переводим джоули в килоджоули.",
+      "id": "phys-0215",
+      "topic": "thermal",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "К резистору сопротивлением 2 Ом приложено напряжение 46 В. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "23",
+        "24",
+        "22",
+        "25"
+      ],
+      "correctIndex": 0,
+      "explanation": "По закону Ома I=U/R.",
+      "id": "phys-0216",
+      "topic": "electricity",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Заряд 23 Кл проходит через сечение проводника за 2 с. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "11",
+        "12",
+        "10",
+        "13"
+      ],
+      "correctIndex": 0,
+      "explanation": "I=q/t; подставляем значения.",
+      "id": "phys-0217",
+      "topic": "magnetism",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Волна имеет частоту 23 Гц и длину 2 м. Найдите скорость распространения.",
+      "code": null,
+      "options": [
+        "46",
+        "47",
+        "45",
+        "48"
+      ],
+      "correctIndex": 0,
+      "explanation": "Скорость волны v=λν.",
+      "id": "phys-0218",
+      "topic": "waves",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Собирающая линза имеет фокусное расстояние 23 см. Чему равна оптическая сила в диоптриях, округлённая до целого?",
+      "code": null,
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "D=1/f, где фокусное расстояние выражено в метрах.",
+      "id": "phys-0219",
+      "topic": "optics",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Энергия фотона пропорциональна частоте. Во сколько раз увеличится энергия при увеличении частоты в 23 раза?",
+      "code": null,
+      "options": [
+        "23",
+        "24",
+        "22",
+        "25"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из формулы E=hν следует прямая пропорциональность.",
+      "id": "phys-0220",
+      "topic": "atoms",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Автомобиль движется со скоростью 24 м/с в течение 3 с. Какой путь он проходит?",
+      "code": null,
+      "options": [
+        "72",
+        "73",
+        "71",
+        "74"
+      ],
+      "correctIndex": 0,
+      "explanation": "При равномерном движении s=vt.",
+      "id": "phys-0221",
+      "topic": "kinematics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "На тело массой 2 кг действует сила 48 Н. Найдите ускорение.",
+      "code": null,
+      "options": [
+        "24",
+        "25",
+        "23",
+        "26"
+      ],
+      "correctIndex": 0,
+      "explanation": "По второму закону Ньютона a=F/m=48/2=24.",
+      "id": "phys-0222",
+      "topic": "dynamics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 2 кг подняли на высоту 24 м. Найдите потенциальную энергию, приняв g=10 м/с².",
+      "code": null,
+      "options": [
+        "480",
+        "481",
+        "479",
+        "482"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eₚ=mgh=2·10·h.",
+      "id": "phys-0223",
+      "topic": "energy",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 24 кг движется со скоростью 2 м/с. Найдите импульс.",
+      "code": null,
+      "options": [
+        "48",
+        "49",
+        "47",
+        "50"
+      ],
+      "correctIndex": 0,
+      "explanation": "Импульс p=mv.",
+      "id": "phys-0224",
+      "topic": "momentum",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько теплоты нужно для нагревания 1 кг воды на 24 °C? c=4200 Дж/(кг·°C). Ответ в кДж, округлённый до целого.",
+      "code": null,
+      "options": [
+        "101",
+        "102",
+        "100",
+        "103"
+      ],
+      "correctIndex": 0,
+      "explanation": "Q=cmΔT; переводим джоули в килоджоули.",
+      "id": "phys-0225",
+      "topic": "thermal",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "К резистору сопротивлением 2 Ом приложено напряжение 48 В. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "24",
+        "25",
+        "23",
+        "26"
+      ],
+      "correctIndex": 0,
+      "explanation": "По закону Ома I=U/R.",
+      "id": "phys-0226",
+      "topic": "electricity",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Заряд 24 Кл проходит через сечение проводника за 2 с. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ],
+      "correctIndex": 0,
+      "explanation": "I=q/t; подставляем значения.",
+      "id": "phys-0227",
+      "topic": "magnetism",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Волна имеет частоту 24 Гц и длину 2 м. Найдите скорость распространения.",
+      "code": null,
+      "options": [
+        "48",
+        "49",
+        "47",
+        "50"
+      ],
+      "correctIndex": 0,
+      "explanation": "Скорость волны v=λν.",
+      "id": "phys-0228",
+      "topic": "waves",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Собирающая линза имеет фокусное расстояние 24 см. Чему равна оптическая сила в диоптриях, округлённая до целого?",
+      "code": null,
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "D=1/f, где фокусное расстояние выражено в метрах.",
+      "id": "phys-0229",
+      "topic": "optics",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Энергия фотона пропорциональна частоте. Во сколько раз увеличится энергия при увеличении частоты в 24 раза?",
+      "code": null,
+      "options": [
+        "24",
+        "25",
+        "23",
+        "26"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из формулы E=hν следует прямая пропорциональность.",
+      "id": "phys-0230",
+      "topic": "atoms",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Автомобиль движется со скоростью 25 м/с в течение 3 с. Какой путь он проходит?",
+      "code": null,
+      "options": [
+        "75",
+        "76",
+        "74",
+        "77"
+      ],
+      "correctIndex": 0,
+      "explanation": "При равномерном движении s=vt.",
+      "id": "phys-0231",
+      "topic": "kinematics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "На тело массой 2 кг действует сила 50 Н. Найдите ускорение.",
+      "code": null,
+      "options": [
+        "25",
+        "26",
+        "24",
+        "27"
+      ],
+      "correctIndex": 0,
+      "explanation": "По второму закону Ньютона a=F/m=50/2=25.",
+      "id": "phys-0232",
+      "topic": "dynamics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 2 кг подняли на высоту 25 м. Найдите потенциальную энергию, приняв g=10 м/с².",
+      "code": null,
+      "options": [
+        "500",
+        "501",
+        "499",
+        "502"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eₚ=mgh=2·10·h.",
+      "id": "phys-0233",
+      "topic": "energy",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 25 кг движется со скоростью 2 м/с. Найдите импульс.",
+      "code": null,
+      "options": [
+        "50",
+        "51",
+        "49",
+        "52"
+      ],
+      "correctIndex": 0,
+      "explanation": "Импульс p=mv.",
+      "id": "phys-0234",
+      "topic": "momentum",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько теплоты нужно для нагревания 1 кг воды на 25 °C? c=4200 Дж/(кг·°C). Ответ в кДж, округлённый до целого.",
+      "code": null,
+      "options": [
+        "105",
+        "106",
+        "104",
+        "107"
+      ],
+      "correctIndex": 0,
+      "explanation": "Q=cmΔT; переводим джоули в килоджоули.",
+      "id": "phys-0235",
+      "topic": "thermal",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "К резистору сопротивлением 2 Ом приложено напряжение 50 В. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "25",
+        "26",
+        "24",
+        "27"
+      ],
+      "correctIndex": 0,
+      "explanation": "По закону Ома I=U/R.",
+      "id": "phys-0236",
+      "topic": "electricity",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Заряд 25 Кл проходит через сечение проводника за 2 с. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ],
+      "correctIndex": 0,
+      "explanation": "I=q/t; подставляем значения.",
+      "id": "phys-0237",
+      "topic": "magnetism",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Волна имеет частоту 25 Гц и длину 2 м. Найдите скорость распространения.",
+      "code": null,
+      "options": [
+        "50",
+        "51",
+        "49",
+        "52"
+      ],
+      "correctIndex": 0,
+      "explanation": "Скорость волны v=λν.",
+      "id": "phys-0238",
+      "topic": "waves",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Собирающая линза имеет фокусное расстояние 25 см. Чему равна оптическая сила в диоптриях, округлённая до целого?",
+      "code": null,
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "D=1/f, где фокусное расстояние выражено в метрах.",
+      "id": "phys-0239",
+      "topic": "optics",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Энергия фотона пропорциональна частоте. Во сколько раз увеличится энергия при увеличении частоты в 25 раза?",
+      "code": null,
+      "options": [
+        "25",
+        "26",
+        "24",
+        "27"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из формулы E=hν следует прямая пропорциональность.",
+      "id": "phys-0240",
+      "topic": "atoms",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Автомобиль движется со скоростью 26 м/с в течение 3 с. Какой путь он проходит?",
+      "code": null,
+      "options": [
+        "78",
+        "79",
+        "77",
+        "80"
+      ],
+      "correctIndex": 0,
+      "explanation": "При равномерном движении s=vt.",
+      "id": "phys-0241",
+      "topic": "kinematics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "На тело массой 2 кг действует сила 52 Н. Найдите ускорение.",
+      "code": null,
+      "options": [
+        "26",
+        "27",
+        "25",
+        "28"
+      ],
+      "correctIndex": 0,
+      "explanation": "По второму закону Ньютона a=F/m=52/2=26.",
+      "id": "phys-0242",
+      "topic": "dynamics",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 2 кг подняли на высоту 26 м. Найдите потенциальную энергию, приняв g=10 м/с².",
+      "code": null,
+      "options": [
+        "520",
+        "521",
+        "519",
+        "522"
+      ],
+      "correctIndex": 0,
+      "explanation": "Eₚ=mgh=2·10·h.",
+      "id": "phys-0243",
+      "topic": "energy",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Тело массой 26 кг движется со скоростью 2 м/с. Найдите импульс.",
+      "code": null,
+      "options": [
+        "52",
+        "53",
+        "51",
+        "54"
+      ],
+      "correctIndex": 0,
+      "explanation": "Импульс p=mv.",
+      "id": "phys-0244",
+      "topic": "momentum",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Сколько теплоты нужно для нагревания 1 кг воды на 26 °C? c=4200 Дж/(кг·°C). Ответ в кДж, округлённый до целого.",
+      "code": null,
+      "options": [
+        "109",
+        "110",
+        "108",
+        "111"
+      ],
+      "correctIndex": 0,
+      "explanation": "Q=cmΔT; переводим джоули в килоджоули.",
+      "id": "phys-0245",
+      "topic": "thermal",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "К резистору сопротивлением 2 Ом приложено напряжение 52 В. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "26",
+        "27",
+        "25",
+        "28"
+      ],
+      "correctIndex": 0,
+      "explanation": "По закону Ома I=U/R.",
+      "id": "phys-0246",
+      "topic": "electricity",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Заряд 26 Кл проходит через сечение проводника за 2 с. Найдите силу тока.",
+      "code": null,
+      "options": [
+        "13",
+        "14",
+        "12",
+        "15"
+      ],
+      "correctIndex": 0,
+      "explanation": "I=q/t; подставляем значения.",
+      "id": "phys-0247",
+      "topic": "magnetism",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Волна имеет частоту 26 Гц и длину 2 м. Найдите скорость распространения.",
+      "code": null,
+      "options": [
+        "52",
+        "53",
+        "51",
+        "54"
+      ],
+      "correctIndex": 0,
+      "explanation": "Скорость волны v=λν.",
+      "id": "phys-0248",
+      "topic": "waves",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Собирающая линза имеет фокусное расстояние 26 см. Чему равна оптическая сила в диоптриях, округлённая до целого?",
+      "code": null,
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "D=1/f, где фокусное расстояние выражено в метрах.",
+      "id": "phys-0249",
+      "topic": "optics",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Энергия фотона пропорциональна частоте. Во сколько раз увеличится энергия при увеличении частоты в 26 раза?",
+      "code": null,
+      "options": [
+        "26",
+        "27",
+        "25",
+        "28"
+      ],
+      "correctIndex": 0,
+      "explanation": "Из формулы E=hν следует прямая пропорциональность.",
+      "id": "phys-0250",
+      "topic": "atoms",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    }
+  ]
+}

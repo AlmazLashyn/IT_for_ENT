@@ -1,0 +1,6 @@
+pluginManagement { repositories { google(); mavenCentral(); gradlePluginPortal() } }
+dependencyResolutionManagement { repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS); repositories { google(); mavenCentral() } }
+rootProject.name = 'IT-ENT-Preparation-App'
+include ':app'
+def updateEnabled = providers.gradleProperty('enableInformaticsUpdate').orNull == 'true'
+if (updateEnabled) include ':update:informatics'

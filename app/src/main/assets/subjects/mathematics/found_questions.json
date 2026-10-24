@@ -1,0 +1,4256 @@
+{
+  "schemaVersion": 1,
+  "subjectId": "mathematics",
+  "questions": [
+    {
+      "text": "Вычислите f(2), если f(x)=2x+2.",
+      "code": null,
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "correctIndex": 0,
+      "explanation": "Подстановка: 2·2+2=6.",
+      "id": "math-0001",
+      "topic": "functions",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите log₂ 16 + log₃ 27.",
+      "code": null,
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ],
+      "correctIndex": 0,
+      "explanation": "Логарифм степени равен показателю; складываем результаты.",
+      "id": "math-0002",
+      "topic": "logarithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 2sin² α + 2cos² α + 2, если sin² α + cos² α=1.",
+      "code": null,
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "Основное тождество даёт sin² α+cos² α=1.",
+      "id": "math-0003",
+      "topic": "trigonometry",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите f′(2), если f(x)=x²+2x.",
+      "code": null,
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "correctIndex": 0,
+      "explanation": "f′(x)=2x+2; при x=2 получаем 6.",
+      "id": "math-0004",
+      "topic": "derivative",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите ∫₀² 2 dx.",
+      "code": null,
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "Интеграл постоянной 2 на отрезке длины 2 равен 2·2.",
+      "id": "math-0005",
+      "topic": "integral",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Решите уравнение 2x = 8.",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Делим обе части на ненулевой коэффициент.",
+      "id": "math-0006",
+      "topic": "equations",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 2-й член прогрессии a₁=2, d=3.",
+      "code": null,
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "correctIndex": 0,
+      "explanation": "aₙ=a₁+(n−1)d.",
+      "id": "math-0007",
+      "topic": "sequences",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В коробке 2 красных шара и 2 синих. Найдите вероятность выбрать красный шар в процентах, округлив до целого.",
+      "code": null,
+      "options": [
+        "50",
+        "51",
+        "49",
+        "52"
+      ],
+      "correctIndex": 0,
+      "explanation": "Вероятность 2/(2+2); умножаем на 100%.",
+      "id": "math-0008",
+      "topic": "probability",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Площадь прямоугольника со сторонами 2 см и 4 см равна…",
+      "code": null,
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "Площадь равна произведению длины и ширины.",
+      "id": "math-0009",
+      "topic": "geometry",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите длину вектора (2, 0).",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Длина равна √({x}²+0²)={x}.",
+      "id": "math-0010",
+      "topic": "vectors",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите f(3), если f(x)=2x+3.",
+      "code": null,
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ],
+      "correctIndex": 0,
+      "explanation": "Подстановка: 2·3+3=9.",
+      "id": "math-0011",
+      "topic": "functions",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите log₂ 32 + log₃ 81.",
+      "code": null,
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ],
+      "correctIndex": 0,
+      "explanation": "Логарифм степени равен показателю; складываем результаты.",
+      "id": "math-0012",
+      "topic": "logarithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 2sin² α + 2cos² α + 3, если sin² α + cos² α=1.",
+      "code": null,
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "correctIndex": 0,
+      "explanation": "Основное тождество даёт sin² α+cos² α=1.",
+      "id": "math-0013",
+      "topic": "trigonometry",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите f′(2), если f(x)=x²+3x.",
+      "code": null,
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ],
+      "correctIndex": 0,
+      "explanation": "f′(x)=2x+3; при x=2 получаем 7.",
+      "id": "math-0014",
+      "topic": "derivative",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите ∫₀² 3 dx.",
+      "code": null,
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "correctIndex": 0,
+      "explanation": "Интеграл постоянной 3 на отрезке длины 2 равен 2·3.",
+      "id": "math-0015",
+      "topic": "integral",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Решите уравнение 3x = 18.",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Делим обе части на ненулевой коэффициент.",
+      "id": "math-0016",
+      "topic": "equations",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 3-й член прогрессии a₁=2, d=3.",
+      "code": null,
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "aₙ=a₁+(n−1)d.",
+      "id": "math-0017",
+      "topic": "sequences",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В коробке 2 красных шара и 3 синих. Найдите вероятность выбрать красный шар в процентах, округлив до целого.",
+      "code": null,
+      "options": [
+        "40",
+        "41",
+        "39",
+        "42"
+      ],
+      "correctIndex": 0,
+      "explanation": "Вероятность 2/(3+2); умножаем на 100%.",
+      "id": "math-0018",
+      "topic": "probability",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Площадь прямоугольника со сторонами 3 см и 4 см равна…",
+      "code": null,
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ],
+      "correctIndex": 0,
+      "explanation": "Площадь равна произведению длины и ширины.",
+      "id": "math-0019",
+      "topic": "geometry",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите длину вектора (3, 0).",
+      "code": null,
+      "options": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "correctIndex": 0,
+      "explanation": "Длина равна √({x}²+0²)={x}.",
+      "id": "math-0020",
+      "topic": "vectors",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите f(4), если f(x)=2x+4.",
+      "code": null,
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ],
+      "correctIndex": 0,
+      "explanation": "Подстановка: 2·4+4=12.",
+      "id": "math-0021",
+      "topic": "functions",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите log₂ 64 + log₃ 243.",
+      "code": null,
+      "options": [
+        "11",
+        "12",
+        "10",
+        "13"
+      ],
+      "correctIndex": 0,
+      "explanation": "Логарифм степени равен показателю; складываем результаты.",
+      "id": "math-0022",
+      "topic": "logarithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 2sin² α + 2cos² α + 4, если sin² α + cos² α=1.",
+      "code": null,
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "correctIndex": 0,
+      "explanation": "Основное тождество даёт sin² α+cos² α=1.",
+      "id": "math-0023",
+      "topic": "trigonometry",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите f′(2), если f(x)=x²+4x.",
+      "code": null,
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "f′(x)=2x+4; при x=2 получаем 8.",
+      "id": "math-0024",
+      "topic": "derivative",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите ∫₀² 4 dx.",
+      "code": null,
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "Интеграл постоянной 4 на отрезке длины 2 равен 2·4.",
+      "id": "math-0025",
+      "topic": "integral",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Решите уравнение 4x = 32.",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Делим обе части на ненулевой коэффициент.",
+      "id": "math-0026",
+      "topic": "equations",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 4-й член прогрессии a₁=2, d=3.",
+      "code": null,
+      "options": [
+        "11",
+        "12",
+        "10",
+        "13"
+      ],
+      "correctIndex": 0,
+      "explanation": "aₙ=a₁+(n−1)d.",
+      "id": "math-0027",
+      "topic": "sequences",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В коробке 2 красных шара и 4 синих. Найдите вероятность выбрать красный шар в процентах, округлив до целого.",
+      "code": null,
+      "options": [
+        "33",
+        "34",
+        "32",
+        "35"
+      ],
+      "correctIndex": 0,
+      "explanation": "Вероятность 2/(4+2); умножаем на 100%.",
+      "id": "math-0028",
+      "topic": "probability",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Площадь прямоугольника со сторонами 4 см и 4 см равна…",
+      "code": null,
+      "options": [
+        "16",
+        "17",
+        "15",
+        "18"
+      ],
+      "correctIndex": 0,
+      "explanation": "Площадь равна произведению длины и ширины.",
+      "id": "math-0029",
+      "topic": "geometry",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите длину вектора (4, 0).",
+      "code": null,
+      "options": [
+        "4",
+        "5",
+        "3",
+        "6"
+      ],
+      "correctIndex": 0,
+      "explanation": "Длина равна √({x}²+0²)={x}.",
+      "id": "math-0030",
+      "topic": "vectors",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите f(5), если f(x)=2x+5.",
+      "code": null,
+      "options": [
+        "15",
+        "16",
+        "14",
+        "17"
+      ],
+      "correctIndex": 0,
+      "explanation": "Подстановка: 2·5+5=15.",
+      "id": "math-0031",
+      "topic": "functions",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите log₂ 128 + log₃ 729.",
+      "code": null,
+      "options": [
+        "13",
+        "14",
+        "12",
+        "15"
+      ],
+      "correctIndex": 0,
+      "explanation": "Логарифм степени равен показателю; складываем результаты.",
+      "id": "math-0032",
+      "topic": "logarithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 2sin² α + 2cos² α + 5, если sin² α + cos² α=1.",
+      "code": null,
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ],
+      "correctIndex": 0,
+      "explanation": "Основное тождество даёт sin² α+cos² α=1.",
+      "id": "math-0033",
+      "topic": "trigonometry",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите f′(2), если f(x)=x²+5x.",
+      "code": null,
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ],
+      "correctIndex": 0,
+      "explanation": "f′(x)=2x+5; при x=2 получаем 9.",
+      "id": "math-0034",
+      "topic": "derivative",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите ∫₀² 5 dx.",
+      "code": null,
+      "options": [
+        "10",
+        "11",
+        "9",
+        "12"
+      ],
+      "correctIndex": 0,
+      "explanation": "Интеграл постоянной 5 на отрезке длины 2 равен 2·5.",
+      "id": "math-0035",
+      "topic": "integral",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Решите уравнение 5x = 50.",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Делим обе части на ненулевой коэффициент.",
+      "id": "math-0036",
+      "topic": "equations",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 5-й член прогрессии a₁=2, d=3.",
+      "code": null,
+      "options": [
+        "14",
+        "15",
+        "13",
+        "16"
+      ],
+      "correctIndex": 0,
+      "explanation": "aₙ=a₁+(n−1)d.",
+      "id": "math-0037",
+      "topic": "sequences",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В коробке 2 красных шара и 5 синих. Найдите вероятность выбрать красный шар в процентах, округлив до целого.",
+      "code": null,
+      "options": [
+        "29",
+        "30",
+        "28",
+        "31"
+      ],
+      "correctIndex": 0,
+      "explanation": "Вероятность 2/(5+2); умножаем на 100%.",
+      "id": "math-0038",
+      "topic": "probability",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Площадь прямоугольника со сторонами 5 см и 4 см равна…",
+      "code": null,
+      "options": [
+        "20",
+        "21",
+        "19",
+        "22"
+      ],
+      "correctIndex": 0,
+      "explanation": "Площадь равна произведению длины и ширины.",
+      "id": "math-0039",
+      "topic": "geometry",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите длину вектора (5, 0).",
+      "code": null,
+      "options": [
+        "5",
+        "6",
+        "4",
+        "7"
+      ],
+      "correctIndex": 0,
+      "explanation": "Длина равна √({x}²+0²)={x}.",
+      "id": "math-0040",
+      "topic": "vectors",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите f(6), если f(x)=2x+6.",
+      "code": null,
+      "options": [
+        "18",
+        "19",
+        "17",
+        "20"
+      ],
+      "correctIndex": 0,
+      "explanation": "Подстановка: 2·6+6=18.",
+      "id": "math-0041",
+      "topic": "functions",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите log₂ 256 + log₃ 2187.",
+      "code": null,
+      "options": [
+        "15",
+        "16",
+        "14",
+        "17"
+      ],
+      "correctIndex": 0,
+      "explanation": "Логарифм степени равен показателю; складываем результаты.",
+      "id": "math-0042",
+      "topic": "logarithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 2sin² α + 2cos² α + 6, если sin² α + cos² α=1.",
+      "code": null,
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "Основное тождество даёт sin² α+cos² α=1.",
+      "id": "math-0043",
+      "topic": "trigonometry",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите f′(2), если f(x)=x²+6x.",
+      "code": null,
+      "options": [
+        "10",
+        "11",
+        "9",
+        "12"
+      ],
+      "correctIndex": 0,
+      "explanation": "f′(x)=2x+6; при x=2 получаем 10.",
+      "id": "math-0044",
+      "topic": "derivative",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите ∫₀² 6 dx.",
+      "code": null,
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ],
+      "correctIndex": 0,
+      "explanation": "Интеграл постоянной 6 на отрезке длины 2 равен 2·6.",
+      "id": "math-0045",
+      "topic": "integral",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Решите уравнение 6x = 72.",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Делим обе части на ненулевой коэффициент.",
+      "id": "math-0046",
+      "topic": "equations",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 6-й член прогрессии a₁=2, d=3.",
+      "code": null,
+      "options": [
+        "17",
+        "18",
+        "16",
+        "19"
+      ],
+      "correctIndex": 0,
+      "explanation": "aₙ=a₁+(n−1)d.",
+      "id": "math-0047",
+      "topic": "sequences",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В коробке 2 красных шара и 6 синих. Найдите вероятность выбрать красный шар в процентах, округлив до целого.",
+      "code": null,
+      "options": [
+        "25",
+        "26",
+        "24",
+        "27"
+      ],
+      "correctIndex": 0,
+      "explanation": "Вероятность 2/(6+2); умножаем на 100%.",
+      "id": "math-0048",
+      "topic": "probability",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Площадь прямоугольника со сторонами 6 см и 4 см равна…",
+      "code": null,
+      "options": [
+        "24",
+        "25",
+        "23",
+        "26"
+      ],
+      "correctIndex": 0,
+      "explanation": "Площадь равна произведению длины и ширины.",
+      "id": "math-0049",
+      "topic": "geometry",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите длину вектора (6, 0).",
+      "code": null,
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "correctIndex": 0,
+      "explanation": "Длина равна √({x}²+0²)={x}.",
+      "id": "math-0050",
+      "topic": "vectors",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите f(7), если f(x)=2x+7.",
+      "code": null,
+      "options": [
+        "21",
+        "22",
+        "20",
+        "23"
+      ],
+      "correctIndex": 0,
+      "explanation": "Подстановка: 2·7+7=21.",
+      "id": "math-0051",
+      "topic": "functions",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите log₂ 512 + log₃ 6561.",
+      "code": null,
+      "options": [
+        "17",
+        "18",
+        "16",
+        "19"
+      ],
+      "correctIndex": 0,
+      "explanation": "Логарифм степени равен показателю; складываем результаты.",
+      "id": "math-0052",
+      "topic": "logarithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 2sin² α + 2cos² α + 7, если sin² α + cos² α=1.",
+      "code": null,
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ],
+      "correctIndex": 0,
+      "explanation": "Основное тождество даёт sin² α+cos² α=1.",
+      "id": "math-0053",
+      "topic": "trigonometry",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите f′(2), если f(x)=x²+7x.",
+      "code": null,
+      "options": [
+        "11",
+        "12",
+        "10",
+        "13"
+      ],
+      "correctIndex": 0,
+      "explanation": "f′(x)=2x+7; при x=2 получаем 11.",
+      "id": "math-0054",
+      "topic": "derivative",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите ∫₀² 7 dx.",
+      "code": null,
+      "options": [
+        "14",
+        "15",
+        "13",
+        "16"
+      ],
+      "correctIndex": 0,
+      "explanation": "Интеграл постоянной 7 на отрезке длины 2 равен 2·7.",
+      "id": "math-0055",
+      "topic": "integral",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Решите уравнение 7x = 98.",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Делим обе части на ненулевой коэффициент.",
+      "id": "math-0056",
+      "topic": "equations",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 7-й член прогрессии a₁=2, d=3.",
+      "code": null,
+      "options": [
+        "20",
+        "21",
+        "19",
+        "22"
+      ],
+      "correctIndex": 0,
+      "explanation": "aₙ=a₁+(n−1)d.",
+      "id": "math-0057",
+      "topic": "sequences",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В коробке 2 красных шара и 7 синих. Найдите вероятность выбрать красный шар в процентах, округлив до целого.",
+      "code": null,
+      "options": [
+        "22",
+        "23",
+        "21",
+        "24"
+      ],
+      "correctIndex": 0,
+      "explanation": "Вероятность 2/(7+2); умножаем на 100%.",
+      "id": "math-0058",
+      "topic": "probability",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Площадь прямоугольника со сторонами 7 см и 4 см равна…",
+      "code": null,
+      "options": [
+        "28",
+        "29",
+        "27",
+        "30"
+      ],
+      "correctIndex": 0,
+      "explanation": "Площадь равна произведению длины и ширины.",
+      "id": "math-0059",
+      "topic": "geometry",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите длину вектора (7, 0).",
+      "code": null,
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ],
+      "correctIndex": 0,
+      "explanation": "Длина равна √({x}²+0²)={x}.",
+      "id": "math-0060",
+      "topic": "vectors",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите f(8), если f(x)=2x+8.",
+      "code": null,
+      "options": [
+        "24",
+        "25",
+        "23",
+        "26"
+      ],
+      "correctIndex": 0,
+      "explanation": "Подстановка: 2·8+8=24.",
+      "id": "math-0061",
+      "topic": "functions",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите log₂ 1024 + log₃ 19683.",
+      "code": null,
+      "options": [
+        "19",
+        "20",
+        "18",
+        "21"
+      ],
+      "correctIndex": 0,
+      "explanation": "Логарифм степени равен показателю; складываем результаты.",
+      "id": "math-0062",
+      "topic": "logarithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 2sin² α + 2cos² α + 8, если sin² α + cos² α=1.",
+      "code": null,
+      "options": [
+        "10",
+        "11",
+        "9",
+        "12"
+      ],
+      "correctIndex": 0,
+      "explanation": "Основное тождество даёт sin² α+cos² α=1.",
+      "id": "math-0063",
+      "topic": "trigonometry",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите f′(2), если f(x)=x²+8x.",
+      "code": null,
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ],
+      "correctIndex": 0,
+      "explanation": "f′(x)=2x+8; при x=2 получаем 12.",
+      "id": "math-0064",
+      "topic": "derivative",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите ∫₀² 8 dx.",
+      "code": null,
+      "options": [
+        "16",
+        "17",
+        "15",
+        "18"
+      ],
+      "correctIndex": 0,
+      "explanation": "Интеграл постоянной 8 на отрезке длины 2 равен 2·8.",
+      "id": "math-0065",
+      "topic": "integral",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Решите уравнение 8x = 128.",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Делим обе части на ненулевой коэффициент.",
+      "id": "math-0066",
+      "topic": "equations",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 8-й член прогрессии a₁=2, d=3.",
+      "code": null,
+      "options": [
+        "23",
+        "24",
+        "22",
+        "25"
+      ],
+      "correctIndex": 0,
+      "explanation": "aₙ=a₁+(n−1)d.",
+      "id": "math-0067",
+      "topic": "sequences",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В коробке 2 красных шара и 8 синих. Найдите вероятность выбрать красный шар в процентах, округлив до целого.",
+      "code": null,
+      "options": [
+        "20",
+        "21",
+        "19",
+        "22"
+      ],
+      "correctIndex": 0,
+      "explanation": "Вероятность 2/(8+2); умножаем на 100%.",
+      "id": "math-0068",
+      "topic": "probability",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Площадь прямоугольника со сторонами 8 см и 4 см равна…",
+      "code": null,
+      "options": [
+        "32",
+        "33",
+        "31",
+        "34"
+      ],
+      "correctIndex": 0,
+      "explanation": "Площадь равна произведению длины и ширины.",
+      "id": "math-0069",
+      "topic": "geometry",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите длину вектора (8, 0).",
+      "code": null,
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "Длина равна √({x}²+0²)={x}.",
+      "id": "math-0070",
+      "topic": "vectors",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите f(9), если f(x)=2x+9.",
+      "code": null,
+      "options": [
+        "27",
+        "28",
+        "26",
+        "29"
+      ],
+      "correctIndex": 0,
+      "explanation": "Подстановка: 2·9+9=27.",
+      "id": "math-0071",
+      "topic": "functions",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите log₂ 2048 + log₃ 59049.",
+      "code": null,
+      "options": [
+        "21",
+        "22",
+        "20",
+        "23"
+      ],
+      "correctIndex": 0,
+      "explanation": "Логарифм степени равен показателю; складываем результаты.",
+      "id": "math-0072",
+      "topic": "logarithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 2sin² α + 2cos² α + 9, если sin² α + cos² α=1.",
+      "code": null,
+      "options": [
+        "11",
+        "12",
+        "10",
+        "13"
+      ],
+      "correctIndex": 0,
+      "explanation": "Основное тождество даёт sin² α+cos² α=1.",
+      "id": "math-0073",
+      "topic": "trigonometry",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите f′(2), если f(x)=x²+9x.",
+      "code": null,
+      "options": [
+        "13",
+        "14",
+        "12",
+        "15"
+      ],
+      "correctIndex": 0,
+      "explanation": "f′(x)=2x+9; при x=2 получаем 13.",
+      "id": "math-0074",
+      "topic": "derivative",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите ∫₀² 9 dx.",
+      "code": null,
+      "options": [
+        "18",
+        "19",
+        "17",
+        "20"
+      ],
+      "correctIndex": 0,
+      "explanation": "Интеграл постоянной 9 на отрезке длины 2 равен 2·9.",
+      "id": "math-0075",
+      "topic": "integral",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Решите уравнение 9x = 162.",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Делим обе части на ненулевой коэффициент.",
+      "id": "math-0076",
+      "topic": "equations",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 9-й член прогрессии a₁=2, d=3.",
+      "code": null,
+      "options": [
+        "26",
+        "27",
+        "25",
+        "28"
+      ],
+      "correctIndex": 0,
+      "explanation": "aₙ=a₁+(n−1)d.",
+      "id": "math-0077",
+      "topic": "sequences",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В коробке 2 красных шара и 9 синих. Найдите вероятность выбрать красный шар в процентах, округлив до целого.",
+      "code": null,
+      "options": [
+        "18",
+        "19",
+        "17",
+        "20"
+      ],
+      "correctIndex": 0,
+      "explanation": "Вероятность 2/(9+2); умножаем на 100%.",
+      "id": "math-0078",
+      "topic": "probability",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Площадь прямоугольника со сторонами 9 см и 4 см равна…",
+      "code": null,
+      "options": [
+        "36",
+        "37",
+        "35",
+        "38"
+      ],
+      "correctIndex": 0,
+      "explanation": "Площадь равна произведению длины и ширины.",
+      "id": "math-0079",
+      "topic": "geometry",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите длину вектора (9, 0).",
+      "code": null,
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ],
+      "correctIndex": 0,
+      "explanation": "Длина равна √({x}²+0²)={x}.",
+      "id": "math-0080",
+      "topic": "vectors",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите f(10), если f(x)=2x+10.",
+      "code": null,
+      "options": [
+        "30",
+        "31",
+        "29",
+        "32"
+      ],
+      "correctIndex": 0,
+      "explanation": "Подстановка: 2·10+10=30.",
+      "id": "math-0081",
+      "topic": "functions",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите log₂ 4096 + log₃ 177147.",
+      "code": null,
+      "options": [
+        "23",
+        "24",
+        "22",
+        "25"
+      ],
+      "correctIndex": 0,
+      "explanation": "Логарифм степени равен показателю; складываем результаты.",
+      "id": "math-0082",
+      "topic": "logarithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 2sin² α + 2cos² α + 10, если sin² α + cos² α=1.",
+      "code": null,
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ],
+      "correctIndex": 0,
+      "explanation": "Основное тождество даёт sin² α+cos² α=1.",
+      "id": "math-0083",
+      "topic": "trigonometry",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите f′(2), если f(x)=x²+10x.",
+      "code": null,
+      "options": [
+        "14",
+        "15",
+        "13",
+        "16"
+      ],
+      "correctIndex": 0,
+      "explanation": "f′(x)=2x+10; при x=2 получаем 14.",
+      "id": "math-0084",
+      "topic": "derivative",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите ∫₀² 10 dx.",
+      "code": null,
+      "options": [
+        "20",
+        "21",
+        "19",
+        "22"
+      ],
+      "correctIndex": 0,
+      "explanation": "Интеграл постоянной 10 на отрезке длины 2 равен 2·10.",
+      "id": "math-0085",
+      "topic": "integral",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Решите уравнение 10x = 200.",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Делим обе части на ненулевой коэффициент.",
+      "id": "math-0086",
+      "topic": "equations",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 10-й член прогрессии a₁=2, d=3.",
+      "code": null,
+      "options": [
+        "29",
+        "30",
+        "28",
+        "31"
+      ],
+      "correctIndex": 0,
+      "explanation": "aₙ=a₁+(n−1)d.",
+      "id": "math-0087",
+      "topic": "sequences",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В коробке 2 красных шара и 10 синих. Найдите вероятность выбрать красный шар в процентах, округлив до целого.",
+      "code": null,
+      "options": [
+        "17",
+        "18",
+        "16",
+        "19"
+      ],
+      "correctIndex": 0,
+      "explanation": "Вероятность 2/(10+2); умножаем на 100%.",
+      "id": "math-0088",
+      "topic": "probability",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Площадь прямоугольника со сторонами 10 см и 4 см равна…",
+      "code": null,
+      "options": [
+        "40",
+        "41",
+        "39",
+        "42"
+      ],
+      "correctIndex": 0,
+      "explanation": "Площадь равна произведению длины и ширины.",
+      "id": "math-0089",
+      "topic": "geometry",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите длину вектора (10, 0).",
+      "code": null,
+      "options": [
+        "10",
+        "11",
+        "9",
+        "12"
+      ],
+      "correctIndex": 0,
+      "explanation": "Длина равна √({x}²+0²)={x}.",
+      "id": "math-0090",
+      "topic": "vectors",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите f(11), если f(x)=2x+11.",
+      "code": null,
+      "options": [
+        "33",
+        "34",
+        "32",
+        "35"
+      ],
+      "correctIndex": 0,
+      "explanation": "Подстановка: 2·11+11=33.",
+      "id": "math-0091",
+      "topic": "functions",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите log₂ 8192 + log₃ 531441.",
+      "code": null,
+      "options": [
+        "25",
+        "26",
+        "24",
+        "27"
+      ],
+      "correctIndex": 0,
+      "explanation": "Логарифм степени равен показателю; складываем результаты.",
+      "id": "math-0092",
+      "topic": "logarithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 2sin² α + 2cos² α + 11, если sin² α + cos² α=1.",
+      "code": null,
+      "options": [
+        "13",
+        "14",
+        "12",
+        "15"
+      ],
+      "correctIndex": 0,
+      "explanation": "Основное тождество даёт sin² α+cos² α=1.",
+      "id": "math-0093",
+      "topic": "trigonometry",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите f′(2), если f(x)=x²+11x.",
+      "code": null,
+      "options": [
+        "15",
+        "16",
+        "14",
+        "17"
+      ],
+      "correctIndex": 0,
+      "explanation": "f′(x)=2x+11; при x=2 получаем 15.",
+      "id": "math-0094",
+      "topic": "derivative",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите ∫₀² 11 dx.",
+      "code": null,
+      "options": [
+        "22",
+        "23",
+        "21",
+        "24"
+      ],
+      "correctIndex": 0,
+      "explanation": "Интеграл постоянной 11 на отрезке длины 2 равен 2·11.",
+      "id": "math-0095",
+      "topic": "integral",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Решите уравнение 11x = 242.",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Делим обе части на ненулевой коэффициент.",
+      "id": "math-0096",
+      "topic": "equations",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 11-й член прогрессии a₁=2, d=3.",
+      "code": null,
+      "options": [
+        "32",
+        "33",
+        "31",
+        "34"
+      ],
+      "correctIndex": 0,
+      "explanation": "aₙ=a₁+(n−1)d.",
+      "id": "math-0097",
+      "topic": "sequences",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В коробке 2 красных шара и 11 синих. Найдите вероятность выбрать красный шар в процентах, округлив до целого.",
+      "code": null,
+      "options": [
+        "15",
+        "16",
+        "14",
+        "17"
+      ],
+      "correctIndex": 0,
+      "explanation": "Вероятность 2/(11+2); умножаем на 100%.",
+      "id": "math-0098",
+      "topic": "probability",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Площадь прямоугольника со сторонами 11 см и 4 см равна…",
+      "code": null,
+      "options": [
+        "44",
+        "45",
+        "43",
+        "46"
+      ],
+      "correctIndex": 0,
+      "explanation": "Площадь равна произведению длины и ширины.",
+      "id": "math-0099",
+      "topic": "geometry",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите длину вектора (11, 0).",
+      "code": null,
+      "options": [
+        "11",
+        "12",
+        "10",
+        "13"
+      ],
+      "correctIndex": 0,
+      "explanation": "Длина равна √({x}²+0²)={x}.",
+      "id": "math-0100",
+      "topic": "vectors",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите f(12), если f(x)=2x+12.",
+      "code": null,
+      "options": [
+        "36",
+        "37",
+        "35",
+        "38"
+      ],
+      "correctIndex": 0,
+      "explanation": "Подстановка: 2·12+12=36.",
+      "id": "math-0101",
+      "topic": "functions",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите log₂ 16384 + log₃ 1594323.",
+      "code": null,
+      "options": [
+        "27",
+        "28",
+        "26",
+        "29"
+      ],
+      "correctIndex": 0,
+      "explanation": "Логарифм степени равен показателю; складываем результаты.",
+      "id": "math-0102",
+      "topic": "logarithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 2sin² α + 2cos² α + 12, если sin² α + cos² α=1.",
+      "code": null,
+      "options": [
+        "14",
+        "15",
+        "13",
+        "16"
+      ],
+      "correctIndex": 0,
+      "explanation": "Основное тождество даёт sin² α+cos² α=1.",
+      "id": "math-0103",
+      "topic": "trigonometry",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите f′(2), если f(x)=x²+12x.",
+      "code": null,
+      "options": [
+        "16",
+        "17",
+        "15",
+        "18"
+      ],
+      "correctIndex": 0,
+      "explanation": "f′(x)=2x+12; при x=2 получаем 16.",
+      "id": "math-0104",
+      "topic": "derivative",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите ∫₀² 12 dx.",
+      "code": null,
+      "options": [
+        "24",
+        "25",
+        "23",
+        "26"
+      ],
+      "correctIndex": 0,
+      "explanation": "Интеграл постоянной 12 на отрезке длины 2 равен 2·12.",
+      "id": "math-0105",
+      "topic": "integral",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Решите уравнение 12x = 288.",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Делим обе части на ненулевой коэффициент.",
+      "id": "math-0106",
+      "topic": "equations",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 12-й член прогрессии a₁=2, d=3.",
+      "code": null,
+      "options": [
+        "35",
+        "36",
+        "34",
+        "37"
+      ],
+      "correctIndex": 0,
+      "explanation": "aₙ=a₁+(n−1)d.",
+      "id": "math-0107",
+      "topic": "sequences",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В коробке 2 красных шара и 12 синих. Найдите вероятность выбрать красный шар в процентах, округлив до целого.",
+      "code": null,
+      "options": [
+        "14",
+        "15",
+        "13",
+        "16"
+      ],
+      "correctIndex": 0,
+      "explanation": "Вероятность 2/(12+2); умножаем на 100%.",
+      "id": "math-0108",
+      "topic": "probability",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Площадь прямоугольника со сторонами 12 см и 4 см равна…",
+      "code": null,
+      "options": [
+        "48",
+        "49",
+        "47",
+        "50"
+      ],
+      "correctIndex": 0,
+      "explanation": "Площадь равна произведению длины и ширины.",
+      "id": "math-0109",
+      "topic": "geometry",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите длину вектора (12, 0).",
+      "code": null,
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ],
+      "correctIndex": 0,
+      "explanation": "Длина равна √({x}²+0²)={x}.",
+      "id": "math-0110",
+      "topic": "vectors",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите f(13), если f(x)=2x+13.",
+      "code": null,
+      "options": [
+        "39",
+        "40",
+        "38",
+        "41"
+      ],
+      "correctIndex": 0,
+      "explanation": "Подстановка: 2·13+13=39.",
+      "id": "math-0111",
+      "topic": "functions",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите log₂ 32768 + log₃ 4782969.",
+      "code": null,
+      "options": [
+        "29",
+        "30",
+        "28",
+        "31"
+      ],
+      "correctIndex": 0,
+      "explanation": "Логарифм степени равен показателю; складываем результаты.",
+      "id": "math-0112",
+      "topic": "logarithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 2sin² α + 2cos² α + 13, если sin² α + cos² α=1.",
+      "code": null,
+      "options": [
+        "15",
+        "16",
+        "14",
+        "17"
+      ],
+      "correctIndex": 0,
+      "explanation": "Основное тождество даёт sin² α+cos² α=1.",
+      "id": "math-0113",
+      "topic": "trigonometry",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите f′(2), если f(x)=x²+13x.",
+      "code": null,
+      "options": [
+        "17",
+        "18",
+        "16",
+        "19"
+      ],
+      "correctIndex": 0,
+      "explanation": "f′(x)=2x+13; при x=2 получаем 17.",
+      "id": "math-0114",
+      "topic": "derivative",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите ∫₀² 13 dx.",
+      "code": null,
+      "options": [
+        "26",
+        "27",
+        "25",
+        "28"
+      ],
+      "correctIndex": 0,
+      "explanation": "Интеграл постоянной 13 на отрезке длины 2 равен 2·13.",
+      "id": "math-0115",
+      "topic": "integral",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Решите уравнение 13x = 338.",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Делим обе части на ненулевой коэффициент.",
+      "id": "math-0116",
+      "topic": "equations",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 13-й член прогрессии a₁=2, d=3.",
+      "code": null,
+      "options": [
+        "38",
+        "39",
+        "37",
+        "40"
+      ],
+      "correctIndex": 0,
+      "explanation": "aₙ=a₁+(n−1)d.",
+      "id": "math-0117",
+      "topic": "sequences",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В коробке 2 красных шара и 13 синих. Найдите вероятность выбрать красный шар в процентах, округлив до целого.",
+      "code": null,
+      "options": [
+        "13",
+        "14",
+        "12",
+        "15"
+      ],
+      "correctIndex": 0,
+      "explanation": "Вероятность 2/(13+2); умножаем на 100%.",
+      "id": "math-0118",
+      "topic": "probability",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Площадь прямоугольника со сторонами 13 см и 4 см равна…",
+      "code": null,
+      "options": [
+        "52",
+        "53",
+        "51",
+        "54"
+      ],
+      "correctIndex": 0,
+      "explanation": "Площадь равна произведению длины и ширины.",
+      "id": "math-0119",
+      "topic": "geometry",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите длину вектора (13, 0).",
+      "code": null,
+      "options": [
+        "13",
+        "14",
+        "12",
+        "15"
+      ],
+      "correctIndex": 0,
+      "explanation": "Длина равна √({x}²+0²)={x}.",
+      "id": "math-0120",
+      "topic": "vectors",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите f(14), если f(x)=2x+14.",
+      "code": null,
+      "options": [
+        "42",
+        "43",
+        "41",
+        "44"
+      ],
+      "correctIndex": 0,
+      "explanation": "Подстановка: 2·14+14=42.",
+      "id": "math-0121",
+      "topic": "functions",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите log₂ 65536 + log₃ 14348907.",
+      "code": null,
+      "options": [
+        "31",
+        "32",
+        "30",
+        "33"
+      ],
+      "correctIndex": 0,
+      "explanation": "Логарифм степени равен показателю; складываем результаты.",
+      "id": "math-0122",
+      "topic": "logarithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 2sin² α + 2cos² α + 14, если sin² α + cos² α=1.",
+      "code": null,
+      "options": [
+        "16",
+        "17",
+        "15",
+        "18"
+      ],
+      "correctIndex": 0,
+      "explanation": "Основное тождество даёт sin² α+cos² α=1.",
+      "id": "math-0123",
+      "topic": "trigonometry",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите f′(2), если f(x)=x²+14x.",
+      "code": null,
+      "options": [
+        "18",
+        "19",
+        "17",
+        "20"
+      ],
+      "correctIndex": 0,
+      "explanation": "f′(x)=2x+14; при x=2 получаем 18.",
+      "id": "math-0124",
+      "topic": "derivative",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите ∫₀² 14 dx.",
+      "code": null,
+      "options": [
+        "28",
+        "29",
+        "27",
+        "30"
+      ],
+      "correctIndex": 0,
+      "explanation": "Интеграл постоянной 14 на отрезке длины 2 равен 2·14.",
+      "id": "math-0125",
+      "topic": "integral",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Решите уравнение 14x = 392.",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Делим обе части на ненулевой коэффициент.",
+      "id": "math-0126",
+      "topic": "equations",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 14-й член прогрессии a₁=2, d=3.",
+      "code": null,
+      "options": [
+        "41",
+        "42",
+        "40",
+        "43"
+      ],
+      "correctIndex": 0,
+      "explanation": "aₙ=a₁+(n−1)d.",
+      "id": "math-0127",
+      "topic": "sequences",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В коробке 2 красных шара и 14 синих. Найдите вероятность выбрать красный шар в процентах, округлив до целого.",
+      "code": null,
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ],
+      "correctIndex": 0,
+      "explanation": "Вероятность 2/(14+2); умножаем на 100%.",
+      "id": "math-0128",
+      "topic": "probability",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Площадь прямоугольника со сторонами 14 см и 4 см равна…",
+      "code": null,
+      "options": [
+        "56",
+        "57",
+        "55",
+        "58"
+      ],
+      "correctIndex": 0,
+      "explanation": "Площадь равна произведению длины и ширины.",
+      "id": "math-0129",
+      "topic": "geometry",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите длину вектора (14, 0).",
+      "code": null,
+      "options": [
+        "14",
+        "15",
+        "13",
+        "16"
+      ],
+      "correctIndex": 0,
+      "explanation": "Длина равна √({x}²+0²)={x}.",
+      "id": "math-0130",
+      "topic": "vectors",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите f(15), если f(x)=2x+15.",
+      "code": null,
+      "options": [
+        "45",
+        "46",
+        "44",
+        "47"
+      ],
+      "correctIndex": 0,
+      "explanation": "Подстановка: 2·15+15=45.",
+      "id": "math-0131",
+      "topic": "functions",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите log₂ 131072 + log₃ 43046721.",
+      "code": null,
+      "options": [
+        "33",
+        "34",
+        "32",
+        "35"
+      ],
+      "correctIndex": 0,
+      "explanation": "Логарифм степени равен показателю; складываем результаты.",
+      "id": "math-0132",
+      "topic": "logarithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 2sin² α + 2cos² α + 15, если sin² α + cos² α=1.",
+      "code": null,
+      "options": [
+        "17",
+        "18",
+        "16",
+        "19"
+      ],
+      "correctIndex": 0,
+      "explanation": "Основное тождество даёт sin² α+cos² α=1.",
+      "id": "math-0133",
+      "topic": "trigonometry",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите f′(2), если f(x)=x²+15x.",
+      "code": null,
+      "options": [
+        "19",
+        "20",
+        "18",
+        "21"
+      ],
+      "correctIndex": 0,
+      "explanation": "f′(x)=2x+15; при x=2 получаем 19.",
+      "id": "math-0134",
+      "topic": "derivative",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите ∫₀² 15 dx.",
+      "code": null,
+      "options": [
+        "30",
+        "31",
+        "29",
+        "32"
+      ],
+      "correctIndex": 0,
+      "explanation": "Интеграл постоянной 15 на отрезке длины 2 равен 2·15.",
+      "id": "math-0135",
+      "topic": "integral",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Решите уравнение 15x = 450.",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Делим обе части на ненулевой коэффициент.",
+      "id": "math-0136",
+      "topic": "equations",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 15-й член прогрессии a₁=2, d=3.",
+      "code": null,
+      "options": [
+        "44",
+        "45",
+        "43",
+        "46"
+      ],
+      "correctIndex": 0,
+      "explanation": "aₙ=a₁+(n−1)d.",
+      "id": "math-0137",
+      "topic": "sequences",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В коробке 2 красных шара и 15 синих. Найдите вероятность выбрать красный шар в процентах, округлив до целого.",
+      "code": null,
+      "options": [
+        "12",
+        "13",
+        "11",
+        "14"
+      ],
+      "correctIndex": 0,
+      "explanation": "Вероятность 2/(15+2); умножаем на 100%.",
+      "id": "math-0138",
+      "topic": "probability",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Площадь прямоугольника со сторонами 15 см и 4 см равна…",
+      "code": null,
+      "options": [
+        "60",
+        "61",
+        "59",
+        "62"
+      ],
+      "correctIndex": 0,
+      "explanation": "Площадь равна произведению длины и ширины.",
+      "id": "math-0139",
+      "topic": "geometry",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите длину вектора (15, 0).",
+      "code": null,
+      "options": [
+        "15",
+        "16",
+        "14",
+        "17"
+      ],
+      "correctIndex": 0,
+      "explanation": "Длина равна √({x}²+0²)={x}.",
+      "id": "math-0140",
+      "topic": "vectors",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите f(16), если f(x)=2x+16.",
+      "code": null,
+      "options": [
+        "48",
+        "49",
+        "47",
+        "50"
+      ],
+      "correctIndex": 0,
+      "explanation": "Подстановка: 2·16+16=48.",
+      "id": "math-0141",
+      "topic": "functions",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите log₂ 262144 + log₃ 129140163.",
+      "code": null,
+      "options": [
+        "35",
+        "36",
+        "34",
+        "37"
+      ],
+      "correctIndex": 0,
+      "explanation": "Логарифм степени равен показателю; складываем результаты.",
+      "id": "math-0142",
+      "topic": "logarithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 2sin² α + 2cos² α + 16, если sin² α + cos² α=1.",
+      "code": null,
+      "options": [
+        "18",
+        "19",
+        "17",
+        "20"
+      ],
+      "correctIndex": 0,
+      "explanation": "Основное тождество даёт sin² α+cos² α=1.",
+      "id": "math-0143",
+      "topic": "trigonometry",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите f′(2), если f(x)=x²+16x.",
+      "code": null,
+      "options": [
+        "20",
+        "21",
+        "19",
+        "22"
+      ],
+      "correctIndex": 0,
+      "explanation": "f′(x)=2x+16; при x=2 получаем 20.",
+      "id": "math-0144",
+      "topic": "derivative",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите ∫₀² 16 dx.",
+      "code": null,
+      "options": [
+        "32",
+        "33",
+        "31",
+        "34"
+      ],
+      "correctIndex": 0,
+      "explanation": "Интеграл постоянной 16 на отрезке длины 2 равен 2·16.",
+      "id": "math-0145",
+      "topic": "integral",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Решите уравнение 16x = 512.",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Делим обе части на ненулевой коэффициент.",
+      "id": "math-0146",
+      "topic": "equations",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 16-й член прогрессии a₁=2, d=3.",
+      "code": null,
+      "options": [
+        "47",
+        "48",
+        "46",
+        "49"
+      ],
+      "correctIndex": 0,
+      "explanation": "aₙ=a₁+(n−1)d.",
+      "id": "math-0147",
+      "topic": "sequences",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В коробке 2 красных шара и 16 синих. Найдите вероятность выбрать красный шар в процентах, округлив до целого.",
+      "code": null,
+      "options": [
+        "11",
+        "12",
+        "10",
+        "13"
+      ],
+      "correctIndex": 0,
+      "explanation": "Вероятность 2/(16+2); умножаем на 100%.",
+      "id": "math-0148",
+      "topic": "probability",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Площадь прямоугольника со сторонами 16 см и 4 см равна…",
+      "code": null,
+      "options": [
+        "64",
+        "65",
+        "63",
+        "66"
+      ],
+      "correctIndex": 0,
+      "explanation": "Площадь равна произведению длины и ширины.",
+      "id": "math-0149",
+      "topic": "geometry",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите длину вектора (16, 0).",
+      "code": null,
+      "options": [
+        "16",
+        "17",
+        "15",
+        "18"
+      ],
+      "correctIndex": 0,
+      "explanation": "Длина равна √({x}²+0²)={x}.",
+      "id": "math-0150",
+      "topic": "vectors",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите f(17), если f(x)=2x+17.",
+      "code": null,
+      "options": [
+        "51",
+        "52",
+        "50",
+        "53"
+      ],
+      "correctIndex": 0,
+      "explanation": "Подстановка: 2·17+17=51.",
+      "id": "math-0151",
+      "topic": "functions",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите log₂ 524288 + log₃ 387420489.",
+      "code": null,
+      "options": [
+        "37",
+        "38",
+        "36",
+        "39"
+      ],
+      "correctIndex": 0,
+      "explanation": "Логарифм степени равен показателю; складываем результаты.",
+      "id": "math-0152",
+      "topic": "logarithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 2sin² α + 2cos² α + 17, если sin² α + cos² α=1.",
+      "code": null,
+      "options": [
+        "19",
+        "20",
+        "18",
+        "21"
+      ],
+      "correctIndex": 0,
+      "explanation": "Основное тождество даёт sin² α+cos² α=1.",
+      "id": "math-0153",
+      "topic": "trigonometry",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите f′(2), если f(x)=x²+17x.",
+      "code": null,
+      "options": [
+        "21",
+        "22",
+        "20",
+        "23"
+      ],
+      "correctIndex": 0,
+      "explanation": "f′(x)=2x+17; при x=2 получаем 21.",
+      "id": "math-0154",
+      "topic": "derivative",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите ∫₀² 17 dx.",
+      "code": null,
+      "options": [
+        "34",
+        "35",
+        "33",
+        "36"
+      ],
+      "correctIndex": 0,
+      "explanation": "Интеграл постоянной 17 на отрезке длины 2 равен 2·17.",
+      "id": "math-0155",
+      "topic": "integral",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Решите уравнение 17x = 578.",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Делим обе части на ненулевой коэффициент.",
+      "id": "math-0156",
+      "topic": "equations",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 17-й член прогрессии a₁=2, d=3.",
+      "code": null,
+      "options": [
+        "50",
+        "51",
+        "49",
+        "52"
+      ],
+      "correctIndex": 0,
+      "explanation": "aₙ=a₁+(n−1)d.",
+      "id": "math-0157",
+      "topic": "sequences",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В коробке 2 красных шара и 17 синих. Найдите вероятность выбрать красный шар в процентах, округлив до целого.",
+      "code": null,
+      "options": [
+        "11",
+        "12",
+        "10",
+        "13"
+      ],
+      "correctIndex": 0,
+      "explanation": "Вероятность 2/(17+2); умножаем на 100%.",
+      "id": "math-0158",
+      "topic": "probability",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Площадь прямоугольника со сторонами 17 см и 4 см равна…",
+      "code": null,
+      "options": [
+        "68",
+        "69",
+        "67",
+        "70"
+      ],
+      "correctIndex": 0,
+      "explanation": "Площадь равна произведению длины и ширины.",
+      "id": "math-0159",
+      "topic": "geometry",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите длину вектора (17, 0).",
+      "code": null,
+      "options": [
+        "17",
+        "18",
+        "16",
+        "19"
+      ],
+      "correctIndex": 0,
+      "explanation": "Длина равна √({x}²+0²)={x}.",
+      "id": "math-0160",
+      "topic": "vectors",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите f(18), если f(x)=2x+18.",
+      "code": null,
+      "options": [
+        "54",
+        "55",
+        "53",
+        "56"
+      ],
+      "correctIndex": 0,
+      "explanation": "Подстановка: 2·18+18=54.",
+      "id": "math-0161",
+      "topic": "functions",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите log₂ 1048576 + log₃ 1162261467.",
+      "code": null,
+      "options": [
+        "39",
+        "40",
+        "38",
+        "41"
+      ],
+      "correctIndex": 0,
+      "explanation": "Логарифм степени равен показателю; складываем результаты.",
+      "id": "math-0162",
+      "topic": "logarithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 2sin² α + 2cos² α + 18, если sin² α + cos² α=1.",
+      "code": null,
+      "options": [
+        "20",
+        "21",
+        "19",
+        "22"
+      ],
+      "correctIndex": 0,
+      "explanation": "Основное тождество даёт sin² α+cos² α=1.",
+      "id": "math-0163",
+      "topic": "trigonometry",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите f′(2), если f(x)=x²+18x.",
+      "code": null,
+      "options": [
+        "22",
+        "23",
+        "21",
+        "24"
+      ],
+      "correctIndex": 0,
+      "explanation": "f′(x)=2x+18; при x=2 получаем 22.",
+      "id": "math-0164",
+      "topic": "derivative",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите ∫₀² 18 dx.",
+      "code": null,
+      "options": [
+        "36",
+        "37",
+        "35",
+        "38"
+      ],
+      "correctIndex": 0,
+      "explanation": "Интеграл постоянной 18 на отрезке длины 2 равен 2·18.",
+      "id": "math-0165",
+      "topic": "integral",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Решите уравнение 18x = 648.",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Делим обе части на ненулевой коэффициент.",
+      "id": "math-0166",
+      "topic": "equations",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 18-й член прогрессии a₁=2, d=3.",
+      "code": null,
+      "options": [
+        "53",
+        "54",
+        "52",
+        "55"
+      ],
+      "correctIndex": 0,
+      "explanation": "aₙ=a₁+(n−1)d.",
+      "id": "math-0167",
+      "topic": "sequences",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В коробке 2 красных шара и 18 синих. Найдите вероятность выбрать красный шар в процентах, округлив до целого.",
+      "code": null,
+      "options": [
+        "10",
+        "11",
+        "9",
+        "12"
+      ],
+      "correctIndex": 0,
+      "explanation": "Вероятность 2/(18+2); умножаем на 100%.",
+      "id": "math-0168",
+      "topic": "probability",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Площадь прямоугольника со сторонами 18 см и 4 см равна…",
+      "code": null,
+      "options": [
+        "72",
+        "73",
+        "71",
+        "74"
+      ],
+      "correctIndex": 0,
+      "explanation": "Площадь равна произведению длины и ширины.",
+      "id": "math-0169",
+      "topic": "geometry",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите длину вектора (18, 0).",
+      "code": null,
+      "options": [
+        "18",
+        "19",
+        "17",
+        "20"
+      ],
+      "correctIndex": 0,
+      "explanation": "Длина равна √({x}²+0²)={x}.",
+      "id": "math-0170",
+      "topic": "vectors",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите f(19), если f(x)=2x+19.",
+      "code": null,
+      "options": [
+        "57",
+        "58",
+        "56",
+        "59"
+      ],
+      "correctIndex": 0,
+      "explanation": "Подстановка: 2·19+19=57.",
+      "id": "math-0171",
+      "topic": "functions",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите log₂ 2097152 + log₃ 3486784401.",
+      "code": null,
+      "options": [
+        "41",
+        "42",
+        "40",
+        "43"
+      ],
+      "correctIndex": 0,
+      "explanation": "Логарифм степени равен показателю; складываем результаты.",
+      "id": "math-0172",
+      "topic": "logarithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 2sin² α + 2cos² α + 19, если sin² α + cos² α=1.",
+      "code": null,
+      "options": [
+        "21",
+        "22",
+        "20",
+        "23"
+      ],
+      "correctIndex": 0,
+      "explanation": "Основное тождество даёт sin² α+cos² α=1.",
+      "id": "math-0173",
+      "topic": "trigonometry",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите f′(2), если f(x)=x²+19x.",
+      "code": null,
+      "options": [
+        "23",
+        "24",
+        "22",
+        "25"
+      ],
+      "correctIndex": 0,
+      "explanation": "f′(x)=2x+19; при x=2 получаем 23.",
+      "id": "math-0174",
+      "topic": "derivative",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите ∫₀² 19 dx.",
+      "code": null,
+      "options": [
+        "38",
+        "39",
+        "37",
+        "40"
+      ],
+      "correctIndex": 0,
+      "explanation": "Интеграл постоянной 19 на отрезке длины 2 равен 2·19.",
+      "id": "math-0175",
+      "topic": "integral",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Решите уравнение 19x = 722.",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Делим обе части на ненулевой коэффициент.",
+      "id": "math-0176",
+      "topic": "equations",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 19-й член прогрессии a₁=2, d=3.",
+      "code": null,
+      "options": [
+        "56",
+        "57",
+        "55",
+        "58"
+      ],
+      "correctIndex": 0,
+      "explanation": "aₙ=a₁+(n−1)d.",
+      "id": "math-0177",
+      "topic": "sequences",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В коробке 2 красных шара и 19 синих. Найдите вероятность выбрать красный шар в процентах, округлив до целого.",
+      "code": null,
+      "options": [
+        "10",
+        "11",
+        "9",
+        "12"
+      ],
+      "correctIndex": 0,
+      "explanation": "Вероятность 2/(19+2); умножаем на 100%.",
+      "id": "math-0178",
+      "topic": "probability",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Площадь прямоугольника со сторонами 19 см и 4 см равна…",
+      "code": null,
+      "options": [
+        "76",
+        "77",
+        "75",
+        "78"
+      ],
+      "correctIndex": 0,
+      "explanation": "Площадь равна произведению длины и ширины.",
+      "id": "math-0179",
+      "topic": "geometry",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите длину вектора (19, 0).",
+      "code": null,
+      "options": [
+        "19",
+        "20",
+        "18",
+        "21"
+      ],
+      "correctIndex": 0,
+      "explanation": "Длина равна √({x}²+0²)={x}.",
+      "id": "math-0180",
+      "topic": "vectors",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите f(20), если f(x)=2x+20.",
+      "code": null,
+      "options": [
+        "60",
+        "61",
+        "59",
+        "62"
+      ],
+      "correctIndex": 0,
+      "explanation": "Подстановка: 2·20+20=60.",
+      "id": "math-0181",
+      "topic": "functions",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите log₂ 4194304 + log₃ 10460353203.",
+      "code": null,
+      "options": [
+        "43",
+        "44",
+        "42",
+        "45"
+      ],
+      "correctIndex": 0,
+      "explanation": "Логарифм степени равен показателю; складываем результаты.",
+      "id": "math-0182",
+      "topic": "logarithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 2sin² α + 2cos² α + 20, если sin² α + cos² α=1.",
+      "code": null,
+      "options": [
+        "22",
+        "23",
+        "21",
+        "24"
+      ],
+      "correctIndex": 0,
+      "explanation": "Основное тождество даёт sin² α+cos² α=1.",
+      "id": "math-0183",
+      "topic": "trigonometry",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите f′(2), если f(x)=x²+20x.",
+      "code": null,
+      "options": [
+        "24",
+        "25",
+        "23",
+        "26"
+      ],
+      "correctIndex": 0,
+      "explanation": "f′(x)=2x+20; при x=2 получаем 24.",
+      "id": "math-0184",
+      "topic": "derivative",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите ∫₀² 20 dx.",
+      "code": null,
+      "options": [
+        "40",
+        "41",
+        "39",
+        "42"
+      ],
+      "correctIndex": 0,
+      "explanation": "Интеграл постоянной 20 на отрезке длины 2 равен 2·20.",
+      "id": "math-0185",
+      "topic": "integral",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Решите уравнение 20x = 800.",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Делим обе части на ненулевой коэффициент.",
+      "id": "math-0186",
+      "topic": "equations",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 20-й член прогрессии a₁=2, d=3.",
+      "code": null,
+      "options": [
+        "59",
+        "60",
+        "58",
+        "61"
+      ],
+      "correctIndex": 0,
+      "explanation": "aₙ=a₁+(n−1)d.",
+      "id": "math-0187",
+      "topic": "sequences",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В коробке 2 красных шара и 20 синих. Найдите вероятность выбрать красный шар в процентах, округлив до целого.",
+      "code": null,
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ],
+      "correctIndex": 0,
+      "explanation": "Вероятность 2/(20+2); умножаем на 100%.",
+      "id": "math-0188",
+      "topic": "probability",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Площадь прямоугольника со сторонами 20 см и 4 см равна…",
+      "code": null,
+      "options": [
+        "80",
+        "81",
+        "79",
+        "82"
+      ],
+      "correctIndex": 0,
+      "explanation": "Площадь равна произведению длины и ширины.",
+      "id": "math-0189",
+      "topic": "geometry",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите длину вектора (20, 0).",
+      "code": null,
+      "options": [
+        "20",
+        "21",
+        "19",
+        "22"
+      ],
+      "correctIndex": 0,
+      "explanation": "Длина равна √({x}²+0²)={x}.",
+      "id": "math-0190",
+      "topic": "vectors",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите f(21), если f(x)=2x+21.",
+      "code": null,
+      "options": [
+        "63",
+        "64",
+        "62",
+        "65"
+      ],
+      "correctIndex": 0,
+      "explanation": "Подстановка: 2·21+21=63.",
+      "id": "math-0191",
+      "topic": "functions",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите log₂ 8388608 + log₃ 31381059609.",
+      "code": null,
+      "options": [
+        "45",
+        "46",
+        "44",
+        "47"
+      ],
+      "correctIndex": 0,
+      "explanation": "Логарифм степени равен показателю; складываем результаты.",
+      "id": "math-0192",
+      "topic": "logarithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 2sin² α + 2cos² α + 21, если sin² α + cos² α=1.",
+      "code": null,
+      "options": [
+        "23",
+        "24",
+        "22",
+        "25"
+      ],
+      "correctIndex": 0,
+      "explanation": "Основное тождество даёт sin² α+cos² α=1.",
+      "id": "math-0193",
+      "topic": "trigonometry",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите f′(2), если f(x)=x²+21x.",
+      "code": null,
+      "options": [
+        "25",
+        "26",
+        "24",
+        "27"
+      ],
+      "correctIndex": 0,
+      "explanation": "f′(x)=2x+21; при x=2 получаем 25.",
+      "id": "math-0194",
+      "topic": "derivative",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите ∫₀² 21 dx.",
+      "code": null,
+      "options": [
+        "42",
+        "43",
+        "41",
+        "44"
+      ],
+      "correctIndex": 0,
+      "explanation": "Интеграл постоянной 21 на отрезке длины 2 равен 2·21.",
+      "id": "math-0195",
+      "topic": "integral",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Решите уравнение 21x = 882.",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Делим обе части на ненулевой коэффициент.",
+      "id": "math-0196",
+      "topic": "equations",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 21-й член прогрессии a₁=2, d=3.",
+      "code": null,
+      "options": [
+        "62",
+        "63",
+        "61",
+        "64"
+      ],
+      "correctIndex": 0,
+      "explanation": "aₙ=a₁+(n−1)d.",
+      "id": "math-0197",
+      "topic": "sequences",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В коробке 2 красных шара и 21 синих. Найдите вероятность выбрать красный шар в процентах, округлив до целого.",
+      "code": null,
+      "options": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ],
+      "correctIndex": 0,
+      "explanation": "Вероятность 2/(21+2); умножаем на 100%.",
+      "id": "math-0198",
+      "topic": "probability",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Площадь прямоугольника со сторонами 21 см и 4 см равна…",
+      "code": null,
+      "options": [
+        "84",
+        "85",
+        "83",
+        "86"
+      ],
+      "correctIndex": 0,
+      "explanation": "Площадь равна произведению длины и ширины.",
+      "id": "math-0199",
+      "topic": "geometry",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите длину вектора (21, 0).",
+      "code": null,
+      "options": [
+        "21",
+        "22",
+        "20",
+        "23"
+      ],
+      "correctIndex": 0,
+      "explanation": "Длина равна √({x}²+0²)={x}.",
+      "id": "math-0200",
+      "topic": "vectors",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите f(22), если f(x)=2x+22.",
+      "code": null,
+      "options": [
+        "66",
+        "67",
+        "65",
+        "68"
+      ],
+      "correctIndex": 0,
+      "explanation": "Подстановка: 2·22+22=66.",
+      "id": "math-0201",
+      "topic": "functions",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите log₂ 16777216 + log₃ 94143178827.",
+      "code": null,
+      "options": [
+        "47",
+        "48",
+        "46",
+        "49"
+      ],
+      "correctIndex": 0,
+      "explanation": "Логарифм степени равен показателю; складываем результаты.",
+      "id": "math-0202",
+      "topic": "logarithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 2sin² α + 2cos² α + 22, если sin² α + cos² α=1.",
+      "code": null,
+      "options": [
+        "24",
+        "25",
+        "23",
+        "26"
+      ],
+      "correctIndex": 0,
+      "explanation": "Основное тождество даёт sin² α+cos² α=1.",
+      "id": "math-0203",
+      "topic": "trigonometry",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите f′(2), если f(x)=x²+22x.",
+      "code": null,
+      "options": [
+        "26",
+        "27",
+        "25",
+        "28"
+      ],
+      "correctIndex": 0,
+      "explanation": "f′(x)=2x+22; при x=2 получаем 26.",
+      "id": "math-0204",
+      "topic": "derivative",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите ∫₀² 22 dx.",
+      "code": null,
+      "options": [
+        "44",
+        "45",
+        "43",
+        "46"
+      ],
+      "correctIndex": 0,
+      "explanation": "Интеграл постоянной 22 на отрезке длины 2 равен 2·22.",
+      "id": "math-0205",
+      "topic": "integral",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Решите уравнение 22x = 968.",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Делим обе части на ненулевой коэффициент.",
+      "id": "math-0206",
+      "topic": "equations",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 22-й член прогрессии a₁=2, d=3.",
+      "code": null,
+      "options": [
+        "65",
+        "66",
+        "64",
+        "67"
+      ],
+      "correctIndex": 0,
+      "explanation": "aₙ=a₁+(n−1)d.",
+      "id": "math-0207",
+      "topic": "sequences",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В коробке 2 красных шара и 22 синих. Найдите вероятность выбрать красный шар в процентах, округлив до целого.",
+      "code": null,
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "Вероятность 2/(22+2); умножаем на 100%.",
+      "id": "math-0208",
+      "topic": "probability",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Площадь прямоугольника со сторонами 22 см и 4 см равна…",
+      "code": null,
+      "options": [
+        "88",
+        "89",
+        "87",
+        "90"
+      ],
+      "correctIndex": 0,
+      "explanation": "Площадь равна произведению длины и ширины.",
+      "id": "math-0209",
+      "topic": "geometry",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите длину вектора (22, 0).",
+      "code": null,
+      "options": [
+        "22",
+        "23",
+        "21",
+        "24"
+      ],
+      "correctIndex": 0,
+      "explanation": "Длина равна √({x}²+0²)={x}.",
+      "id": "math-0210",
+      "topic": "vectors",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите f(23), если f(x)=2x+23.",
+      "code": null,
+      "options": [
+        "69",
+        "70",
+        "68",
+        "71"
+      ],
+      "correctIndex": 0,
+      "explanation": "Подстановка: 2·23+23=69.",
+      "id": "math-0211",
+      "topic": "functions",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите log₂ 33554432 + log₃ 282429536481.",
+      "code": null,
+      "options": [
+        "49",
+        "50",
+        "48",
+        "51"
+      ],
+      "correctIndex": 0,
+      "explanation": "Логарифм степени равен показателю; складываем результаты.",
+      "id": "math-0212",
+      "topic": "logarithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 2sin² α + 2cos² α + 23, если sin² α + cos² α=1.",
+      "code": null,
+      "options": [
+        "25",
+        "26",
+        "24",
+        "27"
+      ],
+      "correctIndex": 0,
+      "explanation": "Основное тождество даёт sin² α+cos² α=1.",
+      "id": "math-0213",
+      "topic": "trigonometry",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите f′(2), если f(x)=x²+23x.",
+      "code": null,
+      "options": [
+        "27",
+        "28",
+        "26",
+        "29"
+      ],
+      "correctIndex": 0,
+      "explanation": "f′(x)=2x+23; при x=2 получаем 27.",
+      "id": "math-0214",
+      "topic": "derivative",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите ∫₀² 23 dx.",
+      "code": null,
+      "options": [
+        "46",
+        "47",
+        "45",
+        "48"
+      ],
+      "correctIndex": 0,
+      "explanation": "Интеграл постоянной 23 на отрезке длины 2 равен 2·23.",
+      "id": "math-0215",
+      "topic": "integral",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Решите уравнение 23x = 1058.",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Делим обе части на ненулевой коэффициент.",
+      "id": "math-0216",
+      "topic": "equations",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 23-й член прогрессии a₁=2, d=3.",
+      "code": null,
+      "options": [
+        "68",
+        "69",
+        "67",
+        "70"
+      ],
+      "correctIndex": 0,
+      "explanation": "aₙ=a₁+(n−1)d.",
+      "id": "math-0217",
+      "topic": "sequences",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В коробке 2 красных шара и 23 синих. Найдите вероятность выбрать красный шар в процентах, округлив до целого.",
+      "code": null,
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "Вероятность 2/(23+2); умножаем на 100%.",
+      "id": "math-0218",
+      "topic": "probability",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Площадь прямоугольника со сторонами 23 см и 4 см равна…",
+      "code": null,
+      "options": [
+        "92",
+        "93",
+        "91",
+        "94"
+      ],
+      "correctIndex": 0,
+      "explanation": "Площадь равна произведению длины и ширины.",
+      "id": "math-0219",
+      "topic": "geometry",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите длину вектора (23, 0).",
+      "code": null,
+      "options": [
+        "23",
+        "24",
+        "22",
+        "25"
+      ],
+      "correctIndex": 0,
+      "explanation": "Длина равна √({x}²+0²)={x}.",
+      "id": "math-0220",
+      "topic": "vectors",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите f(24), если f(x)=2x+24.",
+      "code": null,
+      "options": [
+        "72",
+        "73",
+        "71",
+        "74"
+      ],
+      "correctIndex": 0,
+      "explanation": "Подстановка: 2·24+24=72.",
+      "id": "math-0221",
+      "topic": "functions",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите log₂ 67108864 + log₃ 847288609443.",
+      "code": null,
+      "options": [
+        "51",
+        "52",
+        "50",
+        "53"
+      ],
+      "correctIndex": 0,
+      "explanation": "Логарифм степени равен показателю; складываем результаты.",
+      "id": "math-0222",
+      "topic": "logarithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 2sin² α + 2cos² α + 24, если sin² α + cos² α=1.",
+      "code": null,
+      "options": [
+        "26",
+        "27",
+        "25",
+        "28"
+      ],
+      "correctIndex": 0,
+      "explanation": "Основное тождество даёт sin² α+cos² α=1.",
+      "id": "math-0223",
+      "topic": "trigonometry",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите f′(2), если f(x)=x²+24x.",
+      "code": null,
+      "options": [
+        "28",
+        "29",
+        "27",
+        "30"
+      ],
+      "correctIndex": 0,
+      "explanation": "f′(x)=2x+24; при x=2 получаем 28.",
+      "id": "math-0224",
+      "topic": "derivative",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите ∫₀² 24 dx.",
+      "code": null,
+      "options": [
+        "48",
+        "49",
+        "47",
+        "50"
+      ],
+      "correctIndex": 0,
+      "explanation": "Интеграл постоянной 24 на отрезке длины 2 равен 2·24.",
+      "id": "math-0225",
+      "topic": "integral",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Решите уравнение 24x = 1152.",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Делим обе части на ненулевой коэффициент.",
+      "id": "math-0226",
+      "topic": "equations",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 24-й член прогрессии a₁=2, d=3.",
+      "code": null,
+      "options": [
+        "71",
+        "72",
+        "70",
+        "73"
+      ],
+      "correctIndex": 0,
+      "explanation": "aₙ=a₁+(n−1)d.",
+      "id": "math-0227",
+      "topic": "sequences",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В коробке 2 красных шара и 24 синих. Найдите вероятность выбрать красный шар в процентах, округлив до целого.",
+      "code": null,
+      "options": [
+        "8",
+        "9",
+        "7",
+        "10"
+      ],
+      "correctIndex": 0,
+      "explanation": "Вероятность 2/(24+2); умножаем на 100%.",
+      "id": "math-0228",
+      "topic": "probability",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Площадь прямоугольника со сторонами 24 см и 4 см равна…",
+      "code": null,
+      "options": [
+        "96",
+        "97",
+        "95",
+        "98"
+      ],
+      "correctIndex": 0,
+      "explanation": "Площадь равна произведению длины и ширины.",
+      "id": "math-0229",
+      "topic": "geometry",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите длину вектора (24, 0).",
+      "code": null,
+      "options": [
+        "24",
+        "25",
+        "23",
+        "26"
+      ],
+      "correctIndex": 0,
+      "explanation": "Длина равна √({x}²+0²)={x}.",
+      "id": "math-0230",
+      "topic": "vectors",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите f(25), если f(x)=2x+25.",
+      "code": null,
+      "options": [
+        "75",
+        "76",
+        "74",
+        "77"
+      ],
+      "correctIndex": 0,
+      "explanation": "Подстановка: 2·25+25=75.",
+      "id": "math-0231",
+      "topic": "functions",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите log₂ 134217728 + log₃ 2541865828329.",
+      "code": null,
+      "options": [
+        "53",
+        "54",
+        "52",
+        "55"
+      ],
+      "correctIndex": 0,
+      "explanation": "Логарифм степени равен показателю; складываем результаты.",
+      "id": "math-0232",
+      "topic": "logarithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 2sin² α + 2cos² α + 25, если sin² α + cos² α=1.",
+      "code": null,
+      "options": [
+        "27",
+        "28",
+        "26",
+        "29"
+      ],
+      "correctIndex": 0,
+      "explanation": "Основное тождество даёт sin² α+cos² α=1.",
+      "id": "math-0233",
+      "topic": "trigonometry",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите f′(2), если f(x)=x²+25x.",
+      "code": null,
+      "options": [
+        "29",
+        "30",
+        "28",
+        "31"
+      ],
+      "correctIndex": 0,
+      "explanation": "f′(x)=2x+25; при x=2 получаем 29.",
+      "id": "math-0234",
+      "topic": "derivative",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите ∫₀² 25 dx.",
+      "code": null,
+      "options": [
+        "50",
+        "51",
+        "49",
+        "52"
+      ],
+      "correctIndex": 0,
+      "explanation": "Интеграл постоянной 25 на отрезке длины 2 равен 2·25.",
+      "id": "math-0235",
+      "topic": "integral",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Решите уравнение 25x = 1250.",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Делим обе части на ненулевой коэффициент.",
+      "id": "math-0236",
+      "topic": "equations",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 25-й член прогрессии a₁=2, d=3.",
+      "code": null,
+      "options": [
+        "74",
+        "75",
+        "73",
+        "76"
+      ],
+      "correctIndex": 0,
+      "explanation": "aₙ=a₁+(n−1)d.",
+      "id": "math-0237",
+      "topic": "sequences",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В коробке 2 красных шара и 25 синих. Найдите вероятность выбрать красный шар в процентах, округлив до целого.",
+      "code": null,
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ],
+      "correctIndex": 0,
+      "explanation": "Вероятность 2/(25+2); умножаем на 100%.",
+      "id": "math-0238",
+      "topic": "probability",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Площадь прямоугольника со сторонами 25 см и 4 см равна…",
+      "code": null,
+      "options": [
+        "100",
+        "101",
+        "99",
+        "102"
+      ],
+      "correctIndex": 0,
+      "explanation": "Площадь равна произведению длины и ширины.",
+      "id": "math-0239",
+      "topic": "geometry",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите длину вектора (25, 0).",
+      "code": null,
+      "options": [
+        "25",
+        "26",
+        "24",
+        "27"
+      ],
+      "correctIndex": 0,
+      "explanation": "Длина равна √({x}²+0²)={x}.",
+      "id": "math-0240",
+      "topic": "vectors",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите f(26), если f(x)=2x+26.",
+      "code": null,
+      "options": [
+        "78",
+        "79",
+        "77",
+        "80"
+      ],
+      "correctIndex": 0,
+      "explanation": "Подстановка: 2·26+26=78.",
+      "id": "math-0241",
+      "topic": "functions",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите log₂ 268435456 + log₃ 7625597484987.",
+      "code": null,
+      "options": [
+        "55",
+        "56",
+        "54",
+        "57"
+      ],
+      "correctIndex": 0,
+      "explanation": "Логарифм степени равен показателю; складываем результаты.",
+      "id": "math-0242",
+      "topic": "logarithms",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 2sin² α + 2cos² α + 26, если sin² α + cos² α=1.",
+      "code": null,
+      "options": [
+        "28",
+        "29",
+        "27",
+        "30"
+      ],
+      "correctIndex": 0,
+      "explanation": "Основное тождество даёт sin² α+cos² α=1.",
+      "id": "math-0243",
+      "topic": "trigonometry",
+      "difficulty": 1,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите f′(2), если f(x)=x²+26x.",
+      "code": null,
+      "options": [
+        "30",
+        "31",
+        "29",
+        "32"
+      ],
+      "correctIndex": 0,
+      "explanation": "f′(x)=2x+26; при x=2 получаем 30.",
+      "id": "math-0244",
+      "topic": "derivative",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Вычислите ∫₀² 26 dx.",
+      "code": null,
+      "options": [
+        "52",
+        "53",
+        "51",
+        "54"
+      ],
+      "correctIndex": 0,
+      "explanation": "Интеграл постоянной 26 на отрезке длины 2 равен 2·26.",
+      "id": "math-0245",
+      "topic": "integral",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Решите уравнение 26x = 1352.",
+      "code": null,
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0,
+      "explanation": "Делим обе части на ненулевой коэффициент.",
+      "id": "math-0246",
+      "topic": "equations",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите 26-й член прогрессии a₁=2, d=3.",
+      "code": null,
+      "options": [
+        "77",
+        "78",
+        "76",
+        "79"
+      ],
+      "correctIndex": 0,
+      "explanation": "aₙ=a₁+(n−1)d.",
+      "id": "math-0247",
+      "topic": "sequences",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "В коробке 2 красных шара и 26 синих. Найдите вероятность выбрать красный шар в процентах, округлив до целого.",
+      "code": null,
+      "options": [
+        "7",
+        "8",
+        "6",
+        "9"
+      ],
+      "correctIndex": 0,
+      "explanation": "Вероятность 2/(26+2); умножаем на 100%.",
+      "id": "math-0248",
+      "topic": "probability",
+      "difficulty": 2,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Площадь прямоугольника со сторонами 26 см и 4 см равна…",
+      "code": null,
+      "options": [
+        "104",
+        "105",
+        "103",
+        "106"
+      ],
+      "correctIndex": 0,
+      "explanation": "Площадь равна произведению длины и ширины.",
+      "id": "math-0249",
+      "topic": "geometry",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    },
+    {
+      "text": "Найдите длину вектора (26, 0).",
+      "code": null,
+      "options": [
+        "26",
+        "27",
+        "25",
+        "28"
+      ],
+      "correctIndex": 0,
+      "explanation": "Длина равна √({x}²+0²)={x}.",
+      "id": "math-0250",
+      "topic": "vectors",
+      "difficulty": 3,
+      "source": "original",
+      "sourceNote": null
+    }
+  ]
+}
